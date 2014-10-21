@@ -1,25 +1,35 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="PostPrice.aspx.cs" Inherits="GassBuddy.Web.App_Features.PostPrice" %>
+﻿<%@ Page Language="C#"
+    MasterPageFile="~/Site.Master"
+    AutoEventWireup="true"
+    CodeBehind="PostPrice.aspx.cs"
+    Inherits="GassBuddy.Web.App_Features.PostPrice1" %>
 
-<!DOCTYPE html>
+<asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head runat="server">
-    <title></title>
-</head>
-<body>
-    <form id="form1" runat="server">        
-    <div>
-        <asp:Label ClientIDMode="Static" ID="LabelCoords" runat="server" Text="Label"></asp:Label>
-        <asp:TextBox ID="TextBox1" OnTextChanged="TextBox1_TextChanged" runat="server"></asp:TextBox>
+    <h2>Hello <%# this.User.Identity.Name %> </h2>
+    <h3>Post your price for <%#: this.currentGasStation.Name %></h3>
+
+    <div class="form-horizontal">
+        <div class="form-group">
+            <asp:Label ID="LabelDieselPrice" runat="server" CssClass="col-md-2 control-label" Text="Diesel Price"></asp:Label>
+            <asp:TextBox ID="TextBoxDieselPrice" CssClass="form-control" runat="server"></asp:TextBox>
+        </div>
+
+        <div class="form-group">
+            <asp:Label ID="LabelPetrolPrice" runat="server" CssClass="col-md-2 control-label" Text="Petrol Price"></asp:Label>
+            <asp:TextBox ID="TextBoxPetrolPrice" CssClass="form-control" runat="server"></asp:TextBox>
+        </div>
+
+        <div class="form-group">
+            <asp:Label ID="LabelLpgPrice" runat="server" CssClass="col-md-2 control-label" Text="LPG Price"></asp:Label>
+            <asp:TextBox ID="TextBoxLpgPrice" CssClass="form-control" runat="server"></asp:TextBox>
+        </div>
+        <div class="form-group">
+             <div class="col-md-offset-2 col-md-10">
+                <asp:Button ID="ButtonSubmitPrice" runat="server" OnClick="ButtonSubmitPrice_Click" Text="Post Prices" CssClass="btn btn-info" />
+            </div>
+        </div>
     </div>
-        <script type="text/javascript">
-            navigator.geolocation.getCurrentPosition(function (data) {
-                document.getElementById("TextBox1").value = data.coords.latitude + ", " + data.coords.longitude;
-            console.log(data.coords);
-            }, function (err) {
 
-            }) 
-        </script>
-    </form>
-</body>
-</html>
+</asp:Content>
+

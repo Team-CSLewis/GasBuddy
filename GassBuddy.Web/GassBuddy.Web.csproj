@@ -155,6 +155,7 @@
     <Content Include="Account\RegisterExternalLogin.aspx" />
     <Content Include="Account\ResetPassword.aspx" />
     <Content Include="Account\ResetPasswordConfirmation.aspx" />
+    <Content Include="App_Features\FindGasStation.aspx" />
     <Content Include="App_Features\PostPrice.aspx" />
     <Content Include="Contact.aspx" />
     <Content Include="Content\bootstrap.css" />
@@ -278,6 +279,13 @@
     </Compile>
     <Compile Include="Account\ResetPasswordConfirmation.aspx.designer.cs">
       <DependentUpon>ResetPasswordConfirmation.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="App_Features\FindGasStation.aspx.cs">
+      <DependentUpon>FindGasStation.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="App_Features\FindGasStation.aspx.designer.cs">
+      <DependentUpon>FindGasStation.aspx</DependentUpon>
     </Compile>
     <Compile Include="App_Features\PostPrice.aspx.cs">
       <DependentUpon>PostPrice.aspx</DependentUpon>

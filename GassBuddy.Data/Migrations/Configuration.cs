@@ -18,6 +18,10 @@ namespace GassBuddy.Data.Migrations
 
         protected override void Seed(GasBuddyDbContext context)
         {
+            if (context.GasStations.Count() != 0)
+            {
+                return;
+            }
             var xmlReader = new XMLGasStationReader();
             var rootPath = HostingEnvironment.MapPath("~/");
 

@@ -15,6 +15,8 @@
 
         public string Address { get; set; }
 
+        public string City { get; set; }
+
         public int ChainId { get; set; }
 
         public virtual Chain Chain { get; set; }

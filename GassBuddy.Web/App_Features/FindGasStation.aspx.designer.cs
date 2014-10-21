@@ -10,69 +10,60 @@
 namespace GassBuddy.Web.App_Features {
     
     
-    public partial class PostPrice1 {
+    public partial class PostPrice {
         
         /// <summary>
-        /// LabelDieselPrice control.
+        /// LabelCitySelect control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label LabelDieselPrice;
+        protected global::System.Web.UI.WebControls.Label LabelCitySelect;
         
         /// <summary>
-        /// TextBoxDieselPrice control.
+        /// DropDownListCities control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBoxDieselPrice;
+        protected global::System.Web.UI.WebControls.DropDownList DropDownListCities;
         
         /// <summary>
-        /// LabelPetrolPrice control.
+        /// LabelGasStationSelect control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label LabelPetrolPrice;
+        protected global::System.Web.UI.WebControls.Label LabelGasStationSelect;
         
         /// <summary>
-        /// TextBoxPetrolPrice control.
+        /// DropDownChains control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBoxPetrolPrice;
+        protected global::System.Web.UI.WebControls.DropDownList DropDownChains;
         
         /// <summary>
-        /// LabelLpgPrice control.
+        /// ButtonSearch control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label LabelLpgPrice;
+        protected global::System.Web.UI.WebControls.Button ButtonSearch;
         
         /// <summary>
-        /// TextBoxLpgPrice control.
+        /// GridViewGasStations control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBoxLpgPrice;
-        
-        /// <summary>
-        /// ButtonSubmitPrice control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Button ButtonSubmitPrice;
+        protected global::System.Web.UI.WebControls.GridView GridViewGasStations;
     }
 }
