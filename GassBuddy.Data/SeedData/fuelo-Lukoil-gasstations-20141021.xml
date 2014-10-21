@@ -1,0 +1,5085 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx
+xmlns=""
+xmlns:gpxx = "http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.topografix.com/GPX/1/1
+http://www.topografix.com/GPX/1/1/gpx.xsd
+http://www.garmin.com/xmlschemas/GpxExtensions/v3
+http://www8.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd"
+version="1.1"
+creator="fuelo">
+
+<metadata>
+	<name>Gasstations</name>
+	<desc>Gasstations in Bulgaria</desc>
+	<author>
+	    <name>Fuelo.net</name>
+    </author>
+	<link href="http://fuelo.net"><text>fuelo.net</text></link>
+	<time>2014-10-21T11:18:16+03:00</time>
+	<keywords>gasstations</keywords>
+	<bounds minlat="41.236022" minlon="22.360067" maxlat="44.214555" maxlon="28.60705" />
+</metadata>
+
+<wpt lat="42.570499" lon="23.116301">
+	<name>Lukoil B051</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/1"><text>Lukoil B051 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[до с. Студена, Пернишко]]></StreetAddress>
+			<City>АМ Струма</City>
+			<Country>България</Country>
+			<PostalCode>2344</PostalCode>
+		</Address>
+		<PhoneNumber>076699080</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.692902" lon="27.267300">
+	<name>Lukoil B120</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/2"><text>Lukoil B120 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Славянска №94]]></StreetAddress>
+			<City>Айтос</City>
+			<Country>България</Country>
+			<PostalCode>8500</PostalCode>
+		</Address>
+		<PhoneNumber>055822436</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.215599" lon="25.060400">
+	<name>Lukoil B017</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/3"><text>Lukoil B017 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[АМ Тракия 154-ти км (посока София-Бургас)]]></StreetAddress>
+			<City>АМ Тракия</City>
+			<Country>България</Country>
+			<PostalCode>4130</PostalCode>
+		</Address>
+		<PhoneNumber>032630951</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.216099" lon="25.062500">
+	<name>Lukoil B044</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/4"><text>Lukoil B044 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[154-ти км (посока Бургас-София)]]></StreetAddress>
+			<City>АМ Тракия</City>
+			<Country>България</Country>
+			<PostalCode>4130</PostalCode>
+		</Address>
+		<PhoneNumber>032621370</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.432899" lon="23.851299">
+	<name>Lukoil B152</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/5"><text>Lukoil B152 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[43-ти км юг (мотел Ихтиман)]]></StreetAddress>
+			<City>АМ Тракия</City>
+			<Country>България</Country>
+			<PostalCode>2050</PostalCode>
+		</Address>
+		<PhoneNumber>072480001</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.879066" lon="23.803074">
+	<name>Lukoil F513</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/6"><text>Lukoil F513 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[посока Варна-София, 37-ми км (м. Зелин)]]></StreetAddress>
+			<City>АМ Хемус</City>
+			<Country>България</Country>
+			<PostalCode>2140</PostalCode>
+		</Address>
+		<PhoneNumber>072366855</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.907570" lon="23.879683">
+	<name>Lukoil F536</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/7"><text>Lukoil F536 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[разклон за Разлив]]></StreetAddress>
+			<City>АМ Хемус</City>
+			<Country>България</Country>
+			<PostalCode>2162</PostalCode>
+		</Address>
+		<PhoneNumber>0885865330</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.705753" lon="23.515615">
+	<name>Lukoil B056</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/8"><text>Lukoil B056 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[до с. Горни Богров]]></StreetAddress>
+			<City>АМ Хемус</City>
+			<Country>България</Country>
+			<PostalCode>1806</PostalCode>
+		</Address>
+		<PhoneNumber>029946434</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.015400" lon="24.885799">
+	<name>Lukoil B173</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/9"><text>Lukoil B173 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Иван Асен ІІ №97]]></StreetAddress>
+			<City>Асеновград</City>
+			<Country>България</Country>
+			<PostalCode>4231</PostalCode>
+		</Address>
+		<PhoneNumber>033167311</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.443001" lon="27.595200">
+	<name>Lukoil B088</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/10"><text>Lukoil B088 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[Атия, гл. път Бургас-Созопол]]></StreetAddress>
+			<City>Черноморец</City>
+			<Country>България</Country>
+			<PostalCode>8140</PostalCode>
+		</Address>
+		<PhoneNumber>059142423</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.645199" lon="27.645500">
+	<name>Lukoil B080</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/11"><text>Lukoil B080 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[на изхода към Бургас]]></StreetAddress>
+			<City>Ахелой</City>
+			<Country>България</Country>
+			<PostalCode>8217</PostalCode>
+		</Address>
+		<PhoneNumber>059685152</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="41.844799" lon="23.484400">
+	<name>Lukoil B008</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/12"><text>Lukoil B008 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Патриарх Евтимий]]></StreetAddress>
+			<City>Банско</City>
+			<Country>България</Country>
+			<PostalCode>2770</PostalCode>
+		</Address>
+		<PhoneNumber>074988251</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.635799" lon="25.120899">
+	<name>Lukoil B110</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/13"><text>Lukoil B110 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[Белене]]></StreetAddress>
+			<City>Белене</City>
+			<Country>България</Country>
+			<PostalCode>5930</PostalCode>
+		</Address>
+		<PhoneNumber>065836919</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="41.914089" lon="23.577938">
+	<name>Lukoil B058</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/14"><text>Lukoil B058 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[гара Белица]]></StreetAddress>
+			<City>Белица</City>
+			<Country>България</Country>
+			<PostalCode>2780</PostalCode>
+		</Address>
+		<PhoneNumber>074442218</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.549080" lon="22.941212">
+	<name>Lukoil B113</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/15"><text>Lukoil B113 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[до с. Белотинци, Монтанско]]></StreetAddress>
+			<City>Белотинци</City>
+			<Country>България</Country>
+			<PostalCode>3499</PostalCode>
+		</Address>
+		<PhoneNumber>095402244</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.043598" lon="23.049900">
+	<name>Lukoil B002</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Бензин А98H, ECTO Sport 98, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/16"><text>Lukoil B002 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[гл. път София-Кулата, км. 352-300]]></StreetAddress>
+			<City>път E79</City>
+			<Country>България</Country>
+			<PostalCode>2710</PostalCode>
+		</Address>
+		<PhoneNumber>073886022</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.006100" lon="23.083500">
+	<name>Lukoil B129</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/17"><text>Lukoil B129 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Васил Левски - до ЗИИУ]]></StreetAddress>
+			<City>Благоевград</City>
+			<Country>България</Country>
+			<PostalCode>2700</PostalCode>
+		</Address>
+		<PhoneNumber>073834862</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.015301" lon="23.073299">
+	<name>Lukoil F533</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/19"><text>Lukoil F533 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ж.к. Орбита]]></StreetAddress>
+			<City>Благоевград</City>
+			<Country>България</Country>
+			<PostalCode>2702</PostalCode>
+		</Address>
+		<PhoneNumber>0888651103</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.058300" lon="24.239300">
+	<name>Lukoil B139</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/20"><text>Lukoil B139 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[местност Боаза, Ловешко, гл.път Варна-София]]></StreetAddress>
+			<City>Боаза</City>
+			<Country>България</Country>
+			<PostalCode>5761</PostalCode>
+		</Address>
+		<PhoneNumber>069032230</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.908298" lon="23.784300">
+	<name>Lukoil F507</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/21"><text>Lukoil F507 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[до Автогара Ботевград]]></StreetAddress>
+			<City>Ботевград</City>
+			<Country>България</Country>
+			<PostalCode>2140</PostalCode>
+		</Address>
+		<PhoneNumber>072360220</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.740700" lon="22.891600">
+	<name>Lukoil B188</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/22"><text>Lukoil B188 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Г. Бунджелов №74 (изход към Трън)]]></StreetAddress>
+			<City>Брезник</City>
+			<Country>България</Country>
+			<PostalCode>2360</PostalCode>
+		</Address>
+		<PhoneNumber>077512028</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.531799" lon="27.469700">
+	<name>Lukoil B019</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Пропан Бутан, ECTO Plus 95, ECTO Sport 98, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/23"><text>Lukoil B019 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[кръгово движение, изход за Слънчев бряг]]></StreetAddress>
+			<City>Бургас</City>
+			<Country>България</Country>
+			<PostalCode>8000</PostalCode>
+		</Address>
+		<PhoneNumber>056860191</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.456100" lon="27.440701">
+	<name>Lukoil B020</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/24"><text>Lukoil B020 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Тодор Александров (изход за Созопол)]]></StreetAddress>
+			<City>Бургас</City>
+			<Country>България</Country>
+			<PostalCode>8011</PostalCode>
+		</Address>
+		<PhoneNumber>056854787</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.530998" lon="27.449699">
+	<name>Lukoil F504</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Метан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/25"><text>Lukoil F504 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Стефан Стамболов (изход за София)]]></StreetAddress>
+			<City>Бургас</City>
+			<Country>България</Country>
+			<PostalCode>8008</PostalCode>
+		</Address>
+		<PhoneNumber>056880504</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.504101" lon="27.462601">
+	<name>Lukoil B027</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/26"><text>Lukoil B027 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[кв. Братя Миладинови, пл. Трапезица]]></StreetAddress>
+			<City>Бургас</City>
+			<Country>България</Country>
+			<PostalCode>8001</PostalCode>
+		</Address>
+		<PhoneNumber>056812003</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.457802" lon="27.417299">
+	<name>Lukoil B079</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/27"><text>Lukoil B079 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ж.к. Меден рудник]]></StreetAddress>
+			<City>Бургас</City>
+			<Country>България</Country>
+			<PostalCode>8011</PostalCode>
+		</Address>
+		<PhoneNumber>056500131</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.467373" lon="25.674885">
+	<name>Lukoil B004</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, ECTO Plus 95, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/28"><text>Lukoil B004 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[Гара Бяла, на път Е-85]]></StreetAddress>
+			<City>Бяла</City>
+			<Country>България</Country>
+			<PostalCode>7101</PostalCode>
+		</Address>
+		<PhoneNumber>081773153</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.473301" lon="23.947800">
+	<name>Lukoil B151</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/29"><text>Lukoil B151 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[изход за Плевен]]></StreetAddress>
+			<City>Бяла Слатина</City>
+			<Country>България</Country>
+			<PostalCode>3200</PostalCode>
+		</Address>
+		<PhoneNumber>091582767</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.212502" lon="27.879999">
+	<name>Lukoil B132</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/30"><text>Lukoil B132 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[Западна промишлена зона]]></StreetAddress>
+			<City>Варна</City>
+			<Country>България</Country>
+			<PostalCode>9009</PostalCode>
+		</Address>
+		<PhoneNumber>052727005</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.234200" lon="27.877001">
+	<name>Lukoil B096</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/31"><text>Lukoil B096 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Цар Освободител,  до бл.109]]></StreetAddress>
+			<City>Варна</City>
+			<Country>България</Country>
+			<PostalCode>9027</PostalCode>
+		</Address>
+		<PhoneNumber>052755155</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.233799" lon="27.859800">
+	<name>Lukoil B012</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, ECTO Plus 95, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/32"><text>Lukoil B012 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[кв. Вл. Варненчик, Ялови ниви]]></StreetAddress>
+			<City>Варна</City>
+			<Country>България</Country>
+			<PostalCode>9023</PostalCode>
+		</Address>
+		<PhoneNumber>052501252</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.227402" lon="27.862499">
+	<name>Lukoil B024</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/33"><text>Lukoil B024 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Владислав Варненчик (изход за София)]]></StreetAddress>
+			<City>Варна</City>
+			<Country>България</Country>
+			<PostalCode>9009</PostalCode>
+		</Address>
+		<PhoneNumber>052505991</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.184299" lon="27.892000">
+	<name>Lukoil B119</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/34"><text>Lukoil B119 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[кв. Аспарухово, бул. Народни будители]]></StreetAddress>
+			<City>Варна</City>
+			<Country>България</Country>
+			<PostalCode>9003</PostalCode>
+		</Address>
+		<PhoneNumber>052370207</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.227001" lon="27.922100">
+	<name>Lukoil B181</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/35"><text>Lukoil B181 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Евлоги Георгиев]]></StreetAddress>
+			<City>Варна</City>
+			<Country>България</Country>
+			<PostalCode>9010</PostalCode>
+		</Address>
+		<PhoneNumber>052301332</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.203999" lon="27.900999">
+	<name>Lukoil B029</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, ECTO Plus 95, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/36"><text>Lukoil B029 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Христо Ботев №13 (преди Аспарухов мост)]]></StreetAddress>
+			<City>Варна</City>
+			<Country>България</Country>
+			<PostalCode>9000</PostalCode>
+		</Address>
+		<PhoneNumber>052630478</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.072399" lon="25.596399">
+	<name>Lukoil B065</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/37"><text>Lukoil B065 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Никола Габровски №74 (до ДАП)]]></StreetAddress>
+			<City>Велико Търново</City>
+			<Country>България</Country>
+			<PostalCode>5002</PostalCode>
+		</Address>
+		<PhoneNumber>062678778</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.070801" lon="25.663200">
+	<name>Lukoil B150</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/38"><text>Lukoil B150 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[изход за Варна]]></StreetAddress>
+			<City>Велико Търново</City>
+			<Country>България</Country>
+			<PostalCode>5003</PostalCode>
+		</Address>
+		<PhoneNumber>062650361</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.031601" lon="24.005199">
+	<name>Lukoil B193</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/39"><text>Lukoil B193 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Хан Аспарух №2]]></StreetAddress>
+			<City>Велинград</City>
+			<Country>България</Country>
+			<PostalCode>4600</PostalCode>
+		</Address>
+		<PhoneNumber>035951005</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="44.007702" lon="22.885000">
+	<name>Lukoil B186</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/40"><text>Lukoil B186 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[м. Кумбаир, бул. Панония]]></StreetAddress>
+			<City>Видин</City>
+			<Country>България</Country>
+			<PostalCode>3701</PostalCode>
+		</Address>
+		<PhoneNumber>094602016</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.993000" lon="22.865499">
+	<name>Lukoil B028</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/41"><text>Lukoil B028 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Панония №23]]></StreetAddress>
+			<City>Видин</City>
+			<Country>България</Country>
+			<PostalCode>3705</PostalCode>
+		</Address>
+		<PhoneNumber>094600124</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.209801" lon="23.552401">
+	<name>Lukoil B022</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/42"><text>Lukoil B022 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[кръгово движение, изход към Видин]]></StreetAddress>
+			<City>Враца</City>
+			<Country>България</Country>
+			<PostalCode>3000</PostalCode>
+		</Address>
+		<PhoneNumber>092663339</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.189499" lon="23.576000">
+	<name>Lukoil B189</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/43"><text>Lukoil B189 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Софийско шосе]]></StreetAddress>
+			<City>Враца</City>
+			<Country>България</Country>
+			<PostalCode>3001</PostalCode>
+		</Address>
+		<PhoneNumber>092621286</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.250198" lon="23.573000">
+	<name>Lukoil B127</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/44"><text>Lukoil B127 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[местност Дъбника (изход Оряхово)]]></StreetAddress>
+			<City>Враца</City>
+			<Country>България</Country>
+			<PostalCode>3000</PostalCode>
+		</Address>
+		<PhoneNumber>092640279</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.880501" lon="25.317900">
+	<name>Lukoil B030</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/46"><text>Lukoil B030 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Брянска №70]]></StreetAddress>
+			<City>Габрово</City>
+			<Country>България</Country>
+			<PostalCode>5306</PostalCode>
+		</Address>
+		<PhoneNumber>066800754</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.847698" lon="25.336901">
+	<name>Lukoil B157</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/47"><text>Lukoil B157 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Хемус (изход за прохода Шипка)]]></StreetAddress>
+			<City>Габрово</City>
+			<Country>България</Country>
+			<PostalCode>5301</PostalCode>
+		</Address>
+		<PhoneNumber>066800150</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.692501" lon="28.023300">
+	<name>Lukoil B190</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/48"><text>Lukoil B190 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Димитър Благоев №82 (изход Добрич-Варна)]]></StreetAddress>
+			<City>Генерал Тошево</City>
+			<Country>България</Country>
+			<PostalCode>9500</PostalCode>
+		</Address>
+		<PhoneNumber>057312041</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.128502" lon="25.690599">
+	<name>Lukoil B166</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/49"><text>Lukoil B166 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Цар Освободител (до Механотехникума)]]></StreetAddress>
+			<City>Горна Оряховица</City>
+			<Country>България</Country>
+			<PostalCode>5100</PostalCode>
+		</Address>
+		<PhoneNumber>061822050</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="41.575001" lon="23.746799">
+	<name>Lukoil F521</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/50"><text>Lukoil F521 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Гоце Делчев №98]]></StreetAddress>
+			<City>Гоце Делчев</City>
+			<Country>България</Country>
+			<PostalCode>2900</PostalCode>
+		</Address>
+		<PhoneNumber>075161270</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="41.569901" lon="23.734400">
+	<name>Lukoil B062</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/51"><text>Lukoil B062 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Дунав]]></StreetAddress>
+			<City>Гоце Делчев</City>
+			<Country>България</Country>
+			<PostalCode>2900</PostalCode>
+		</Address>
+		<PhoneNumber>075160494</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.224800" lon="27.574200">
+	<name>Lukoil B131</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/52"><text>Lukoil B131 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[кв. Девня 2, бул. Съединение №97А]]></StreetAddress>
+			<City>Девня</City>
+			<Country>България</Country>
+			<PostalCode>9163</PostalCode>
+		</Address>
+		<PhoneNumber>051992102</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="41.823399" lon="23.557100">
+	<name>Lukoil B100</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/53"><text>Lukoil B100 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[Главен път за Гоце Делчев]]></StreetAddress>
+			<City>Добринище</City>
+			<Country>България</Country>
+			<PostalCode>2777</PostalCode>
+		</Address>
+		<PhoneNumber>074472190</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.570999" lon="27.820200">
+	<name>Lukoil B042</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/54"><text>Lukoil B042 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Добруджа]]></StreetAddress>
+			<City>Добрич</City>
+			<Country>България</Country>
+			<PostalCode>9300</PostalCode>
+		</Address>
+		<PhoneNumber>058603334</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.568401" lon="27.844700">
+	<name>Lukoil B176</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/55"><text>Lukoil B176 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[жк Дружба, бул. Добруджа №1 (изход за Балчик)]]></StreetAddress>
+			<City>Добрич</City>
+			<Country>България</Country>
+			<PostalCode>9303</PostalCode>
+		</Address>
+		<PhoneNumber>058660034</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.542599" lon="27.820999">
+	<name>Lukoil B061</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/56"><text>Lukoil B061 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[Околовръстен път (изход за Варна)]]></StreetAddress>
+			<City>Добрич</City>
+			<Country>България</Country>
+			<PostalCode>9305</PostalCode>
+		</Address>
+		<PhoneNumber>058620434</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.280899" lon="23.140900">
+	<name>Lukoil B126</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/57"><text>Lukoil B126 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Самоковско шосе №32]]></StreetAddress>
+			<City>Дупница</City>
+			<Country>България</Country>
+			<PostalCode>2622</PostalCode>
+		</Address>
+		<PhoneNumber>070141777</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.273121" lon="23.137165">
+	<name>Lukoil B105</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/58"><text>Lukoil B105 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Саморанска (изход за Сапарева баня)]]></StreetAddress>
+			<City>Дупница</City>
+			<Country>България</Country>
+			<PostalCode>2602</PostalCode>
+		</Address>
+		<PhoneNumber>070143036</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.675098" lon="23.589300">
+	<name>Lukoil B144</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/59"><text>Lukoil B144 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Софийско шосе]]></StreetAddress>
+			<City>Елин Пелин</City>
+			<Country>България</Country>
+			<PostalCode>2139</PostalCode>
+		</Address>
+		<PhoneNumber>072566869</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.109798" lon="24.148701">
+	<name>Lukoil F542</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/60"><text>Lukoil F542 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[изход за Варна]]></StreetAddress>
+			<City>Златна Панега</City>
+			<Country>България</Country>
+			<PostalCode>5760</PostalCode>
+		</Address>
+		<PhoneNumber>069922222</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.706299" lon="26.819500">
+	<name>Lukoil B161</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/61"><text>Lukoil B161 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Васил Левски №2]]></StreetAddress>
+			<City>Исперих</City>
+			<Country>България</Country>
+			<PostalCode>7400</PostalCode>
+		</Address>
+		<PhoneNumber>084312875</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.654202" lon="27.563499">
+	<name>Lukoil B086</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/62"><text>Lukoil B086 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[път за Слънчев бряг]]></StreetAddress>
+			<City>Каблешково</City>
+			<Country>България</Country>
+			<PostalCode>8210</PostalCode>
+		</Address>
+		<PhoneNumber>059682461</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.613987" lon="25.434944">
+	<name>Lukoil B069</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/63"><text>Lukoil B069 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Александър Батенберг (вход от Бургас)]]></StreetAddress>
+			<City>Казанлък</City>
+			<Country>България</Country>
+			<PostalCode>6102</PostalCode>
+		</Address>
+		<PhoneNumber>043165172</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.613701" lon="25.433599">
+	<name>Lukoil B052</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/64"><text>Lukoil B052 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Александър Батенберг (изход към Бургас)]]></StreetAddress>
+			<City>Казанлък</City>
+			<Country>България</Country>
+			<PostalCode>6102</PostalCode>
+		</Address>
+		<PhoneNumber>043162604</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="41.719147" lon="26.341619">
+	<name>Lukoil B076</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/65"><text>Lukoil B076 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ГКПП Капитан Андреево]]></StreetAddress>
+			<City>Капитан Андреево</City>
+			<Country>България</Country>
+			<PostalCode>6530</PostalCode>
+		</Address>
+		<PhoneNumber>037971470</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.643101" lon="24.800699">
+	<name>Lukoil B141</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/66"><text>Lukoil B141 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Генерал Калцов]]></StreetAddress>
+			<City>Карлово</City>
+			<Country>България</Country>
+			<PostalCode>4300</PostalCode>
+		</Address>
+		<PhoneNumber>033599089</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.651554" lon="26.983856">
+	<name>Lukoil B009</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/67"><text>Lukoil B009 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Москва]]></StreetAddress>
+			<City>Карнобат</City>
+			<Country>България</Country>
+			<PostalCode>8400</PostalCode>
+		</Address>
+		<PhoneNumber>055926110</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.649700" lon="26.969101">
+	<name>Lukoil B172</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, ECTO Plus 95, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/68"><text>Lukoil B172 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[главен път София-Бургас]]></StreetAddress>
+			<City>Карнобат</City>
+			<Country>България</Country>
+			<PostalCode>8400</PostalCode>
+		</Address>
+		<PhoneNumber>055922079</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.760101" lon="23.743999">
+	<name>Lukoil B147</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/69"><text>Lukoil B147 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Княз Дондуков-Корсаков (изход АЕЦ)]]></StreetAddress>
+			<City>Козлодуй</City>
+			<Country>България</Country>
+			<PostalCode>3320</PostalCode>
+		</Address>
+		<PhoneNumber>097380455</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.314301" lon="23.857000">
+	<name>Lukoil B140</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/70"><text>Lukoil B140 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[стария път Пловдив-София]]></StreetAddress>
+			<City>Костенец</City>
+			<Country>България</Country>
+			<PostalCode>2030</PostalCode>
+		</Address>
+		<PhoneNumber>071422373</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.821800" lon="23.211500">
+	<name>Lukoil B162</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/71"><text>Lukoil B162 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Ломско шосе (вход от Лом)]]></StreetAddress>
+			<City>Костинброд</City>
+			<Country>България</Country>
+			<PostalCode>2230</PostalCode>
+		</Address>
+		<PhoneNumber>072166270</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.805302" lon="23.220301">
+	<name>Lukoil B063</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/72"><text>Lukoil B063 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Ломско шосе]]></StreetAddress>
+			<City>Костинброд</City>
+			<Country>България</Country>
+			<PostalCode>2230</PostalCode>
+		</Address>
+		<PhoneNumber>072160424</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="41.394199" lon="23.357300">
+	<name>Lukoil B033</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/73"><text>Lukoil B033 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ГКПП Кулата, вход в България]]></StreetAddress>
+			<City>Кулата</City>
+			<Country>България</Country>
+			<PostalCode>2868</PostalCode>
+		</Address>
+		<PhoneNumber>074252149</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="41.625500" lon="25.370600">
+	<name>Lukoil B099</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/74"><text>Lukoil B099 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Осми март (изход за Ардино)]]></StreetAddress>
+			<City>Кърджали</City>
+			<Country>България</Country>
+			<PostalCode>6602</PostalCode>
+		</Address>
+		<PhoneNumber>036162018</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="41.628300" lon="25.377800">
+	<name>Lukoil B191</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/75"><text>Lukoil B191 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Беломорски, Ардински мост]]></StreetAddress>
+			<City>Кърджали</City>
+			<Country>България</Country>
+			<PostalCode>6600</PostalCode>
+		</Address>
+		<PhoneNumber>036162106</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.286900" lon="22.706800">
+	<name>Lukoil B093</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/76"><text>Lukoil B093 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Софийско шосе №5]]></StreetAddress>
+			<City>Кюстендил</City>
+			<Country>България</Country>
+			<PostalCode>2504</PostalCode>
+		</Address>
+		<PhoneNumber>078522421</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.287201" lon="22.682301">
+	<name>Lukoil B174</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/77"><text>Lukoil B174 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Александър Димитров (до гарата)]]></StreetAddress>
+			<City>Кюстендил</City>
+			<Country>България</Country>
+			<PostalCode>2503</PostalCode>
+		</Address>
+		<PhoneNumber>078550277</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.298302" lon="22.723700">
+	<name>Lukoil B195</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/78"><text>Lukoil B195 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Софийско шосе (вход от София)]]></StreetAddress>
+			<City>Кюстендил</City>
+			<Country>България</Country>
+			<PostalCode>2504</PostalCode>
+		</Address>
+		<PhoneNumber>078551922</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.368698" lon="25.138300">
+	<name>Lukoil B169</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/79"><text>Lukoil B169 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[изход към Плевен]]></StreetAddress>
+			<City>Левски</City>
+			<Country>България</Country>
+			<PostalCode>5900</PostalCode>
+		</Address>
+		<PhoneNumber>065082676</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="41.964500" lon="26.598000">
+	<name>Lukoil F538</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/80"><text>Lukoil F538 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[Граничен комплекс Изгрев - вход в България]]></StreetAddress>
+			<City>Лесово</City>
+			<Country>България</Country>
+			<PostalCode>8754</PostalCode>
+		</Address>
+		<PhoneNumber>047888118</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="41.963600" lon="26.598900">
+	<name>Lukoil F539</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/81"><text>Lukoil F539 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[Граничен комплекс Изгрев - изход от България]]></StreetAddress>
+			<City>Лесово</City>
+			<Country>България</Country>
+			<PostalCode>8754</PostalCode>
+		</Address>
+		<PhoneNumber>047888119</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.153400" lon="24.715401">
+	<name>Lukoil B149</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/82"><text>Lukoil B149 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Мизия, изход за Плевен]]></StreetAddress>
+			<City>Ловеч</City>
+			<Country>България</Country>
+			<PostalCode>5502</PostalCode>
+		</Address>
+		<PhoneNumber>068656639</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.813400" lon="23.250401">
+	<name>Lukoil B046</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/83"><text>Lukoil B046 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[кв. Младеново, ул. Софийска №4]]></StreetAddress>
+			<City>Лом</City>
+			<Country>България</Country>
+			<PostalCode>3601</PostalCode>
+		</Address>
+		<PhoneNumber>097160242</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.802700" lon="23.236200">
+	<name>Lukoil B165</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/84"><text>Lukoil B165 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[Белоградчишко шосе]]></StreetAddress>
+			<City>Лом</City>
+			<Country>България</Country>
+			<PostalCode>3600</PostalCode>
+		</Address>
+		<PhoneNumber>097161133</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.092800" lon="25.724800">
+	<name>Lukoil B037</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/85"><text>Lukoil B037 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Васил Левски №227Б]]></StreetAddress>
+			<City>Лясковец</City>
+			<Country>България</Country>
+			<PostalCode>5140</PostalCode>
+		</Address>
+		<PhoneNumber>061925534</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.147900" lon="23.719900">
+	<name>Lukoil B045</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/86"><text>Lukoil B045 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Александър Стамболийски №24]]></StreetAddress>
+			<City>Мездра</City>
+			<Country>България</Country>
+			<PostalCode>3100</PostalCode>
+		</Address>
+		<PhoneNumber>091092454</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.402050" lon="23.237625">
+	<name>Lukoil B122</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/87"><text>Lukoil B122 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Александър Стамболийски]]></StreetAddress>
+			<City>Монтана</City>
+			<Country>България</Country>
+			<PostalCode>3403</PostalCode>
+		</Address>
+		<PhoneNumber>096301852</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.424934" lon="23.228516">
+	<name>Lukoil B095</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, ECTO Sport 98, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/88"><text>Lukoil B095 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. 3-ти март №145]]></StreetAddress>
+			<City>Монтана</City>
+			<Country>България</Country>
+			<PostalCode>3400</PostalCode>
+		</Address>
+		<PhoneNumber>096306207</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.664600" lon="27.701500">
+	<name>Lukoil F541</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Метан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/89"><text>Lukoil F541 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Хан Крум]]></StreetAddress>
+			<City>Несебър</City>
+			<Country>България</Country>
+			<PostalCode>8230</PostalCode>
+		</Address>
+		<PhoneNumber>055444393</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.493999" lon="26.000500">
+	<name>Lukoil B072</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/90"><text>Lukoil B072 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[път за Свиленград]]></StreetAddress>
+			<City>Нова Загора</City>
+			<Country>България</Country>
+			<PostalCode>8900</PostalCode>
+		</Address>
+		<PhoneNumber>045763074</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.498100" lon="25.993000">
+	<name>Lukoil B145</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, ECTO Plus 95, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/91"><text>Lukoil B145 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[кръстовище на път Русе-Елхово/София-Бургас]]></StreetAddress>
+			<City>Нова Загора</City>
+			<Country>България</Country>
+			<PostalCode>8900</PostalCode>
+		</Address>
+		<PhoneNumber>045762066</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.789001" lon="23.327499">
+	<name>Lukoil B054</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/92"><text>Lukoil B054 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Искърско дефиле №1]]></StreetAddress>
+			<City>Нови Искър</City>
+			<Country>България</Country>
+			<PostalCode>1280</PostalCode>
+		</Address>
+		<PhoneNumber>029384819</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.741577" lon="23.954136">
+	<name>Lukoil B182</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/93"><text>Lukoil B182 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[кв. 2, вход от Мизия]]></StreetAddress>
+			<City>Оряхово</City>
+			<Country>България</Country>
+			<PostalCode>3300</PostalCode>
+		</Address>
+		<PhoneNumber>091712395</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.238800" lon="25.297800">
+	<name>Lukoil B170</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/94"><text>Lukoil B170 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[Индустриална зона, ул. Илия Златев]]></StreetAddress>
+			<City>Павликени</City>
+			<Country>България</Country>
+			<PostalCode>5200</PostalCode>
+		</Address>
+		<PhoneNumber>061052160</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.182400" lon="24.313200">
+	<name>Lukoil B053</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/95"><text>Lukoil B053 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Христо Касапвелев (до казармата)]]></StreetAddress>
+			<City>Пазарджик</City>
+			<Country>България</Country>
+			<PostalCode>4400</PostalCode>
+		</Address>
+		<PhoneNumber>034441141</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.186855" lon="24.357815">
+	<name>Lukoil B081</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/96"><text>Lukoil B081 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Пловдивска]]></StreetAddress>
+			<City>Пазарджик</City>
+			<Country>България</Country>
+			<PostalCode>4401</PostalCode>
+		</Address>
+		<PhoneNumber>034445980</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.183601" lon="24.319300">
+	<name>Lukoil B118</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/97"><text>Lukoil B118 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Христо Касап Велев №2]]></StreetAddress>
+			<City>Пазарджик</City>
+			<Country>България</Country>
+			<PostalCode>4400</PostalCode>
+		</Address>
+		<PhoneNumber>034440413</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.234200" lon="24.311600">
+	<name>Lukoil F518</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/98"><text>Lukoil F518 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[Панагюрски път, изход към АМ Тракия]]></StreetAddress>
+			<City>Пазарджик</City>
+			<Country>България</Country>
+			<PostalCode>4406</PostalCode>
+		</Address>
+		<PhoneNumber>0885708988</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.503639" lon="24.169874">
+	<name>Lukoil B098</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/99"><text>Lukoil B098 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[вход от Оборище]]></StreetAddress>
+			<City>Панагюрище</City>
+			<Country>България</Country>
+			<PostalCode>4500</PostalCode>
+		</Address>
+		<PhoneNumber>035766655</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.604698" lon="23.114901">
+	<name>Lukoil B068</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/100"><text>Lukoil B068 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Юрий Гагарин, кв. Ладовица]]></StreetAddress>
+			<City>Перник</City>
+			<Country>България</Country>
+			<PostalCode>2304</PostalCode>
+		</Address>
+		<PhoneNumber>076671371</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.617901" lon="23.026400">
+	<name>Lukoil B148</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/101"><text>Lukoil B148 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Граово]]></StreetAddress>
+			<City>Перник</City>
+			<Country>България</Country>
+			<PostalCode>2300</PostalCode>
+		</Address>
+		<PhoneNumber>076604827</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="41.483002" lon="23.257299">
+	<name>Lukoil B003</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/102"><text>Lukoil B003 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[с. Рибник, Петричко]]></StreetAddress>
+			<City>Рибник</City>
+			<Country>България</Country>
+			<PostalCode>2864</PostalCode>
+		</Address>
+		<PhoneNumber>074560364</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="41.398800" lon="23.222900">
+	<name>Lukoil B103</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/103"><text>Lukoil B103 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[Изход за Кулата]]></StreetAddress>
+			<City>Петрич</City>
+			<Country>България</Country>
+			<PostalCode>2850</PostalCode>
+		</Address>
+		<PhoneNumber>074561011</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="41.396099" lon="23.189600">
+	<name>Lukoil B167</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/104"><text>Lukoil B167 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Рокфелер]]></StreetAddress>
+			<City>Петрич</City>
+			<Country>България</Country>
+			<PostalCode>2850</PostalCode>
+		</Address>
+		<PhoneNumber>074560552</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.028301" lon="24.294201">
+	<name>Lukoil B159</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/105"><text>Lukoil B159 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Михаил Такев №9]]></StreetAddress>
+			<City>Пещера</City>
+			<Country>България</Country>
+			<PostalCode>4550</PostalCode>
+		</Address>
+		<PhoneNumber>035062388</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.703800" lon="24.165701">
+	<name>Lukoil B168</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/106"><text>Lukoil B168 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[до Подбалкански път]]></StreetAddress>
+			<City>Пирдоп</City>
+			<Country>България</Country>
+			<PostalCode>2070</PostalCode>
+		</Address>
+		<PhoneNumber>071817378</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.426300" lon="24.588900">
+	<name>Lukoil B060</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/107"><text>Lukoil B060 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[кв. Сторгозия, до ЛВТ]]></StreetAddress>
+			<City>Плевен</City>
+			<Country>България</Country>
+			<PostalCode>5802</PostalCode>
+		</Address>
+		<PhoneNumber>064681172</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.432499" lon="24.581800">
+	<name>Lukoil B137</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/108"><text>Lukoil B137 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[изход за София]]></StreetAddress>
+			<City>Плевен</City>
+			<Country>България</Country>
+			<PostalCode>5802</PostalCode>
+		</Address>
+		<PhoneNumber>064600147</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.435799" lon="24.599600">
+	<name>Lukoil B128</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/109"><text>Lukoil B128 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[до КАТ - север]]></StreetAddress>
+			<City>Плевен</City>
+			<Country>България</Country>
+			<PostalCode>5809</PostalCode>
+		</Address>
+		<PhoneNumber>064804373</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.165600" lon="24.743500">
+	<name>Lukoil B018</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/110"><text>Lukoil B018 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[Карловско шосе, изход]]></StreetAddress>
+			<City>Пловдив</City>
+			<Country>България</Country>
+			<PostalCode>4003</PostalCode>
+		</Address>
+		<PhoneNumber>032967351</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.132401" lon="24.704300">
+	<name>Lukoil B138</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/111"><text>Lukoil B138 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Пещерско шосе №138 (вход от Пещера)]]></StreetAddress>
+			<City>Пловдив</City>
+			<Country>България</Country>
+			<PostalCode>4001</PostalCode>
+		</Address>
+		<PhoneNumber>032642225</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.102299" lon="24.785601">
+	<name>Lukoil B083</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/112"><text>Lukoil B083 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[Асеновградско шосе (изход от града)]]></StreetAddress>
+			<City>Пловдив</City>
+			<Country>България</Country>
+			<PostalCode>4107</PostalCode>
+		</Address>
+		<PhoneNumber>032620161</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.157330" lon="24.723097">
+	<name>Lukoil B025</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Пропан Бутан, ECTO Plus 95, ECTO Sport 98, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/113"><text>Lukoil B025 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. България (срещу Захарна фабрика)]]></StreetAddress>
+			<City>Пловдив</City>
+			<Country>България</Country>
+			<PostalCode>4027</PostalCode>
+		</Address>
+		<PhoneNumber>032967314</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.148399" lon="24.782000">
+	<name>Lukoil B125</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/114"><text>Lukoil B125 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Цариградско шосе]]></StreetAddress>
+			<City>Пловдив</City>
+			<Country>България</Country>
+			<PostalCode>4019</PostalCode>
+		</Address>
+		<PhoneNumber>032621815</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.152699" lon="24.769400">
+	<name>Lukoil B070</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, ECTO Sport 98, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/115"><text>Lukoil B070 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Шести септември №242]]></StreetAddress>
+			<City>Пловдив</City>
+			<Country>България</Country>
+			<PostalCode>4006</PostalCode>
+		</Address>
+		<PhoneNumber>032620057</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.132599" lon="24.701300">
+	<name>Lukoil B092</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/116"><text>Lukoil B092 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Пещерско шосе (изход към Пещера)]]></StreetAddress>
+			<City>Пловдив</City>
+			<Country>България</Country>
+			<PostalCode>4001</PostalCode>
+		</Address>
+		<PhoneNumber>032641217</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.152599" lon="24.692699">
+	<name>Lukoil B194</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/117"><text>Lukoil B194 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[Пазарджишко шосе, 6-ти км]]></StreetAddress>
+			<City>Пловдив</City>
+			<Country>България</Country>
+			<PostalCode>4027</PostalCode>
+		</Address>
+		<PhoneNumber>0885228850</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.119598" lon="24.755600">
+	<name>Lukoil B178</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/118"><text>Lukoil B178 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Цар Борис ІІІ Обединител №4]]></StreetAddress>
+			<City>Пловдив</City>
+			<Country>България</Country>
+			<PostalCode>4004</PostalCode>
+		</Address>
+		<PhoneNumber>032671115</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.145401" lon="24.784800">
+	<name>Lukoil B059</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/119"><text>Lukoil B059 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Освобождение №3]]></StreetAddress>
+			<City>Пловдив</City>
+			<Country>България</Country>
+			<PostalCode>4023</PostalCode>
+		</Address>
+		<PhoneNumber>032993083</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.137165" lon="24.945312">
+	<name>Lukoil B049</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/120"><text>Lukoil B049 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[гл. път Свиленград - Пловдив]]></StreetAddress>
+			<City>Садово</City>
+			<Country>България</Country>
+			<PostalCode>4122</PostalCode>
+		</Address>
+		<PhoneNumber>031182010</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.145199" lon="24.881399">
+	<name>Lukoil B055</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/121"><text>Lukoil B055 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[гл. път Пловдив-Свиленград (Кимера)]]></StreetAddress>
+			<City>път E80</City>
+			<Country>България</Country>
+			<PostalCode>4120</PostalCode>
+		</Address>
+		<PhoneNumber>031182640</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.224300" lon="24.725201">
+	<name>Lukoil B091</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, ECTO Sport 98, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/122"><text>Lukoil B091 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[изход към Пловдив]]></StreetAddress>
+			<City>Труд</City>
+			<Country>България</Country>
+			<PostalCode>4199</PostalCode>
+		</Address>
+		<PhoneNumber>032620512</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.910198" lon="23.894899">
+	<name>Lukoil B023</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/123"><text>Lukoil B023 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[вход от АМ Хемус]]></StreetAddress>
+			<City>Правец</City>
+			<Country>България</Country>
+			<PostalCode>2161</PostalCode>
+		</Address>
+		<PhoneNumber>071332452</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.268299" lon="27.742201">
+	<name>Lukoil B087</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/124"><text>Lukoil B087 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[главен път за Царево]]></StreetAddress>
+			<City>Приморско</City>
+			<Country>България</Country>
+			<PostalCode>8180</PostalCode>
+		</Address>
+		<PhoneNumber>055032391</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.093601" lon="25.215401">
+	<name>Lukoil B163</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/125"><text>Lukoil B163 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Княз Борис №78А]]></StreetAddress>
+			<City>Първомай</City>
+			<Country>България</Country>
+			<PostalCode>4270</PostalCode>
+		</Address>
+		<PhoneNumber>033662384</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.295399" lon="25.942900">
+	<name>Lukoil B035</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/126"><text>Lukoil B035 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[гл. път ІІ-57, кв. 96]]></StreetAddress>
+			<City>Раднево</City>
+			<Country>България</Country>
+			<PostalCode>6273</PostalCode>
+		</Address>
+		<PhoneNumber>041783495</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.553299" lon="22.965300">
+	<name>Lukoil B123</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/127"><text>Lukoil B123 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Райко Даскалов]]></StreetAddress>
+			<City>Радомир</City>
+			<Country>България</Country>
+			<PostalCode>2400</PostalCode>
+		</Address>
+		<PhoneNumber>077782110</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.522301" lon="26.534700">
+	<name>Lukoil B073</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/128"><text>Lukoil B073 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Априлско въстание (до Автогарата)]]></StreetAddress>
+			<City>Разград</City>
+			<Country>България</Country>
+			<PostalCode>7200</PostalCode>
+		</Address>
+		<PhoneNumber>084660864</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.529202" lon="26.511400">
+	<name>Lukoil B184</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/129"><text>Lukoil B184 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Априлско въстание, до КАТ, изход към Русе]]></StreetAddress>
+			<City>Разград</City>
+			<Country>България</Country>
+			<PostalCode>7200</PostalCode>
+		</Address>
+		<PhoneNumber>084660119</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="41.880001" lon="23.447300">
+	<name>Lukoil B102</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/130"><text>Lukoil B102 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Екзарх Йосиф]]></StreetAddress>
+			<City>Разлог</City>
+			<Country>България</Country>
+			<PostalCode>2760</PostalCode>
+		</Address>
+		<PhoneNumber>074780266</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="41.887299" lon="23.480301">
+	<name>Lukoil B124</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/131"><text>Lukoil B124 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Христо Ботев №77]]></StreetAddress>
+			<City>Разлог</City>
+			<Country>България</Country>
+			<PostalCode>2760</PostalCode>
+		</Address>
+		<PhoneNumber>074780544</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.816002" lon="25.928499">
+	<name>Lukoil B031</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/132"><text>Lukoil B031 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Трети март, изход за София (до МЕТРО)]]></StreetAddress>
+			<City>Русе</City>
+			<Country>България</Country>
+			<PostalCode>7000</PostalCode>
+		</Address>
+		<PhoneNumber>082823471</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.834202" lon="25.968300">
+	<name>Lukoil B010</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, ECTO Plus 95, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/133"><text>Lukoil B010 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Христо Ботев №1]]></StreetAddress>
+			<City>Русе</City>
+			<Country>България</Country>
+			<PostalCode>7001</PostalCode>
+		</Address>
+		<PhoneNumber>082860920</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.843102" lon="25.948900">
+	<name>Lukoil B158</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, ECTO Plus 95, Бензин А98H, ECTO Sport 98, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/134"><text>Lukoil B158 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Рила 3 (до Старата поща)]]></StreetAddress>
+			<City>Русе</City>
+			<Country>България</Country>
+			<PostalCode>7012</PostalCode>
+		</Address>
+		<PhoneNumber>082823145</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.841202" lon="25.976200">
+	<name>Lukoil B094</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/135"><text>Lukoil B094 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. България, Дунав мост]]></StreetAddress>
+			<City>Русе</City>
+			<Country>България</Country>
+			<PostalCode>7018</PostalCode>
+		</Address>
+		<PhoneNumber>082240102</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.853802" lon="25.963900">
+	<name>Lukoil B179</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, ECTO Plus 95, Бензин А98H, ECTO Sport 98, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/136"><text>Lukoil B179 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Свети Наум]]></StreetAddress>
+			<City>Русе</City>
+			<Country>България</Country>
+			<PostalCode>7020</PostalCode>
+		</Address>
+		<PhoneNumber>082845529</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="41.620701" lon="23.737101">
+	<name>Lukoil B067</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/137"><text>Lukoil B067 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[път Банско-Гоце Делчев]]></StreetAddress>
+			<City>Баничан</City>
+			<Country>България</Country>
+			<PostalCode>2905</PostalCode>
+		</Address>
+		<PhoneNumber>075252214</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.521900" lon="27.304701">
+	<name>Lukoil B007</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/138"><text>Lukoil B007 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[с. Братово]]></StreetAddress>
+			<City>Братово</City>
+			<Country>България</Country>
+			<PostalCode>8120</PostalCode>
+		</Address>
+		<PhoneNumber>056898300</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.037899" lon="24.277201">
+	<name>Lukoil B097</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/139"><text>Lukoil B097 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[гл. път Е-772 (Велико Търново-София)]]></StreetAddress>
+			<City>Български Извор</City>
+			<Country>България</Country>
+			<PostalCode>5733</PostalCode>
+		</Address>
+		<PhoneNumber>069032313</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.394798" lon="27.299700">
+	<name>Lukoil F517</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Метан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/140"><text>Lukoil F517 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[с. Дебелт]]></StreetAddress>
+			<City>Дебелт</City>
+			<Country>България</Country>
+			<PostalCode>8314</PostalCode>
+		</Address>
+		<PhoneNumber>056830041</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.119900" lon="24.554100">
+	<name>Lukoil B183</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/141"><text>Lukoil B183 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[с. Йоаким Груево]]></StreetAddress>
+			<City>Йоаким Груево</City>
+			<Country>България</Country>
+			<PostalCode>4219</PostalCode>
+		</Address>
+		<PhoneNumber>033963022</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.089500" lon="24.795200">
+	<name>Lukoil B082</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, ECTO Sport 98, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/142"><text>Lukoil B082 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[път Асеновград-Пловдив (до разклона за с. Крумово)]]></StreetAddress>
+			<City>Крумово</City>
+			<Country>България</Country>
+			<PostalCode>4112</PostalCode>
+		</Address>
+		<PhoneNumber>032622819</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.055458" lon="24.826391">
+	<name>Lukoil F522</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/143"><text>Lukoil F522 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[път Пловдив-Асеновград (разклон КЦМ)]]></StreetAddress>
+			<City>Куклен</City>
+			<Country>България</Country>
+			<PostalCode>4101</PostalCode>
+		</Address>
+		<PhoneNumber>032623977</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.089699" lon="25.482901">
+	<name>Lukoil B011</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, ECTO Plus 95, Бензин А98H, ECTO Sport 98, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/144"><text>Lukoil B011 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[гл. път Варна-София (разклон за Момин сбор)]]></StreetAddress>
+			<City>Момин сбор</City>
+			<Country>България</Country>
+			<PostalCode>5067</PostalCode>
+		</Address>
+		<PhoneNumber>062601121</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.529160" lon="26.075684">
+	<name>Lukoil B066</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/145"><text>Lukoil B066 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[гл. път Стара Загора-Сливен]]></StreetAddress>
+			<City>Съдиево</City>
+			<Country>България</Country>
+			<PostalCode>8923</PostalCode>
+		</Address>
+		<PhoneNumber>045292011</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="41.749100" lon="25.348900">
+	<name>Lukoil B109</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/146"><text>Lukoil B109 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[гл. път Хасково-Кърджали]]></StreetAddress>
+			<City>Черноочене</City>
+			<Country>България</Country>
+			<PostalCode>6701</PostalCode>
+		</Address>
+		<PhoneNumber>036916323</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.337399" lon="23.552401">
+	<name>Lukoil B121</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/147"><text>Lukoil B121 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Софийско шосе и ул. Македония]]></StreetAddress>
+			<City>Самоков</City>
+			<Country>България</Country>
+			<PostalCode>2000</PostalCode>
+		</Address>
+		<PhoneNumber>072266960</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.338699" lon="23.530800">
+	<name>Lukoil B089</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/148"><text>Lukoil B089 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[вход от Дупница]]></StreetAddress>
+			<City>Самоков</City>
+			<Country>България</Country>
+			<PostalCode>2007</PostalCode>
+		</Address>
+		<PhoneNumber>072260376</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="41.546398" lon="23.271900">
+	<name>Lukoil B156</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/149"><text>Lukoil B156 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[Околовръстен път, изход Кулата]]></StreetAddress>
+			<City>Сандански</City>
+			<Country>България</Country>
+			<PostalCode>2804</PostalCode>
+		</Address>
+		<PhoneNumber>074621007</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="41.548500" lon="23.268200">
+	<name>Lukoil B155</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, ECTO Plus 95, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/150"><text>Lukoil B155 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[Промишлена зона, път за жп гарата]]></StreetAddress>
+			<City>Сандански</City>
+			<Country>България</Country>
+			<PostalCode>2800</PostalCode>
+		</Address>
+		<PhoneNumber>074621005</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="41.614799" lon="23.991800">
+	<name>Lukoil B101</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/151"><text>Lukoil B101 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[с. Сатовча, Благоевградска област]]></StreetAddress>
+			<City>Сатовча</City>
+			<Country>България</Country>
+			<PostalCode>2950</PostalCode>
+		</Address>
+		<PhoneNumber>075412176</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.957298" lon="23.356400">
+	<name>Lukoil B171</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/152"><text>Lukoil B171 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Дунав №1]]></StreetAddress>
+			<City>Своге</City>
+			<Country>България</Country>
+			<PostalCode>2269</PostalCode>
+		</Address>
+		<PhoneNumber>072625387</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.020699" lon="25.113100">
+	<name>Lukoil B154</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/153"><text>Lukoil B154 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[изход за Велико Търново]]></StreetAddress>
+			<City>Севлиево</City>
+			<Country>България</Country>
+			<PostalCode>5401</PostalCode>
+		</Address>
+		<PhoneNumber>067530019</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.033199" lon="25.008699">
+	<name>Lukoil B034</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/154"><text>Lukoil B034 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[гл. път София-Варна, преди Севлиево]]></StreetAddress>
+			<City>Ряховците</City>
+			<Country>България</Country>
+			<PostalCode>5440</PostalCode>
+		</Address>
+		<PhoneNumber>067532552</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="44.112999" lon="27.182400">
+	<name>Lukoil B074</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/155"><text>Lukoil B074 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ГКПП Силистра, Терминал 2]]></StreetAddress>
+			<City>Силистра</City>
+			<Country>България</Country>
+			<PostalCode>7538</PostalCode>
+		</Address>
+		<PhoneNumber>086833340</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.632999" lon="26.304600">
+	<name>Lukoil B108</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/156"><text>Lukoil B108 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[кв. Речица, гл. път София-Бургас]]></StreetAddress>
+			<City>Сливен</City>
+			<Country>България</Country>
+			<PostalCode>8805</PostalCode>
+		</Address>
+		<PhoneNumber>044670203</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.652302" lon="26.322001">
+	<name>Lukoil B177</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/157"><text>Lukoil B177 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Старозагорско шосе]]></StreetAddress>
+			<City>Сливен</City>
+			<Country>България</Country>
+			<PostalCode>8800</PostalCode>
+		</Address>
+		<PhoneNumber>044632082</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.676876" lon="26.316982">
+	<name>Lukoil B160</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/158"><text>Lukoil B160 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Симеон №7 (до пазара)]]></StreetAddress>
+			<City>Сливен</City>
+			<Country>България</Country>
+			<PostalCode>8801</PostalCode>
+		</Address>
+		<PhoneNumber>044632027</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.681599" lon="26.301001">
+	<name>Lukoil B085</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/159"><text>Lukoil B085 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[кв. Клуцохор]]></StreetAddress>
+			<City>Сливен</City>
+			<Country>България</Country>
+			<PostalCode>8800</PostalCode>
+		</Address>
+		<PhoneNumber>044622292</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.673302" lon="26.361900">
+	<name>Lukoil B084</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/160"><text>Lukoil B084 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[Бургаско шосе, до Държ. резерв]]></StreetAddress>
+			<City>Сливен</City>
+			<Country>България</Country>
+			<PostalCode>8803</PostalCode>
+		</Address>
+		<PhoneNumber>044667430</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="41.568089" lon="24.736158">
+	<name>Lukoil B047</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/161"><text>Lukoil B047 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[кв. Райково (до Стадиона)]]></StreetAddress>
+			<City>Смолян</City>
+			<Country>България</Country>
+			<PostalCode>4701</PostalCode>
+		</Address>
+		<PhoneNumber>030181010</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.649601" lon="24.766800">
+	<name>Lukoil B038</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/162"><text>Lukoil B038 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Иван Вазов №1А]]></StreetAddress>
+			<City>Сопот</City>
+			<Country>България</Country>
+			<PostalCode>4330</PostalCode>
+		</Address>
+		<PhoneNumber>031346741</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.630432" lon="23.464811">
+	<name>Lukoil B016</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/163"><text>Lukoil B016 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[1-ви км]]></StreetAddress>
+			<City>АМ Тракия</City>
+			<Country>България</Country>
+			<PostalCode>1151</PostalCode>
+		</Address>
+		<PhoneNumber>029737588</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.694431" lon="23.294298">
+	<name>Lukoil B032</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Метан, ECTO Plus 95, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/164"><text>Lukoil B032 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. К. Величков и бул. Възкресение]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1330</PostalCode>
+		</Address>
+		<PhoneNumber>029202097</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.685188" lon="23.400213">
+	<name>Lukoil B001</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/165"><text>Lukoil B001 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[Аерогара София - Терминал 1]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1517</PostalCode>
+		</Address>
+		<PhoneNumber>029783969</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.745998" lon="23.229225">
+	<name>Lukoil B013</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/166"><text>Lukoil B013 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[изход за Калотина (до Метро-2)]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1331</PostalCode>
+		</Address>
+		<PhoneNumber>029251377</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.716202" lon="23.280899">
+	<name>Lukoil B015</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, ECTO Plus 95, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/167"><text>Lukoil B015 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Сливница до Орион]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1360</PostalCode>
+		</Address>
+		<PhoneNumber>029251367</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.702301" lon="23.383400">
+	<name>Lukoil B014</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, ECTO Plus 95, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/168"><text>Lukoil B014 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[Ботевградско шосе]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1517</PostalCode>
+		</Address>
+		<PhoneNumber>029455363</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.617699" lon="23.177401">
+	<name>Lukoil B036</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/169"><text>Lukoil B036 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[вход на София от Перник, преди Владая]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1641</PostalCode>
+		</Address>
+		<PhoneNumber>029571775</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.650902" lon="23.217800">
+	<name>Lukoil B135</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/170"><text>Lukoil B135 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[кв. Княжево (изход за Перник)]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1619</PostalCode>
+		</Address>
+		<PhoneNumber>028577164</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.657799" lon="23.339199">
+	<name>Lukoil B134</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, ECTO Plus 95, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/171"><text>Lukoil B134 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Г. М. Димитров (до Зоопарка)]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1700</PostalCode>
+		</Address>
+		<PhoneNumber>029625132</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.674999" lon="23.374701">
+	<name>Lukoil B026</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/172"><text>Lukoil B026 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Шипченски проход (до комплекс Червено знаме)]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1111</PostalCode>
+		</Address>
+		<PhoneNumber>029710309</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.711700" lon="23.268801">
+	<name>Lukoil B041</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/173"><text>Lukoil B041 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ж.к. Люлин-7, бул. Пиротски (до тунела)]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1324</PostalCode>
+		</Address>
+		<PhoneNumber>029250402</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.720299" lon="23.255899">
+	<name>Lukoil B040</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/174"><text>Lukoil B040 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ж.к. Люлин-8, бул. Панчо Владигеров]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1324</PostalCode>
+		</Address>
+		<PhoneNumber>029277303</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.702301" lon="23.297400">
+	<name>Lukoil B043</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/175"><text>Lukoil B043 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Тодор Александров]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1309</PostalCode>
+		</Address>
+		<PhoneNumber>029201379</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.658855" lon="23.402880">
+	<name>Lukoil B090</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Пропан Бутан, ECTO Plus 95, ECTO Sport 98, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/176"><text>Lukoil B090 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Илия Бешков №6]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1592</PostalCode>
+		</Address>
+		<PhoneNumber>029790919</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.672699" lon="23.390499">
+	<name>Lukoil B064</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/177"><text>Lukoil B064 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Асен Йорданов]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1592</PostalCode>
+		</Address>
+		<PhoneNumber>029790053</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.691101" lon="23.229799">
+	<name>Lukoil B077</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/178"><text>Lukoil B077 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[Околовръстен път, до кв. Суходол]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1362</PostalCode>
+		</Address>
+		<PhoneNumber>028297959</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.723499" lon="23.328501">
+	<name>Lukoil B130</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/179"><text>Lukoil B130 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[кв. Орландовци, бул. Първа българска армия, до ДЗИ]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1225</PostalCode>
+		</Address>
+		<PhoneNumber>029367516</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.660702" lon="23.272900">
+	<name>Lukoil B146</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, ECTO Plus 95, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/180"><text>Lukoil B146 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Братя Бъкстон]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1618</PostalCode>
+		</Address>
+		<PhoneNumber>028555104</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.672379" lon="23.243380">
+	<name>Lukoil B133</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/181"><text>Lukoil B133 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[кв. Горна баня ]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1614</PostalCode>
+		</Address>
+		<PhoneNumber>029578708</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.704399" lon="23.331301">
+	<name>Lukoil B143</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, ECTO Plus 95, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/182"><text>Lukoil B143 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Сливница (Сточна гара)]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1202</PostalCode>
+		</Address>
+		<PhoneNumber>029831894</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.663101" lon="23.291500">
+	<name>Lukoil F525</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Метан, ECTO Plus 95, Бензин А98H, ECTO Sport 98, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/183"><text>Lukoil F525 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Тодор Каблешков №74]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1404</PostalCode>
+		</Address>
+		<PhoneNumber>028596908</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.630199" lon="23.374399">
+	<name>Lukoil F526</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/184"><text>Lukoil F526 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[жк Младост 4, ул. Самара №1]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1715</PostalCode>
+		</Address>
+		<PhoneNumber>029756177</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.428101" lon="25.659700">
+	<name>Lukoil B021</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/185"><text>Lukoil B021 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Никола Петков (до СБА)]]></StreetAddress>
+			<City>Стара Загора</City>
+			<Country>България</Country>
+			<PostalCode>6009</PostalCode>
+		</Address>
+		<PhoneNumber>042601595</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.394901" lon="25.646000">
+	<name>Lukoil B142</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Бензин А98H, ECTO Sport 98, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/186"><text>Lukoil B142 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[кв. Кольо Ганчев (вход от Димитровград)]]></StreetAddress>
+			<City>Стара Загора</City>
+			<Country>България</Country>
+			<PostalCode>6006</PostalCode>
+		</Address>
+		<PhoneNumber>042606150</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.992599" lon="27.795000">
+	<name>Lukoil B153</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/187"><text>Lukoil B153 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[на гл. път Бургас-Варна]]></StreetAddress>
+			<City>Старо Оряхово</City>
+			<Country>България</Country>
+			<PostalCode>9110</PostalCode>
+		</Address>
+		<PhoneNumber>051412088</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.656700" lon="25.893299">
+	<name>Lukoil B106</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/188"><text>Lukoil B106 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[път 6 (Бургас-София)]]></StreetAddress>
+			<City>Твърдица</City>
+			<Country>България</Country>
+			<PostalCode>8890</PostalCode>
+		</Address>
+		<PhoneNumber>04542050</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.926399" lon="24.244301">
+	<name>Lukoil B164</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/189"><text>Lukoil B164 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Вършец №77 (изход за Плевен)]]></StreetAddress>
+			<City>Тетевен</City>
+			<Country>България</Country>
+			<PostalCode>5700</PostalCode>
+		</Address>
+		<PhoneNumber>067853477</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.225498" lon="26.554800">
+	<name>Lukoil B136</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/190"><text>Lukoil B136 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[гл. път Варна - София, изход за София]]></StreetAddress>
+			<City>Търговище</City>
+			<Country>България</Country>
+			<PostalCode>7703</PostalCode>
+		</Address>
+		<PhoneNumber>060163034</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.255402" lon="26.575001">
+	<name>Lukoil B112</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H, ECTO Sport 98, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/191"><text>Lukoil B112 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. 29-ти януари №7]]></StreetAddress>
+			<City>Търговище</City>
+			<Country>България</Country>
+			<PostalCode>7700</PostalCode>
+		</Address>
+		<PhoneNumber>060161765</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="41.926006" lon="25.920671">
+	<name>Lukoil B107</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/192"><text>Lukoil B107 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[Тополовградско шосе (изход за Свиленград)]]></StreetAddress>
+			<City>Харманли</City>
+			<Country>България</Country>
+			<PostalCode>6450</PostalCode>
+		</Address>
+		<PhoneNumber>037388767</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="41.930801" lon="25.600201">
+	<name>Lukoil B057</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/193"><text>Lukoil B057 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Съединение (изход за Харманли)]]></StreetAddress>
+			<City>Хасково</City>
+			<Country>България</Country>
+			<PostalCode>6304</PostalCode>
+		</Address>
+		<PhoneNumber>038622412</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="41.918201" lon="25.561701">
+	<name>Lukoil B185</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/194"><text>Lukoil B185 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Освобождение (изход към Кърджали)]]></StreetAddress>
+			<City>Хасково</City>
+			<Country>България</Country>
+			<PostalCode>6302</PostalCode>
+		</Address>
+		<PhoneNumber>038657000</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.169399" lon="27.837900">
+	<name>Lukoil B071</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/195"><text>Lukoil B071 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[гл. път за Бургас]]></StreetAddress>
+			<City>Царево</City>
+			<Country>България</Country>
+			<PostalCode>8260</PostalCode>
+		</Address>
+		<PhoneNumber>059054031</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="41.730801" lon="24.683800">
+	<name>Lukoil B192</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/196"><text>Lukoil B192 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Беломорска]]></StreetAddress>
+			<City>Чепеларе</City>
+			<Country>България</Country>
+			<PostalCode>4850</PostalCode>
+		</Address>
+		<PhoneNumber>030513007</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.438702" lon="27.636400">
+	<name>Lukoil B078</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/197"><text>Lukoil B078 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[панорамен път Приморско-Бургас]]></StreetAddress>
+			<City>Черноморец</City>
+			<Country>България</Country>
+			<PostalCode>8142</PostalCode>
+		</Address>
+		<PhoneNumber>055043124</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.201099" lon="25.338900">
+	<name>Lukoil B180</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/198"><text>Lukoil B180 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[парк Стари гробища (изход за Стара Загора)]]></StreetAddress>
+			<City>Чирпан</City>
+			<Country>България</Country>
+			<PostalCode>6200</PostalCode>
+		</Address>
+		<PhoneNumber>041693360</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.277802" lon="26.909599">
+	<name>Lukoil B039</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/199"><text>Lukoil B039 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ж.к. Боян Българанов]]></StreetAddress>
+			<City>Шумен</City>
+			<Country>България</Country>
+			<PostalCode>9710</PostalCode>
+		</Address>
+		<PhoneNumber>054800232</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.260502" lon="26.945499">
+	<name>Lukoil B205</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/200"><text>Lukoil B205 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Ришки проход]]></StreetAddress>
+			<City>Шумен</City>
+			<Country>България</Country>
+			<PostalCode>9701</PostalCode>
+		</Address>
+		<PhoneNumber></PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.025002" lon="23.679199">
+	<name>Lukoil B175</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/201"><text>Lukoil B175 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Цар Борис ІІІ №2 (изход към Юндола)]]></StreetAddress>
+			<City>Якоруда</City>
+			<Country>България</Country>
+			<PostalCode>2790</PostalCode>
+		</Address>
+		<PhoneNumber>07442224</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.475101" lon="26.528500">
+	<name>Lukoil B006</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, ECTO Plus 95, Бензин А98H, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/202"><text>Lukoil B006 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Търговска №164]]></StreetAddress>
+			<City>Ямбол</City>
+			<Country>България</Country>
+			<PostalCode>8602</PostalCode>
+		</Address>
+		<PhoneNumber>046669013</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.471100" lon="26.496599">
+	<name>Lukoil B104</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/203"><text>Lukoil B104 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Обходен път-Юг]]></StreetAddress>
+			<City>Ямбол</City>
+			<Country>България</Country>
+			<PostalCode>8601</PostalCode>
+		</Address>
+		<PhoneNumber>046664814</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="41.984798" lon="23.087799">
+	<name>Lukoil F549</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/1495"><text>Lukoil F549 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Солунските атентатори №3]]></StreetAddress>
+			<City>Благоевград</City>
+			<Country>България</Country>
+			<PostalCode>2704</PostalCode>
+		</Address>
+		<PhoneNumber>073840520</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.272900" lon="24.288300">
+	<name>Lukoil F550</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, ECTO Sport 98, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/1526"><text>Lukoil F550 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[88-ми км юг (преди разклон Пазарджик)]]></StreetAddress>
+			<City>АМ Тракия</City>
+			<Country>България</Country>
+			<PostalCode>4413</PostalCode>
+		</Address>
+		<PhoneNumber>034910287</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.477600" lon="23.798000">
+	<name>Lukoil B117</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, ECTO Sport 98, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/1529"><text>Lukoil B117 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[36-ти км (посока Пловдив-София)]]></StreetAddress>
+			<City>АМ Тракия</City>
+			<Country>България</Country>
+			<PostalCode>2050</PostalCode>
+		</Address>
+		<PhoneNumber></PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.566502" lon="27.620800">
+	<name>Lukoil Поморие</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, ECTO Sport 98, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/1530"><text>Lukoil Поморие във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Княз Борис l]]></StreetAddress>
+			<City>Поморие</City>
+			<Country>България</Country>
+			<PostalCode>8200</PostalCode>
+		</Address>
+		<PhoneNumber></PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.812099" lon="27.877001">
+	<name>Lukoil B114</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Sport 98, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/1534"><text>Lukoil B114 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[изход към Бургас]]></StreetAddress>
+			<City>Обзор</City>
+			<Country>България</Country>
+			<PostalCode>8250</PostalCode>
+		</Address>
+		<PhoneNumber>055632725</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.921799" lon="23.806200">
+	<name>Lukoil B197</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, ECTO Sport 98, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/1535"><text>Lukoil B197 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[Околовръстно шосе]]></StreetAddress>
+			<City>Ботевград</City>
+			<Country>България</Country>
+			<PostalCode>2140</PostalCode>
+		</Address>
+		<PhoneNumber>071352080</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.901299" lon="24.714701">
+	<name>Lukoil F555</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/1536"><text>Lukoil F555 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Васил Левски №320]]></StreetAddress>
+			<City>Троян</City>
+			<Country>България</Country>
+			<PostalCode>5602</PostalCode>
+		</Address>
+		<PhoneNumber>0887390054</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.983299" lon="25.480200">
+	<name>Lukoil B196</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/1537"><text>Lukoil B196 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[Изход за Велико Търново]]></StreetAddress>
+			<City>Дряново</City>
+			<Country>България</Country>
+			<PostalCode>5370</PostalCode>
+		</Address>
+		<PhoneNumber>067671116</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.107101" lon="25.794001">
+	<name>Lukoil B111</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/1539"><text>Lukoil B111 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[гл. път Варна - Велико Търново, разклон за с. Добри дял]]></StreetAddress>
+			<City>Добри Дял</City>
+			<Country>България</Country>
+			<PostalCode>5149</PostalCode>
+		</Address>
+		<PhoneNumber>061932345</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.158401" lon="24.705500">
+	<name>Lukoil F545</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, ECTO Sport 98, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/1540"><text>Lukoil F545 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[Северна индустриална зона №8А]]></StreetAddress>
+			<City>Ловеч</City>
+			<Country>България</Country>
+			<PostalCode>5506</PostalCode>
+		</Address>
+		<PhoneNumber>068600018</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.286400" lon="27.950199">
+	<name>Lukoil B199</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, Бензин А98H]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/1546"><text>Lukoil B199 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[Варна-Кичево]]></StreetAddress>
+			<City>Кичево</City>
+			<Country>България</Country>
+			<PostalCode>0</PostalCode>
+		</Address>
+		<PhoneNumber>0879102199</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.023998" lon="24.900400">
+	<name>Lukoil F554</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, ECTO Sport 98]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/1550"><text>Lukoil F554 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Цар Иван Асен II №125]]></StreetAddress>
+			<City>Асеновград</City>
+			<Country>България</Country>
+			<PostalCode>4231</PostalCode>
+		</Address>
+		<PhoneNumber></PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.165199" lon="24.749800">
+	<name>Lukoil F552</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/1551"><text>Lukoil F552 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Брезовско шосе №127]]></StreetAddress>
+			<City>Пловдив</City>
+			<Country>България</Country>
+			<PostalCode>4003</PostalCode>
+		</Address>
+		<PhoneNumber></PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.356098" lon="25.656900">
+	<name>Lukoil F559</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, Бензин А98H, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/1572"><text>Lukoil F559 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[гл. път Стара Загора - Димитровград (разклон за с. Маджерица)]]></StreetAddress>
+			<City>Маджерито</City>
+			<Country>България</Country>
+			<PostalCode>6063</PostalCode>
+		</Address>
+		<PhoneNumber>0877706606</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.556702" lon="26.691299">
+	<name>Lukoil B198</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, ECTO Sport 98, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/1799"><text>Lukoil B198 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[299-ти км посока Бургас, до надлез Воденичане]]></StreetAddress>
+			<City>АМ Тракия</City>
+			<Country>България</Country>
+			<PostalCode>8693</PostalCode>
+		</Address>
+		<PhoneNumber></PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.542801" lon="26.921900">
+	<name>Lukoil F537</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/1803"><text>Lukoil F537 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[с. Венец, Шуменско]]></StreetAddress>
+			<City>Венец</City>
+			<Country>България</Country>
+			<PostalCode>9751</PostalCode>
+		</Address>
+		<PhoneNumber></PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.463894" lon="26.067402">
+	<name>Lukoil F561</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, ECTO Sport 98, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/1964"><text>Lukoil F561 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[km 245 (посока Бургас-София)]]></StreetAddress>
+			<City>АМ Тракия</City>
+			<Country>България</Country>
+			<PostalCode>8937</PostalCode>
+		</Address>
+		<PhoneNumber></PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.271042" lon="24.294462">
+	<name>Lukoil F562</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Plus 95, ECTO Sport 98, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/1981"><text>Lukoil F562 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[88-ми км север]]></StreetAddress>
+			<City>АМ Тракия</City>
+			<Country>България</Country>
+			<PostalCode>4444</PostalCode>
+		</Address>
+		<PhoneNumber>0885562815</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.446140" lon="23.817062">
+	<name>Lukoil F556</name>
+	<desc><![CDATA[Предлагани горива: Бензин A95H, Super Diesel, Пропан Бутан, ECTO Diesel]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/1982"><text>Lukoil F556 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Околовръстен път №16]]></StreetAddress>
+			<City>Ихтиман</City>
+			<Country>България</Country>
+			<PostalCode>2050</PostalCode>
+		</Address>
+		<PhoneNumber></PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+</gpx>

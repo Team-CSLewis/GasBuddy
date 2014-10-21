@@ -1,0 +1,1934 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx
+xmlns=""
+xmlns:gpxx ="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.topografix.com/GPX/1/1
+http://www.topografix.com/GPX/1/1/gpx.xsd
+http://www.garmin.com/xmlschemas/GpxExtensions/v3
+http://www8.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd"
+version="1.1"
+creator="fuelo">
+
+<metadata>
+	<name>Gasstations</name>
+	<desc>Gasstations in Bulgaria</desc>
+	<author>
+	    <name>Fuelo.net</name>
+    </author>
+	<link href="http://fuelo.net"><text>fuelo.net</text></link>
+	<time>2014-10-21T11:29:33+03:00</time>
+	<keywords>gasstations</keywords>
+	<bounds minlat="41.236022" minlon="22.360067" maxlat="44.214555" maxlon="28.60705" />
+</metadata>
+
+<wpt lat="42.718300" lon="23.254299">
+	<name>Eko София - Люлин</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/204"><text>Eko София - Люлин във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Панчо Владигеров и ул. 701]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1324</PostalCode>
+		</Address>
+		<PhoneNumber>0898717079</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.082802" lon="24.798500">
+	<name>Eko Асеновград</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/205"><text>Eko Асеновград във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[8-ми км на път ІІ-86 (посока Пловдив-Асеновград)]]></StreetAddress>
+			<City>Крумово</City>
+			<Country>България</Country>
+			<PostalCode>4112</PostalCode>
+		</Address>
+		<PhoneNumber>0899133288</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.846699" lon="25.963800">
+	<name>Eko Русе Липник</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/206"><text>Eko Русе Липник във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Липник №3]]></StreetAddress>
+			<City>Русе</City>
+			<Country>България</Country>
+			<PostalCode>7002</PostalCode>
+		</Address>
+		<PhoneNumber>0893554364</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.669510" lon="23.384174">
+	<name>Eko София - Дружба I</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/207"><text>Eko София - Дружба I във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Професор Цветан Лазаров]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1592</PostalCode>
+		</Address>
+		<PhoneNumber>0894461398</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.668098" lon="23.328899">
+	<name>Eko София - Вапцаров</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/208"><text>Eko София - Вапцаров във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Никола Вапцаров №2А]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1407</PostalCode>
+		</Address>
+		<PhoneNumber>0897921290</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.572639" lon="27.831593">
+	<name>Eko Добрич - Добруджа</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/209"><text>Eko Добрич - Добруджа във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Добруджа №24]]></StreetAddress>
+			<City>Добрич</City>
+			<Country>България</Country>
+			<PostalCode>9300</PostalCode>
+		</Address>
+		<PhoneNumber>0896797594</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.843300" lon="25.981501">
+	<name>Eko Русе България</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/210"><text>Eko Русе България във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. България №206]]></StreetAddress>
+			<City>Русе</City>
+			<Country>България</Country>
+			<PostalCode>7018</PostalCode>
+		</Address>
+		<PhoneNumber>082846841</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.650101" lon="23.293100">
+	<name>Eko София – Бояна</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/211"><text>Eko София – Бояна във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Околовръстен път]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1404</PostalCode>
+		</Address>
+		<PhoneNumber>0896825663</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.054695" lon="25.598389">
+	<name>Eko Димитровград</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/212"><text>Eko Димитровград във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Димитър Благоев (до ЖП гарата)]]></StreetAddress>
+			<City>Димитровград</City>
+			<Country>България</Country>
+			<PostalCode>6400</PostalCode>
+		</Address>
+		<PhoneNumber>0894710795</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.638401" lon="23.319300">
+	<name>Eko София - Царско село</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/214"><text>Eko София - Царско село във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Околовръстен път (Царско село)]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1407</PostalCode>
+		</Address>
+		<PhoneNumber>0898576242</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.961498" lon="23.347900">
+	<name>Eko Своге</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/215"><text>Eko Своге във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Искър №6Б]]></StreetAddress>
+			<City>Своге</City>
+			<Country>България</Country>
+			<PostalCode>2260</PostalCode>
+		</Address>
+		<PhoneNumber>0896759663</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="41.935902" lon="25.565500">
+	<name>Eko Хасково</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/216"><text>Eko Хасково във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Васил Левски (до цигарена фабрика)]]></StreetAddress>
+			<City>Хасково</City>
+			<Country>България</Country>
+			<PostalCode>6304</PostalCode>
+		</Address>
+		<PhoneNumber>0896707741</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.198837" lon="24.641081">
+	<name>Eko Радиново</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/217"><text>Eko Радиново във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[км 119 (посока Бургас-София)]]></StreetAddress>
+			<City>АМ Тракия</City>
+			<Country>България</Country>
+			<PostalCode>4202</PostalCode>
+		</Address>
+		<PhoneNumber>0878389239</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="41.422501" lon="23.214100">
+	<name>Eko Петрич</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/219"><text>Eko Петрич във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[Петрич, изход, местност Мерата]]></StreetAddress>
+			<City>Петрич</City>
+			<Country>България</Country>
+			<PostalCode>2850</PostalCode>
+		</Address>
+		<PhoneNumber>0899133541</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.654999" lon="26.323200">
+	<name>Eko Сливен - Старозагорско шосе</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/220"><text>Eko Сливен - Старозагорско шосе във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Старозагорско шосе (до КАТ)]]></StreetAddress>
+			<City>Сливен</City>
+			<Country>България</Country>
+			<PostalCode>8800</PostalCode>
+		</Address>
+		<PhoneNumber>0895560478</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.034801" lon="25.097601">
+	<name>Eko Севлиево</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/221"><text>Eko Севлиево във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Бял бряг №2 (до Идеал стандарт)]]></StreetAddress>
+			<City>Севлиево</City>
+			<Country>България</Country>
+			<PostalCode>5400</PostalCode>
+		</Address>
+		<PhoneNumber>0889001213</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.404499" lon="25.641500">
+	<name>Eko Стара Загора - ЮГ</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/222"><text>Eko Стара Загора - ЮГ във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Патрирах Евтимий №19А]]></StreetAddress>
+			<City>Стара Загора</City>
+			<Country>България</Country>
+			<PostalCode>6006</PostalCode>
+		</Address>
+		<PhoneNumber>0895560471</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="41.398800" lon="23.354200">
+	<name>Eko Кулата</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/223"><text>Eko Кулата във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[път Е-79, посока Кулата]]></StreetAddress>
+			<City>Чучулигово</City>
+			<Country>България</Country>
+			<PostalCode>2865</PostalCode>
+		</Address>
+		<PhoneNumber>074252300</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="41.760899" lon="26.211700">
+	<name>Eko Свиленград</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/224"><text>Eko Свиленград във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. България №137А]]></StreetAddress>
+			<City>Свиленград</City>
+			<Country>България</Country>
+			<PostalCode>6500</PostalCode>
+		</Address>
+		<PhoneNumber>0898635572</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.149601" lon="24.775299">
+	<name>Eko Пловдив - Цариградско шосе</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/225"><text>Eko Пловдив - Цариградско шосе във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Цариградско Шосе №5А]]></StreetAddress>
+			<City>Пловдив</City>
+			<Country>България</Country>
+			<PostalCode>4006</PostalCode>
+		</Address>
+		<PhoneNumber>0895560470</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="41.573502" lon="23.747700">
+	<name>Eko Гоце Делчев</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/226"><text>Eko Гоце Делчев във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[УПИ VII - 4231 от кв. 188]]></StreetAddress>
+			<City>Гоце Делчев</City>
+			<Country>България</Country>
+			<PostalCode>2900</PostalCode>
+		</Address>
+		<PhoneNumber>0898650531</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.751862" lon="23.274473">
+	<name>Eko София – Ломско Шосе</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/227"><text>Eko София – Ломско Шосе във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Ломско шосе №136]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1326</PostalCode>
+		</Address>
+		<PhoneNumber>028341606</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.678001" lon="23.367201">
+	<name>Eko София – Шипченски проход</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/228"><text>Eko София – Шипченски проход във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Шипченски  проход (пред завод Електроника)]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1574</PostalCode>
+		</Address>
+		<PhoneNumber>0896759653</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.284599" lon="23.124399">
+	<name>Eko Дупница</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/229"><text>Eko Дупница във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Софийско шосе №1]]></StreetAddress>
+			<City>Дупница</City>
+			<Country>България</Country>
+			<PostalCode>2602</PostalCode>
+		</Address>
+		<PhoneNumber>0895566899</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.831699" lon="25.970800">
+	<name>Eko Русе</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/230"><text>Eko Русе във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Хр. Ботев №40]]></StreetAddress>
+			<City>Русе</City>
+			<Country>България</Country>
+			<PostalCode>7000</PostalCode>
+		</Address>
+		<PhoneNumber>0896797675</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.402500" lon="23.242901">
+	<name>Eko Монтана</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/232"><text>Eko Монтана във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[път Е-79, посока Враца]]></StreetAddress>
+			<City>Монтана</City>
+			<Country>България</Country>
+			<PostalCode>3403</PostalCode>
+		</Address>
+		<PhoneNumber>0895622327</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.293800" lon="22.703400">
+	<name>Eko Кюстендил</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/233"><text>Eko Кюстендил във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Николичевски път №2 (до завод Велбъжд)]]></StreetAddress>
+			<City>Кюстендил</City>
+			<Country>България</Country>
+			<PostalCode>2504</PostalCode>
+		</Address>
+		<PhoneNumber>0896753552</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.224400" lon="27.993900">
+	<name>Eko Варна - Първа</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/234"><text>Eko Варна - Първа във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Първа №87 (срещу Евkсиноград)]]></StreetAddress>
+			<City>Варна</City>
+			<Country>България</Country>
+			<PostalCode>9006</PostalCode>
+		</Address>
+		<PhoneNumber>0899131424</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.663799" lon="23.260500">
+	<name>Eko София – Цар Борис III</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/235"><text>Eko София – Цар Борис III във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Никола Петков]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1618</PostalCode>
+		</Address>
+		<PhoneNumber>0883332694</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="41.997883" lon="23.098846">
+	<name>Eko Благоевград</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/236"><text>Eko Благоевград във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Пейо Яворов №2 (х-л Езерец)]]></StreetAddress>
+			<City>Благоевград</City>
+			<Country>България</Country>
+			<PostalCode>2704</PostalCode>
+		</Address>
+		<PhoneNumber>0898640756</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.704399" lon="23.358000">
+	<name>Eko София - Владимир Вазов</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/237"><text>Eko София - Владимир Вазов във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Владимир Вазов 26 (при ул. Велека)]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1517</PostalCode>
+		</Address>
+		<PhoneNumber>0893554393</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.645107" lon="23.412376">
+	<name>Eko София - Дружба II</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Метан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/238"><text>Eko София - Дружба II във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Димитър Пешев]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1528</PostalCode>
+		</Address>
+		<PhoneNumber>0894461397</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.166420" lon="24.723534">
+	<name>Eko Пловдив - В. Априлов</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/239"><text>Eko Пловдив - В. Априлов във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Васил Априлов №156Б]]></StreetAddress>
+			<City>Пловдив</City>
+			<Country>България</Country>
+			<PostalCode>4027</PostalCode>
+		</Address>
+		<PhoneNumber>0899133534</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.659199" lon="23.305599">
+	<name>Eko София - Сребърна</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/240"><text>Eko София - Сребърна във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Сребърна]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1407</PostalCode>
+		</Address>
+		<PhoneNumber>0894461393</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.199699" lon="27.907301">
+	<name>Eko Варна - Порт</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/241"><text>Eko Варна - Порт във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Девня]]></StreetAddress>
+			<City>Варна</City>
+			<Country>България</Country>
+			<PostalCode>9000</PostalCode>
+		</Address>
+		<PhoneNumber>0888604366</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.160301" lon="24.763300">
+	<name>Eko Пловдив - България</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/242"><text>Eko Пловдив - България във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. България №2 (до Панаира)]]></StreetAddress>
+			<City>Пловдив</City>
+			<Country>България</Country>
+			<PostalCode>4021</PostalCode>
+		</Address>
+		<PhoneNumber>0896761727</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="41.844299" lon="23.485600">
+	<name>Eko Банско</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/243"><text>Eko Банско във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Никола Голев 3-7 (пътя за Гоце Делчев)]]></StreetAddress>
+			<City>Банско</City>
+			<Country>България</Country>
+			<PostalCode>2770</PostalCode>
+		</Address>
+		<PhoneNumber>0898687125</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.396999" lon="24.621099">
+	<name>Eko Плевен</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/245"><text>Eko Плевен във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Христо Ботев]]></StreetAddress>
+			<City>Плевен</City>
+			<Country>България</Country>
+			<PostalCode>5800</PostalCode>
+		</Address>
+		<PhoneNumber>0896754518</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.697498" lon="23.296200">
+	<name>Eko София – Константин Величков</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/246"><text>Eko София – Константин Величков във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. К. Величков и ул. Д-р Каликов]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1309</PostalCode>
+		</Address>
+		<PhoneNumber>0896759661</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="41.944870" lon="25.555479">
+	<name>Eko Хасково - Димитровградско шосе</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/247"><text>Eko Хасково - Димитровградско шосе във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Димитровградско шосе (изход София)]]></StreetAddress>
+			<City>Хасково</City>
+			<Country>България</Country>
+			<PostalCode>6303</PostalCode>
+		</Address>
+		<PhoneNumber>038624249</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.131001" lon="24.690001">
+	<name>Eko Пловдив - Пещерско шосе</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/249"><text>Eko Пловдив - Пещерско шосе във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Пещерско шосе №156]]></StreetAddress>
+			<City>Пловдив</City>
+			<Country>България</Country>
+			<PostalCode>4015</PostalCode>
+		</Address>
+		<PhoneNumber>0878389239</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.221100" lon="27.897100">
+	<name>Eko Варна - Сливница</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/250"><text>Eko Варна - Сливница във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Сливница №189]]></StreetAddress>
+			<City>Варна</City>
+			<Country>България</Country>
+			<PostalCode>9009</PostalCode>
+		</Address>
+		<PhoneNumber>0896672529</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.648201" lon="27.656799">
+	<name>Eko Ахелой</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/252"><text>Eko Ахелой във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[Главен път Бургас – Варна, изхода за Слънчев Бряг]]></StreetAddress>
+			<City>Ахелой</City>
+			<Country>България</Country>
+			<PostalCode>8217</PostalCode>
+		</Address>
+		<PhoneNumber>059685001</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.112099" lon="24.759100">
+	<name>Eko Пловдив - Кукленско шосе</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/255"><text>Eko Пловдив - Кукленско шосе във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Кукленско шосе]]></StreetAddress>
+			<City>Пловдив</City>
+			<Country>България</Country>
+			<PostalCode>4004</PostalCode>
+		</Address>
+		<PhoneNumber>0895566803</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.222801" lon="27.871099">
+	<name>Eko Варна - Варненчик</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/256"><text>Eko Варна - Варненчик във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Владислав Варненчик]]></StreetAddress>
+			<City>Варна</City>
+			<Country>България</Country>
+			<PostalCode>9009</PostalCode>
+		</Address>
+		<PhoneNumber>0896754523</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.706902" lon="23.468399">
+	<name>Eko София – Долни Богров</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/257"><text>Eko София – Долни Богров във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[с. Долни Богров]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1855</PostalCode>
+		</Address>
+		<PhoneNumber>0896759659</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.896099" lon="22.526501">
+	<name>Eko Кула</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/258"><text>Eko Кула във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Толбухин №4]]></StreetAddress>
+			<City>Кула</City>
+			<Country>България</Country>
+			<PostalCode>3800</PostalCode>
+		</Address>
+		<PhoneNumber>0896759669</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.603600" lon="23.084200">
+	<name>Eko Перник Стомана</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/259"><text>Eko Перник Стомана във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Скоростна магистрала]]></StreetAddress>
+			<City>Перник</City>
+			<Country>България</Country>
+			<PostalCode>2306</PostalCode>
+		</Address>
+		<PhoneNumber>0894461346</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.667801" lon="23.368200">
+	<name>Eko София - Младост</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/260"><text>Eko София - Младост във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Цариградско шосе (кръговото на 4-и км)]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1797</PostalCode>
+		</Address>
+		<PhoneNumber>0895560464</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="41.710201" lon="23.172300">
+	<name>Eko Кресна</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/261"><text>Eko Кресна във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[път Е-79, посока София - Кулата]]></StreetAddress>
+			<City>Кресна</City>
+			<Country>България</Country>
+			<PostalCode>2840</PostalCode>
+		</Address>
+		<PhoneNumber>0886476747</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.136200" lon="25.692499">
+	<name>Eko Горна Оряховица</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/262"><text>Eko Горна Оряховица във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Васил Левски №23]]></StreetAddress>
+			<City>Горна Оряховица</City>
+			<Country>България</Country>
+			<PostalCode>5102</PostalCode>
+		</Address>
+		<PhoneNumber>0896759665</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.072399" lon="25.623899">
+	<name>Eko Велико Търново - Вход</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/263"><text>Eko Велико Търново - Вход във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Магистрална (срещу завод Победа)]]></StreetAddress>
+			<City>Велико Търново</City>
+			<Country>България</Country>
+			<PostalCode>5002</PostalCode>
+		</Address>
+		<PhoneNumber>0896759665</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.480801" lon="27.437901">
+	<name>Eko Бургас</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/264"><text>Eko Бургас във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[Индустриална зона (вход Созопол)]]></StreetAddress>
+			<City>Бургас</City>
+			<Country>България</Country>
+			<PostalCode>8002</PostalCode>
+		</Address>
+		<PhoneNumber>0895560479</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.753899" lon="23.442301">
+	<name>Eko София - Чепинци</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/265"><text>Eko София - Чепинци във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[Чепинци, Околовръстен път]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1554</PostalCode>
+		</Address>
+		<PhoneNumber>0894461396</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.651318" lon="23.316212">
+	<name>Eko София – Черни връх</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/267"><text>Eko София – Черни връх във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[кв. Лозенец, бул. Черни връх (преди Околовръстен път)]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1407</PostalCode>
+		</Address>
+		<PhoneNumber>0899133547</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.262199" lon="26.943501">
+	<name>Eko Шумен - Ришки проход</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/268"><text>Eko Шумен - Ришки проход във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Ришки проход №25 (срещу митницата)]]></StreetAddress>
+			<City>Шумен</City>
+			<Country>България</Country>
+			<PostalCode>9701</PostalCode>
+		</Address>
+		<PhoneNumber></PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.714901" lon="23.263000">
+	<name>Eko София - Царица Йоана</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/270"><text>Eko София - Царица Йоана във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Царица Йоана (Люлин 7)]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1324</PostalCode>
+		</Address>
+		<PhoneNumber>0876761304</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.608299" lon="23.058599">
+	<name>Eko Перник</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/271"><text>Eko Перник във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Юрий Гагарин]]></StreetAddress>
+			<City>Перник</City>
+			<Country>България</Country>
+			<PostalCode>2309</PostalCode>
+		</Address>
+		<PhoneNumber>0898622606</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.680698" lon="23.308399">
+	<name>Eko София - България</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/272"><text>Eko София - България във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. България и ул. Д-р Стефан Сарафов]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1408</PostalCode>
+		</Address>
+		<PhoneNumber>029532355</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.219799" lon="27.940701">
+	<name>Eko Варна - Чайка</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/273"><text>Eko Варна - Чайка във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Васил Левски (под стадион Чайка)]]></StreetAddress>
+			<City>Варна</City>
+			<Country>България</Country>
+			<PostalCode>9010</PostalCode>
+		</Address>
+		<PhoneNumber>0894442503</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.204102" lon="24.321800">
+	<name>Eko Пазарджик</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/274"><text>Eko Пазарджик във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[околовръстен път]]></StreetAddress>
+			<City>Пазарджик</City>
+			<Country>България</Country>
+			<PostalCode>4400</PostalCode>
+		</Address>
+		<PhoneNumber>0898658099</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.421501" lon="24.609501">
+	<name>Eko Плевен - Мизия</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/275"><text>Eko Плевен - Мизия във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Българска авиация №2 (след подлеза)]]></StreetAddress>
+			<City>Плевен</City>
+			<Country>България</Country>
+			<PostalCode>5809</PostalCode>
+		</Address>
+		<PhoneNumber>0895560477</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.074501" lon="25.605700">
+	<name>Eko Велико Търново - Изход</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/276"><text>Eko Велико Търново - Изход във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Магистрална №28]]></StreetAddress>
+			<City>Велико Търново</City>
+			<Country>България</Country>
+			<PostalCode>5002</PostalCode>
+		</Address>
+		<PhoneNumber>0899133527</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.699600" lon="23.368500">
+	<name>Eko София – Ботевградско шосе</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/277"><text>Eko София – Ботевградско шосе във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Ботевградско шосе]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1517</PostalCode>
+		</Address>
+		<PhoneNumber>0896759657</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.015076" lon="23.083349">
+	<name>Eko Благоевград - Център</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/279"><text>Eko Благоевград - Център във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Свети Димитър Солунски]]></StreetAddress>
+			<City>Благоевград</City>
+			<Country>България</Country>
+			<PostalCode>2700</PostalCode>
+		</Address>
+		<PhoneNumber>0898650532</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.720280" lon="23.279766">
+	<name>Eko София - Орион</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/280"><text>Eko София - Орион във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Адам Мицкевич №1 (модерно предградие)]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1360</PostalCode>
+		</Address>
+		<PhoneNumber>0895560469</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.132954" lon="24.731707">
+	<name>Eko Пловдив - Ботев</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/281"><text>Eko Пловдив - Ботев във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Сергей Румянцев №8]]></StreetAddress>
+			<City>Пловдив</City>
+			<Country>България</Country>
+			<PostalCode>4002</PostalCode>
+		</Address>
+		<PhoneNumber>0899133568</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.560699" lon="23.667999">
+	<name>Eko Ихтиман</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/282"><text>Eko Ихтиман във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[21ви км]]></StreetAddress>
+			<City>АМ Тракия</City>
+			<Country>България</Country>
+			<PostalCode>2060</PostalCode>
+		</Address>
+		<PhoneNumber>0899133513</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.654499" lon="23.227600">
+	<name>Eko София - Княжево</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/283"><text>Eko София - Княжево във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Цар Борис III №362]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1619</PostalCode>
+		</Address>
+		<PhoneNumber>0898576242</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.415066" lon="25.601294">
+	<name>Eko Стара Загора</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/284"><text>Eko Стара Загора във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[кв. Железник]]></StreetAddress>
+			<City>Стара Загора</City>
+			<Country>България</Country>
+			<PostalCode>6000</PostalCode>
+		</Address>
+		<PhoneNumber>0899133520</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.482399" lon="27.442301">
+	<name>Eko Бургас - Акациите</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/285"><text>Eko Бургас - Акациите във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Индустриална №33]]></StreetAddress>
+			<City>Бургас</City>
+			<Country>България</Country>
+			<PostalCode>8002</PostalCode>
+		</Address>
+		<PhoneNumber>0895560473</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.118999" lon="24.736000">
+	<name>Eko Пловдив - Бялата воденица</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/287"><text>Eko Пловдив - Бялата воденица във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Ал. Стамболийски и ул. Д. Талев]]></StreetAddress>
+			<City>Пловдив</City>
+			<Country>България</Country>
+			<PostalCode>4004</PostalCode>
+		</Address>
+		<PhoneNumber>0899133574</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.276501" lon="26.948099">
+	<name>Eko Шумен - Симеон Велики</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/288"><text>Eko Шумен - Симеон Велики във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Симеон Велики №16А]]></StreetAddress>
+			<City>Шумен</City>
+			<Country>България</Country>
+			<PostalCode>9704</PostalCode>
+		</Address>
+		<PhoneNumber></PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.710499" lon="23.335800">
+	<name>Eko София - Каменоделска</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/289"><text>Eko София - Каменоделска във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Каменоделска]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1202</PostalCode>
+		</Address>
+		<PhoneNumber>0894461395</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.628502" lon="23.345900">
+	<name>Eko София - Малинова долина</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/290"><text>Eko София - Малинова долина във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Околовръстен път]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1434</PostalCode>
+		</Address>
+		<PhoneNumber>0896786208</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.676102" lon="26.319401">
+	<name>Eko Сливен</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/291"><text>Eko Сливен във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Братя Миладинови и  бул. Цар Симеон]]></StreetAddress>
+			<City>Сливен</City>
+			<Country>България</Country>
+			<PostalCode>8801</PostalCode>
+		</Address>
+		<PhoneNumber>0895560478</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.710541" lon="23.349339">
+	<name>Eko София - Резбарска</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/292"><text>Eko София - Резбарска във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Резбарска и ул. Никола Войноски]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1510</PostalCode>
+		</Address>
+		<PhoneNumber>0897933016</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.219700" lon="23.557301">
+	<name>Eko Враца</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/358"><text>Eko Враца във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Мито Орозов №65]]></StreetAddress>
+			<City>Враца</City>
+			<Country>България</Country>
+			<PostalCode>3000</PostalCode>
+		</Address>
+		<PhoneNumber>092623237</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.720402" lon="23.274300">
+	<name>Eko София - Сливница</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/1533"><text>Eko София - Сливница във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Сливница №8А]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1360</PostalCode>
+		</Address>
+		<PhoneNumber>0895560469</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.251499" lon="26.554399">
+	<name>Eko Търговище</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/1545"><text>Eko Търговище във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[Промишлена зона, околовръстен път]]></StreetAddress>
+			<City>Търговище</City>
+			<Country>България</Country>
+			<PostalCode>7702</PostalCode>
+		</Address>
+		<PhoneNumber>0893710766</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.648991" lon="23.378176">
+	<name>Eko София – Александър Малинов</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/1549"><text>Eko София – Александър Малинов във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Александър Малинов №37]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1729</PostalCode>
+		</Address>
+		<PhoneNumber>0893424555</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.229500" lon="27.899200">
+	<name>Eko Варна - Цар Освободител</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/1835"><text>Eko Варна - Цар Освободител във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Цар Освободител]]></StreetAddress>
+			<City>Варна</City>
+			<Country>България</Country>
+			<PostalCode>9020</PostalCode>
+		</Address>
+		<PhoneNumber></PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.494820" lon="26.485435">
+	<name>Eko Ямбол</name>
+	<desc><![CDATA[Предлагани горива: 95EKONOMY, Diesel EKONOMY, Пропан Бутан, Kinitron 100Speed]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/2020"><text>Eko Ямбол във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Димитър Благоев]]></StreetAddress>
+			<City>Ямбол</City>
+			<Country>България</Country>
+			<PostalCode>8604</PostalCode>
+		</Address>
+		<PhoneNumber></PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+</gpx>

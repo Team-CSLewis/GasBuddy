@@ -1,0 +1,2003 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx
+xmlns=""
+xmlns:gpxx = "http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.topografix.com/GPX/1/1
+http://www.topografix.com/GPX/1/1/gpx.xsd
+http://www.garmin.com/xmlschemas/GpxExtensions/v3
+http://www8.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd"
+version="1.1"
+creator="fuelo">
+
+<metadata>
+	<name>Gasstations</name>
+	<desc>Gasstations in Bulgaria</desc>
+	<author>
+	    <name>Fuelo.net</name>
+    </author>
+	<link href="http://fuelo.net"><text>fuelo.net</text></link>
+	<time>2014-10-21T11:29:08+03:00</time>
+	<keywords>gasstations</keywords>
+	<bounds minlat="41.236022" minlon="22.360067" maxlat="44.214555" maxlon="28.60705" />
+</metadata>
+
+<wpt lat="43.274899" lon="26.935499">
+	<name>OMV Шумен</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/558"><text>OMV Шумен във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Симеон Велики]]></StreetAddress>
+			<City>Шумен</City>
+			<Country>България</Country>
+			<PostalCode>9700</PostalCode>
+		</Address>
+		<PhoneNumber>054862733</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.616402" lon="25.420401">
+	<name>OMV Казанлък</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/559"><text>OMV Казанлък във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Княз Александър Батенберг №220]]></StreetAddress>
+			<City>Казанлък</City>
+			<Country>България</Country>
+			<PostalCode>6100</PostalCode>
+		</Address>
+		<PhoneNumber>043163411</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.954693" lon="24.021292">
+	<name>OMV Хемус</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/560"><text>OMV Хемус във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[57-ми km посока Варна-София (до с. Осиковица)]]></StreetAddress>
+			<City>АМ Хемус</City>
+			<Country>България</Country>
+			<PostalCode>2164</PostalCode>
+		</Address>
+		<PhoneNumber>071392228</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.423901" lon="24.600700">
+	<name>OMV Плевен</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/561"><text>OMV Плевен във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Цар Самуил]]></StreetAddress>
+			<City>Плевен</City>
+			<Country>България</Country>
+			<PostalCode>5802</PostalCode>
+		</Address>
+		<PhoneNumber>064680184</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.607601" lon="23.049999">
+	<name>OMV Перник</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/562"><text>OMV Перник във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Юрий Гагарин]]></StreetAddress>
+			<City>Перник</City>
+			<Country>България</Country>
+			<PostalCode>2302</PostalCode>
+		</Address>
+		<PhoneNumber>076603036</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.690899" lon="23.369900">
+	<name>OMV Слатинска</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/563"><text>OMV Слатинска във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Слатинска №13]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1574</PostalCode>
+		</Address>
+		<PhoneNumber>029711271</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.195213" lon="23.566303">
+	<name>OMV Враца</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/564"><text>OMV Враца във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. 2-ри юни №2]]></StreetAddress>
+			<City>Враца</City>
+			<Country>България</Country>
+			<PostalCode>3001</PostalCode>
+		</Address>
+		<PhoneNumber>092663248</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="41.546799" lon="23.270399">
+	<name>OMV Сандански</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/565"><text>OMV Сандански във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[на гл. път Е79]]></StreetAddress>
+			<City>Сандански</City>
+			<Country>България</Country>
+			<PostalCode>2800</PostalCode>
+		</Address>
+		<PhoneNumber>074630589</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="44.113701" lon="27.253599">
+	<name>OMV Силистра</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/566"><text>OMV Силистра във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[пл. Албена №2]]></StreetAddress>
+			<City>Силистра</City>
+			<Country>България</Country>
+			<PostalCode>7500</PostalCode>
+		</Address>
+		<PhoneNumber>086820322</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.658001" lon="23.271700">
+	<name>OMV Бъкстон</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/567"><text>OMV Бъкстон във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Братя Бъкстон №83]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1618</PostalCode>
+		</Address>
+		<PhoneNumber>028561022</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.472900" lon="26.522900">
+	<name>OMV Ямбол</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/568"><text>OMV Ямбол във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Граф Игнатиев]]></StreetAddress>
+			<City>Ямбол</City>
+			<Country>България</Country>
+			<PostalCode>8602</PostalCode>
+		</Address>
+		<PhoneNumber>046669438</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.284981" lon="23.123171">
+	<name>OMV Дупница</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/569"><text>OMV Дупница във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[на гл. път E79]]></StreetAddress>
+			<City>Дупница</City>
+			<Country>България</Country>
+			<PostalCode>2602</PostalCode>
+		</Address>
+		<PhoneNumber>070150295</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.701801" lon="23.351200">
+	<name>OMV Черковна</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/570"><text>OMV Черковна във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Владимир Вазов №1]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1505</PostalCode>
+		</Address>
+		<PhoneNumber>029434882</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.663200" lon="23.358299">
+	<name>OMV Мусагеница</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/571"><text>OMV Мусагеница във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Доктор Г. М. Димитров]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1756</PostalCode>
+		</Address>
+		<PhoneNumber>029719569</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.134533" lon="25.066496">
+	<name>OMV Поповица</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/573"><text>OMV Поповица във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[на гл. път E80]]></StreetAddress>
+			<City>Поповица</City>
+			<Country>България</Country>
+			<PostalCode>4127</PostalCode>
+		</Address>
+		<PhoneNumber>031102028</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.693199" lon="27.700399">
+	<name>OMV Слънчев бряг</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/575"><text>OMV Слънчев бряг във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[на гл. път Варна-Бургас]]></StreetAddress>
+			<City>Слънчев бряг</City>
+			<Country>България</Country>
+			<PostalCode>8232</PostalCode>
+		</Address>
+		<PhoneNumber>055424063</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.646500" lon="26.668600">
+	<name>OMV Петолъчката</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/576"><text>OMV Петолъчката във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[на Петолъчката]]></StreetAddress>
+			<City>Горно Александрово</City>
+			<Country>България</Country>
+			<PostalCode>8883</PostalCode>
+		</Address>
+		<PhoneNumber>047616102</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.248840" lon="26.550680">
+	<name>OMV Търговище</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/577"><text>OMV Търговище във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[Околовръстно шосе]]></StreetAddress>
+			<City>Търговище</City>
+			<Country>България</Country>
+			<PostalCode>7702</PostalCode>
+		</Address>
+		<PhoneNumber>060164838</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.607811" lon="27.381807">
+	<name>OMV Бургас Ветрен</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/578"><text>OMV Бургас Ветрен във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[кв. Ветрен]]></StreetAddress>
+			<City>Бургас</City>
+			<Country>България</Country>
+			<PostalCode>8127</PostalCode>
+		</Address>
+		<PhoneNumber>055122039</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.419498" lon="25.630301">
+	<name>OMV Ст. Загора Дезинтегратор</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, Метан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/579"><text>OMV Ст. Загора Дезинтегратор във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Руски №4]]></StreetAddress>
+			<City>Стара Загора</City>
+			<Country>България</Country>
+			<PostalCode>6002</PostalCode>
+		</Address>
+		<PhoneNumber>042603761</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.957199" lon="24.024700">
+	<name>OMV Осиковица</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/580"><text>OMV Осиковица във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[km 57 посока София-Варна (до с. Осиковица)]]></StreetAddress>
+			<City>АМ Хемус</City>
+			<Country>България</Country>
+			<PostalCode>2164</PostalCode>
+		</Address>
+		<PhoneNumber>071392280</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.865398" lon="25.317600">
+	<name>OMV Габрово</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/581"><text>OMV Габрово във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Васил Априлов №54]]></StreetAddress>
+			<City>Габрово</City>
+			<Country>България</Country>
+			<PostalCode>5300</PostalCode>
+		</Address>
+		<PhoneNumber>066800281</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.516174" lon="27.461185">
+	<name>OMV Бургас Ремиза</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, Метан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/584"><text>OMV Бургас Ремиза във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Стефан Стамболов №113]]></StreetAddress>
+			<City>Бургас</City>
+			<Country>България</Country>
+			<PostalCode>8005</PostalCode>
+		</Address>
+		<PhoneNumber>056880486</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.710583" lon="23.308393">
+	<name>OMV Банишора</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/585"><text>OMV Банишора във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Генерал Столетов №27]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1233</PostalCode>
+		</Address>
+		<PhoneNumber>028335097</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.149700" lon="24.777901">
+	<name>OMV Пловдив Мария Луиза</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/586"><text>OMV Пловдив Мария Луиза във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Мария Луиза]]></StreetAddress>
+			<City>Пловдив</City>
+			<Country>България</Country>
+			<PostalCode>4000</PostalCode>
+		</Address>
+		<PhoneNumber>032630696</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.709599" lon="23.428101">
+	<name>OMV Враждебна</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/587"><text>OMV Враждебна във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Ботевградско шосе №2]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1839</PostalCode>
+		</Address>
+		<PhoneNumber>029455256</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.651180" lon="23.379589">
+	<name>OMV Младост 1А</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/588"><text>OMV Младост 1А във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Александър Малинов]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1729</PostalCode>
+		</Address>
+		<PhoneNumber>029744960</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.030102" lon="23.057301">
+	<name>OMV Благоевград Е79</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/589"><text>OMV Благоевград Е79 във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[на гл. път Е79]]></StreetAddress>
+			<City>Благоевград</City>
+			<Country>България</Country>
+			<PostalCode>2710</PostalCode>
+		</Address>
+		<PhoneNumber>073861291</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.710575" lon="23.272034">
+	<name>OMV Люлин Тунела</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/590"><text>OMV Люлин Тунела във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Пиротски]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1335</PostalCode>
+		</Address>
+		<PhoneNumber>029250828</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.220200" lon="27.938499">
+	<name>OMV Варна Бриз</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/591"><text>OMV Варна Бриз във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Васил Левски]]></StreetAddress>
+			<City>Варна</City>
+			<Country>България</Country>
+			<PostalCode>9010</PostalCode>
+		</Address>
+		<PhoneNumber>052300475</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.219002" lon="25.041500">
+	<name>OMV Белозем</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/592"><text>OMV Белозем във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[посока Бургас-София (до с. Белозем)]]></StreetAddress>
+			<City>АМ Тракия</City>
+			<Country>България</Country>
+			<PostalCode>4130</PostalCode>
+		</Address>
+		<PhoneNumber>031592979</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.689499" lon="23.276699">
+	<name>OMV София - Никола Мушанов</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/593"><text>OMV София - Никола Мушанов във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Никола Мушанов №114]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1330</PostalCode>
+		</Address>
+		<PhoneNumber>029200260</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.319500" lon="24.130199">
+	<name>OMV Виноградец</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/594"><text>OMV Виноградец във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[73-ти км, посока София-Бургас]]></StreetAddress>
+			<City>АМ Тракия</City>
+			<Country>България</Country>
+			<PostalCode>4462</PostalCode>
+		</Address>
+		<PhoneNumber></PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="41.583298" lon="24.684263">
+	<name>OMV Смолян</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/595"><text>OMV Смолян във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. 1-ви Май №52]]></StreetAddress>
+			<City>Смолян</City>
+			<Country>България</Country>
+			<PostalCode>4703</PostalCode>
+		</Address>
+		<PhoneNumber>030166006</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.186359" lon="24.351187">
+	<name>OMV Пазарджик</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, Метан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/596"><text>OMV Пазарджик във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Пловдивска]]></StreetAddress>
+			<City>Пазарджик</City>
+			<Country>България</Country>
+			<PostalCode>4401</PostalCode>
+		</Address>
+		<PhoneNumber>034443312</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.707077" lon="23.410616">
+	<name>OMV Автокам</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/597"><text>OMV Автокам във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Ботевградско шосе №264]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1517</PostalCode>
+		</Address>
+		<PhoneNumber>029455340</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.833599" lon="25.954201">
+	<name>OMV Русе Мидия-Енос</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/598"><text>OMV Русе Мидия-Енос във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Мидия-енос (срещу централна ЖП гара)]]></StreetAddress>
+			<City>Русе</City>
+			<Country>България</Country>
+			<PostalCode>7001</PostalCode>
+		</Address>
+		<PhoneNumber>082824102</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.228527" lon="27.902931">
+	<name>OMV Варна Смирненски</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, Метан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/599"><text>OMV Варна Смирненски във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Цар Освободител №1]]></StreetAddress>
+			<City>Варна</City>
+			<Country>България</Country>
+			<PostalCode>9009</PostalCode>
+		</Address>
+		<PhoneNumber>052599940</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="41.951851" lon="25.557302">
+	<name>OMV Хасково</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/600"><text>OMV Хасково във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Димитровградско шосе]]></StreetAddress>
+			<City>Хасково</City>
+			<Country>България</Country>
+			<PostalCode>6303</PostalCode>
+		</Address>
+		<PhoneNumber>038660133</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.219395" lon="27.926973">
+	<name>OMV Варна Мир</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/602"><text>OMV Варна Мир във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Мир]]></StreetAddress>
+			<City>Варна</City>
+			<Country>България</Country>
+			<PostalCode>9010</PostalCode>
+		</Address>
+		<PhoneNumber>052302305</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.228500" lon="27.877254">
+	<name>OMV Варна Република</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/603"><text>OMV Варна Република във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Република]]></StreetAddress>
+			<City>Варна</City>
+			<Country>България</Country>
+			<PostalCode>9027</PostalCode>
+		</Address>
+		<PhoneNumber>052500980</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.732670" lon="23.314037">
+	<name>OMV Рожен</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/604"><text>OMV Рожен във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Рожен №22]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1220</PostalCode>
+		</Address>
+		<PhoneNumber>029361236</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.528301" lon="26.518299">
+	<name>OMV Разград</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/605"><text>OMV Разград във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Странджа №1]]></StreetAddress>
+			<City>Разград</City>
+			<Country>България</Country>
+			<PostalCode>7200</PostalCode>
+		</Address>
+		<PhoneNumber>084661033</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.319801" lon="27.115700">
+	<name>OMV Каспичан Юг</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/606"><text>OMV Каспичан Юг във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[km 356 посока София-Варна]]></StreetAddress>
+			<City>АМ Хемус</City>
+			<Country>България</Country>
+			<PostalCode>9930</PostalCode>
+		</Address>
+		<PhoneNumber>0293298080</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.158001" lon="24.734400">
+	<name>OMV Пловдив С. Петербург</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/607"><text>OMV Пловдив С. Петербург във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. България №97]]></StreetAddress>
+			<City>Пловдив</City>
+			<Country>България</Country>
+			<PostalCode>4003</PostalCode>
+		</Address>
+		<PhoneNumber>032945307</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.656933" lon="23.385836">
+	<name>OMV София - Цариградско шосе</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/608"><text>OMV София - Цариградско шосе във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Цариградско шосе]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1784</PostalCode>
+		</Address>
+		<PhoneNumber>029718956</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.073700" lon="25.615801">
+	<name>OMV Велико Търново</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/609"><text>OMV Велико Търново във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Магистрална №15А]]></StreetAddress>
+			<City>Велико Търново</City>
+			<Country>България</Country>
+			<PostalCode>5002</PostalCode>
+		</Address>
+		<PhoneNumber>062605355</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.703602" lon="23.310900">
+	<name>OMV Опълченска</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/610"><text>OMV Опълченска във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Опълченска №35]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1303</PostalCode>
+		</Address>
+		<PhoneNumber>029317040</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.716099" lon="23.282301">
+	<name>OMV София - Сливница</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/611"><text>OMV София - Сливница във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Сливница №132]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1303</PostalCode>
+		</Address>
+		<PhoneNumber>029201943</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.320702" lon="27.115801">
+	<name>OMV Каспичан Север</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/612"><text>OMV Каспичан Север във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[km 356 посока Варна-София]]></StreetAddress>
+			<City>АМ Хемус</City>
+			<Country>България</Country>
+			<PostalCode>9930</PostalCode>
+		</Address>
+		<PhoneNumber>0293298081</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.500744" lon="26.010443">
+	<name>OMV Нова Загора</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/613"><text>OMV Нова Загора във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Патриарх Евтимий]]></StreetAddress>
+			<City>Нова Загора</City>
+			<Country>България</Country>
+			<PostalCode>8900</PostalCode>
+		</Address>
+		<PhoneNumber>045762225</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.661537" lon="23.391735">
+	<name>OMV Момина чешма</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/614"><text>OMV Момина чешма във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Проф. Цветан Лазаров №1]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1582</PostalCode>
+		</Address>
+		<PhoneNumber>029710936</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.992001" lon="22.865999">
+	<name>OMV Видин</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/615"><text>OMV Видин във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Панония №46]]></StreetAddress>
+			<City>Видин</City>
+			<Country>България</Country>
+			<PostalCode>3705</PostalCode>
+		</Address>
+		<PhoneNumber>094600846</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.528301" lon="27.452299">
+	<name>OMV Бургас Изгрев</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/616"><text>OMV Бургас Изгрев във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Стефан Стамболов №1]]></StreetAddress>
+			<City>Бургас</City>
+			<Country>България</Country>
+			<PostalCode>8008</PostalCode>
+		</Address>
+		<PhoneNumber>056880252</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.722969" lon="23.306890">
+	<name>OMV Ломско шосе</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/617"><text>OMV Ломско шосе във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Ломско шосе №2]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1220</PostalCode>
+		</Address>
+		<PhoneNumber>029361246</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.682217" lon="23.242872">
+	<name>OMV Овча купел</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/618"><text>OMV Овча купел във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Бойчо Бойчев №66]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1614</PostalCode>
+		</Address>
+		<PhoneNumber>029560224</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.830154" lon="25.973301">
+	<name>OMV Русе Чародейка</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/619"><text>OMV Русе Чародейка във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Христо Ботев]]></StreetAddress>
+			<City>Русе</City>
+			<Country>България</Country>
+			<PostalCode>7000</PostalCode>
+		</Address>
+		<PhoneNumber>082860882</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.055199" lon="25.603701">
+	<name>OMV Димитровград</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/620"><text>OMV Димитровград във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Димитър Благоев]]></StreetAddress>
+			<City>Димитровград</City>
+			<Country>България</Country>
+			<PostalCode>6400</PostalCode>
+		</Address>
+		<PhoneNumber>039160088</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.570202" lon="27.837700">
+	<name>OMV Добрия - Русия</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/621"><text>OMV Добрия - Русия във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Русия]]></StreetAddress>
+			<City>Добрич</City>
+			<Country>България</Country>
+			<PostalCode>9300</PostalCode>
+		</Address>
+		<PhoneNumber>058690106</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.199299" lon="27.911163">
+	<name>OMV Варна Гарата</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/622"><text>OMV Варна Гарата във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Дунав №1]]></StreetAddress>
+			<City>Варна</City>
+			<Country>България</Country>
+			<PostalCode>9000</PostalCode>
+		</Address>
+		<PhoneNumber>052611085</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.691101" lon="23.295601">
+	<name>OMV Пробива</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, Метан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/623"><text>OMV Пробива във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Гюешево №83]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1330</PostalCode>
+		</Address>
+		<PhoneNumber>029209761</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.234299" lon="23.141600">
+	<name>OMV Берковица</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/624"><text>OMV Берковица във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Александровска]]></StreetAddress>
+			<City>Берковица</City>
+			<Country>България</Country>
+			<PostalCode>3500</PostalCode>
+		</Address>
+		<PhoneNumber>095388628</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.628750" lon="23.345062">
+	<name>OMV Малинова долина</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/625"><text>OMV Малинова долина във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Околовръстен път]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1434</PostalCode>
+		</Address>
+		<PhoneNumber>028601401</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.661701" lon="23.377399">
+	<name>OMV Цариградско шосе</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/626"><text>OMV Цариградско шосе във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Цариградско шосе]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1113</PostalCode>
+		</Address>
+		<PhoneNumber>029746249</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.418888" lon="25.606771">
+	<name>OMV Ст. Загора Три Чучура</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/627"><text>OMV Ст. Загора Три Чучура във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Цар Симеон Велики (ж.к. Три Чучура)]]></StreetAddress>
+			<City>Стара Загора</City>
+			<Country>България</Country>
+			<PostalCode>6010</PostalCode>
+		</Address>
+		<PhoneNumber>042670966</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.161758" lon="24.730379">
+	<name>OMV Пловдив Филикон</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/628"><text>OMV Пловдив Филикон във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Дунав №1]]></StreetAddress>
+			<City>Пловдив</City>
+			<Country>България</Country>
+			<PostalCode>4003</PostalCode>
+		</Address>
+		<PhoneNumber>032943223</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.420860" lon="23.228048">
+	<name>OMV Монтана</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/629"><text>OMV Монтана във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. 3-ти март]]></StreetAddress>
+			<City>Монтана</City>
+			<Country>България</Country>
+			<PostalCode>3400</PostalCode>
+		</Address>
+		<PhoneNumber>096300978</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.129513" lon="24.756168">
+	<name>OMV Пловдив Кукленско шосе</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/630"><text>OMV Пловдив Кукленско шосе във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Кукленско шосе]]></StreetAddress>
+			<City>Пловдив</City>
+			<Country>България</Country>
+			<PostalCode>4000</PostalCode>
+		</Address>
+		<PhoneNumber>032678673</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.707901" lon="23.341900">
+	<name>OMV София - Резбарска</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/631"><text>OMV София - Резбарска във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Резбарска №4]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1510</PostalCode>
+		</Address>
+		<PhoneNumber>029455370</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.667568" lon="23.290592">
+	<name>OMV Бул. България</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/632"><text>OMV Бул. България във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. България №45]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1404</PostalCode>
+		</Address>
+		<PhoneNumber>029581521</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.006401" lon="23.095100">
+	<name>OMV Благоевград</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/633"><text>OMV Благоевград във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Свети Димитър Солунски №77]]></StreetAddress>
+			<City>Благоевград</City>
+			<Country>България</Country>
+			<PostalCode>2700</PostalCode>
+		</Address>
+		<PhoneNumber>073882102</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.184502" lon="25.620701">
+	<name>OMV Поликраище</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/634"><text>OMV Поликраище във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Васил Левски №20]]></StreetAddress>
+			<City>Поликраище</City>
+			<Country>България</Country>
+			<PostalCode>5138</PostalCode>
+		</Address>
+		<PhoneNumber>061762420</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.711754" lon="23.331001">
+	<name>OMV Грънчарска</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/635"><text>OMV Грънчарска във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. 202-ра]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1202</PostalCode>
+		</Address>
+		<PhoneNumber>029368875</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.216000" lon="27.896500">
+	<name>OMV Варна Автоекспрес</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/636"><text>OMV Варна Автоекспрес във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Владислав Варненчик №158]]></StreetAddress>
+			<City>Варна</City>
+			<Country>България</Country>
+			<PostalCode>9009</PostalCode>
+		</Address>
+		<PhoneNumber>052500473</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.651001" lon="23.357700">
+	<name>OMV 8-ми декември</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/637"><text>OMV 8-ми декември във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. 8-ми декември]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1756</PostalCode>
+		</Address>
+		<PhoneNumber>029745426</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="41.629898" lon="25.377752">
+	<name>OMV Кърджали</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/638"><text>OMV Кърджали във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Беломорски]]></StreetAddress>
+			<City>Кърджали</City>
+			<Country>България</Country>
+			<PostalCode>6600</PostalCode>
+		</Address>
+		<PhoneNumber>036161250</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.073002" lon="25.617100">
+	<name>OMV Велико Търново Гама</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/639"><text>OMV Велико Търново Гама във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Магистрална №6]]></StreetAddress>
+			<City>Велико Търново</City>
+			<Country>България</Country>
+			<PostalCode>5002</PostalCode>
+		</Address>
+		<PhoneNumber>062670809</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.651501" lon="23.287399">
+	<name>OMV Бояна</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/640"><text>OMV Бояна във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Околовръстен път]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1404</PostalCode>
+		</Address>
+		<PhoneNumber>029582999</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.641651" lon="23.404396">
+	<name>OMV София - Цариградско шосе</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, Метан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/642"><text>OMV София - Цариградско шосе във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[бул. Цариградско шосе]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1784</PostalCode>
+		</Address>
+		<PhoneNumber>029782574</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.192200" lon="25.191200">
+	<name>OMV Оризово</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/643"><text>OMV Оризово във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[посока София-Бургас (до с. Оризово)]]></StreetAddress>
+			<City>АМ Тракия</City>
+			<Country>България</Country>
+			<PostalCode>6253</PostalCode>
+		</Address>
+		<PhoneNumber>04132360</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="43.469700" lon="25.714899">
+	<name>OMV Бяла</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/644"><text>OMV Бяла във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Кольо Фичето]]></StreetAddress>
+			<City>Бяла</City>
+			<Country>България</Country>
+			<PostalCode>7101</PostalCode>
+		</Address>
+		<PhoneNumber>081773914</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.094002" lon="24.739300">
+	<name>OMV Белащица</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/1435"><text>OMV Белащица във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[Южно околовръстно шосе]]></StreetAddress>
+			<City>Пловдив</City>
+			<Country>България</Country>
+			<PostalCode>4124</PostalCode>
+		</Address>
+		<PhoneNumber>0293298087</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="41.812500" lon="26.161501">
+	<name>OMV Момково</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/1494"><text>OMV Момково във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[km 97, ляво]]></StreetAddress>
+			<City>АМ Марица</City>
+			<Country>България</Country>
+			<PostalCode>6558</PostalCode>
+		</Address>
+		<PhoneNumber>0293298092</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.278381" lon="24.277769">
+	<name>OMV Динката</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/1527"><text>OMV Динката във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[86-ти км, посока Бургас-София]]></StreetAddress>
+			<City>АМ Тракия</City>
+			<Country>България</Country>
+			<PostalCode>4458</PostalCode>
+		</Address>
+		<PhoneNumber>0293298086</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.621384" lon="23.403950">
+	<name>OMV Самоковско шосе</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/1531"><text>OMV Самоковско шосе във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[ул. Самоковско шосе]]></StreetAddress>
+			<City>София</City>
+			<Country>България</Country>
+			<PostalCode>1138</PostalCode>
+		</Address>
+		<PhoneNumber>029736276</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+<wpt lat="42.530460" lon="26.398043">
+	<name>OMV Хаджидимитрово</name>
+	<desc><![CDATA[Предлагани горива: Super 95, Sprint Diesel, Пропан Бутан, MaxxMotion 100, MaxxMotion Дизел]]></desc>
+	<src>Fuelo.net</src>
+	<link href="http://fuelo.net/gasstation/id/1739"><text>OMV Хаджидимитрово във Fuelo</text></link>
+	<sym>Gas Station</sym>
+	<type>Gas Station</type>
+
+	<extensions>
+	<WaypointExtension>
+		<Categories>
+			<Category>Бензиностанции</Category>
+		</Categories>
+		<Address>
+			<StreetAddress><![CDATA[km 273 (посока София-Бургас)]]></StreetAddress>
+			<City>АМ Тракия</City>
+			<Country>България</Country>
+			<PostalCode>8635</PostalCode>
+		</Address>
+		<PhoneNumber>0293298089</PhoneNumber>
+	</WaypointExtension>
+	</extensions>
+</wpt>
+</gpx>

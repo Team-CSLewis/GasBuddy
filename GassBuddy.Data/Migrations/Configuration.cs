@@ -6,6 +6,7 @@ namespace GassBuddy.Data.Migrations
     using System.Data.Entity;
     using System.Data.Entity.Migrations;
     using System.Linq;
+    using System.Web.Hosting;
 
     internal sealed class Configuration : DbMigrationsConfiguration<GasBuddyDbContext>
     {
@@ -17,53 +18,41 @@ namespace GassBuddy.Data.Migrations
 
         protected override void Seed(GasBuddyDbContext context)
         {
+            var xmlReader = new XMLGasStationReader();
+            var rootPath = HostingEnvironment.MapPath("~/");
+
+            var shellPath = rootPath + @"../GassBuddy.Data/SeedData/fuelo-Shell-gasstations-20141021.xml";
+            var lukoilPath = rootPath + @"../GassBuddy.Data/SeedData/fuelo-Lukoil-gasstations-20141021.xml";
+            var ekoPath = rootPath + @"../GassBuddy.Data/SeedData/fuelo-Eko-gasstations-20141021.xml";
+            var omvPath = rootPath + @"../GassBuddy.Data/SeedData/fuelo-OMV-gasstations-20141021.xml";
+
+            var shellGasStations = xmlReader.GetGasStations(shellPath);
+            var lukoilGasStations = xmlReader.GetGasStations(lukoilPath);
+            var ekoGasStations = xmlReader.GetGasStations(ekoPath);
+            var omvGasStations = xmlReader.GetGasStations(omvPath);
+
             var chains = new List<Chain>()
             {
                 new Chain()
                 {
                     Name = "Shell",
-                    GasStations = new HashSet<GasStation>()
-                    {
-                        new GasStation()
-                            {
-                                Name = "Shell 5",
-                                Address = "Some Address",
-                                DieselPrice = 2.51m,
-                                PetrolPrice = 2.46m,
-                                LpgPrice = 1.14m
-                            }
-                    }
-                },                    
-                new Chain()
-                {
-                    Name = "Lukoil",
-                    GasStations = new HashSet<GasStation>()
-                    {
-                         new GasStation
-                            {
-                                Name = "Lukoil B146",
-                                Address = "Some another Address",
-                                DieselPrice = 2.50m,
-                                PetrolPrice = 2.44m,
-                                LpgPrice = 1.12m                                
-                            }
-                    }
+                    GasStations = new HashSet<GasStation>(shellGasStations)                    
                 },
                 new Chain()
                 {
                     Name = "OMV",
-                    GasStations = new HashSet<GasStation>()
-                    {
-                        new GasStation
-                            {
-                                Name = "OMV Best",
-                                Address = "somethink in 83",
-                                DieselPrice = 2.49m,
-                                PetrolPrice = 2.45m,
-                                LpgPrice = 1.12m                               
-                            }
-                    }
-                }               
+                    GasStations = new HashSet<GasStation>(omvGasStations)                    
+                },
+                new Chain()
+                {
+                    Name = "EKO",
+                    GasStations = new HashSet<GasStation>(ekoGasStations)                    
+                },
+                new Chain()
+                {
+                    Name = "Lukoil",
+                    GasStations = new HashSet<GasStation>(lukoilGasStations)                    
+                },
             };
             foreach (var chain in chains)
             {
