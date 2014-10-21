@@ -1,6 +1,8 @@
 namespace GassBuddy.Data.Migrations
 {
     using GassBuddy.Models;
+    using Microsoft.AspNet.Identity;
+    using Microsoft.AspNet.Identity.EntityFramework;
     using System;
     using System.Collections.Generic;
     using System.Data.Entity;
@@ -18,10 +20,30 @@ namespace GassBuddy.Data.Migrations
 
         protected override void Seed(GasBuddyDbContext context)
         {
-            if (context.GasStations.Count() != 0)
+            if (!context.Roles.Any(r => r.Name == "Admin"))
+            {
+                var store = new RoleStore<IdentityRole>(context);
+                var manager = new RoleManager<IdentityRole>(store);
+                var role = new IdentityRole { Name = "Admin" };
+
+                manager.Create(role);
+            }
+
+            if (!context.Users.Any(u => u.UserName == "admin@admin.com"))
+            {
+                var store = new UserStore<User>(context);
+                var manager = new UserManager<User>(store);
+                var user = new User { UserName = "admin@admin.com" };
+
+                manager.Create(user, "asdasd");
+                manager.AddToRole(user.Id, "Admin");
+            }
+
+			if (context.GasStations.Count() != 0)
             {
                 return;
             }
+
             var xmlReader = new XMLGasStationReader();
             var rootPath = HostingEnvironment.MapPath("~/");
 

@@ -40,7 +40,6 @@
                         GeoLocation = this.GetLocation(xmlWayPoint),
                         Description = this.GetDescription(xmlWayPoint),
                         Address = this.GetAddress(xmlWayPoint),
-                        City = this.GetCity(xmlWayPoint),
                         DieselPrice = this.GetPrice(LOWEST_PRICE, HIGHEST_PRICE),
                         PetrolPrice = this.GetPrice(LOWEST_PRICE, HIGHEST_PRICE),
                         LpgPrice = this.GetPrice(LOWEST_PRICE_LPG, HIGHEST_PRICE_LPG)
