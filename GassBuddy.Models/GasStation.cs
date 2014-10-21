@@ -18,5 +18,9 @@
         public int ChainId { get; set; }
 
         public virtual Chain Chain { get; set; }
+
+        public string Description { get; set; }
+
+        public string GeoLocation { get; set; } 
     }
 }

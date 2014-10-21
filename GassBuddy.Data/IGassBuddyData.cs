@@ -18,6 +18,8 @@ namespace GassBuddy.Data
 
         IRepository<User> Users { get; }
 
+        IRepository<UserHistory> UsersHistory { get; }
+
         void SaveChanges();
     }
 }
