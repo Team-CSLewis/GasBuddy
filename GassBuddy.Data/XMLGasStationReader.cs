@@ -40,6 +40,7 @@
                         GeoLocation = this.GetLocation(xmlWayPoint),
                         Description = this.GetDescription(xmlWayPoint),
                         Address = this.GetAddress(xmlWayPoint),
+                        City = this.GetCity(xmlWayPoint),
                         DieselPrice = this.GetPrice(LOWEST_PRICE, HIGHEST_PRICE),
                         PetrolPrice = this.GetPrice(LOWEST_PRICE, HIGHEST_PRICE),
                         LpgPrice = this.GetPrice(LOWEST_PRICE_LPG, HIGHEST_PRICE_LPG)
@@ -47,7 +48,7 @@
             }
 
             return gasStations;
-        }
+        }        
 
         private string GetName(XElement xmlWayPoint)
         {
@@ -81,18 +82,20 @@
 
         private string GetAddress(XElement xmlWayPoint)
         {
-            var address = new StringBuilder();
-            address.Append(xmlWayPoint.Element("extensions")
+            var address = xmlWayPoint.Element("extensions")
                                         .Element("WaypointExtension")
                                         .Element("Address")
-                                        .Element("City").Value);
-            address.Append(" ");
-            address.Append(xmlWayPoint.Element("extensions")
-                                        .Element("WaypointExtension")
-                                        .Element("Address")
-                                        .Element("PostalCode").Value);
+                                        .Element("StreetAddress").Value;            
+            return address;
+        }
 
-            return address.ToString();
+        private string GetCity(XElement xmlWayPoint)
+        {
+            var city = xmlWayPoint.Element("extensions")
+                                        .Element("WaypointExtension")
+                                        .Element("Address")
+                                        .Element("City").Value;            
+            return city;
         }
 
         private decimal GetPrice(decimal lowestPrice, decimal highestPrice)
