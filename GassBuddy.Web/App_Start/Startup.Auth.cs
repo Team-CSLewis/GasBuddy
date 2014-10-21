@@ -8,6 +8,7 @@ using Microsoft.Owin.Security.DataProtection;
 using Microsoft.Owin.Security.Google;
 using Owin;
 using GassBuddy.Models;
+using GassBuddy.Data;
 
 namespace GassBuddy.Web
 {
