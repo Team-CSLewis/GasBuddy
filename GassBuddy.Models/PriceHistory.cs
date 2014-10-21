@@ -3,11 +3,7 @@ namespace GassBuddy.Models
 {
     public class PriceHistory
     {
-        public int Id { get; set; }
-
-        public int GasStationId { get; set; }
-
-        public virtual GasStation GasStation { get; set; }
+        public int Id { get; set; }       
 
         public DateTime Date { get; set; }
 

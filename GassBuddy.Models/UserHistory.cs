@@ -19,5 +19,7 @@
         public decimal FuelQuantity { get; set; }
 
         public decimal TotalPrice { get; set; }
+
+        public decimal PricePerLitter { get; set; }
     }
 }
