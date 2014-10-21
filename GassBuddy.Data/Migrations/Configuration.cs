@@ -1,20 +1,18 @@
-namespace GassBuddy.Web.Migrations
+namespace GassBuddy.Data.Migrations
 {
     using GassBuddy.Models;
-    using GassBuddy.Web.Data;
     using System;
     using System.Collections.Generic;
     using System.Data.Entity;
     using System.Data.Entity.Migrations;
     using System.Linq;
 
-    public sealed class Configuration : DbMigrationsConfiguration<GasBuddyDbContext>
+    internal sealed class Configuration : DbMigrationsConfiguration<GasBuddyDbContext>
     {
         public Configuration()
         {
             this.AutomaticMigrationsEnabled = true;
             this.AutomaticMigrationDataLossAllowed = true;
-            ContextKey = "GassBuddy.Web.Data.GasBuddyDbContext";
         }
 
         protected override void Seed(GasBuddyDbContext context)
@@ -28,8 +26,8 @@ namespace GassBuddy.Web.Migrations
                     {
                         new GasStation()
                             {
-                                Name = "Shell Бояна",
-                                Address = "София, околовръстно шосе, км 49+650",
+                                Name = "Shell 5",
+                                Address = "Some Address",
                                 DieselPrice = 2.51m,
                                 PetrolPrice = 2.46m,
                                 LpgPrice = 1.14m
@@ -44,7 +42,7 @@ namespace GassBuddy.Web.Migrations
                          new GasStation
                             {
                                 Name = "Lukoil B146",
-                                Address = "София, бул. Братя Бъкстон",
+                                Address = "Some another Address",
                                 DieselPrice = 2.50m,
                                 PetrolPrice = 2.44m,
                                 LpgPrice = 1.12m                                
@@ -58,8 +56,8 @@ namespace GassBuddy.Web.Migrations
                     {
                         new GasStation
                             {
-                                Name = "OMV Бъкстон",
-                                Address = "София, бул. Братя Бъкстон 83",
+                                Name = "OMV Best",
+                                Address = "somethink in 83",
                                 DieselPrice = 2.49m,
                                 PetrolPrice = 2.45m,
                                 LpgPrice = 1.12m                               

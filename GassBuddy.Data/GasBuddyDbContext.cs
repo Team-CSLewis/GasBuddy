@@ -1,14 +1,15 @@
-﻿namespace GassBuddy.Web.Data
+﻿namespace GassBuddy.Data
 {
+    using GassBuddy.Data;
+    using GassBuddy.Data.Migrations;
     using GassBuddy.Models;
-    using GassBuddy.Web.Migrations;
     using Microsoft.AspNet.Identity.EntityFramework;
     using System.Data.Entity;
 
-    public class GasBuddyDbContext : IdentityDbContext<User>
+    public class GasBuddyDbContext : IdentityDbContext<User>, IGasBuddyDbContext
     {
         public GasBuddyDbContext()
-            : base("DefaultConnection", throwIfV1Schema: false)
+            : base("GasBuddy", throwIfV1Schema: false)
         {
             Database.SetInitializer(new MigrateDatabaseToLatestVersion<GasBuddyDbContext, Configuration>());
         }
@@ -22,6 +23,17 @@
 
         public IDbSet<GasStation> GasStations { get; set; }
 
-        public IDbSet<PriceHistory> PriceHistory { get; set; }
+        public IDbSet<PriceHistory> PriceHistories { get; set; }
+
+
+        public new void SaveChanges()
+        {
+            base.SaveChanges();
+        }
+
+        public new IDbSet<TEntity> Set<TEntity>() where TEntity : class
+        {
+            return base.Set<TEntity>();
+        }
     }
 }
