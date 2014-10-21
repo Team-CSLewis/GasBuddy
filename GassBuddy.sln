@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GassBuddy.Web", "GassBuddy.Web\GassBuddy.Web.csproj", "{5EB8A567-61EF-470F-8FBA-2A65667FEDF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GassBuddy.Models", "GassBuddy.Models\GassBuddy.Models.csproj", "{93891588-185D-4CB8-8DA9-BCADA4B55E08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EB8A567-61EF-470F-8FBA-2A65667FEDF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EB8A567-61EF-470F-8FBA-2A65667FEDF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EB8A567-61EF-470F-8FBA-2A65667FEDF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EB8A567-61EF-470F-8FBA-2A65667FEDF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93891588-185D-4CB8-8DA9-BCADA4B55E08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93891588-185D-4CB8-8DA9-BCADA4B55E08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93891588-185D-4CB8-8DA9-BCADA4B55E08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93891588-185D-4CB8-8DA9-BCADA4B55E08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
