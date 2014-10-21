@@ -5,8 +5,7 @@ using System.Web.UI;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Owin;
-using GassBuddy.Web.App_Start;
-using GassBuddy.Models;
+using GassBuddy.Web.Models;
 
 namespace GassBuddy.Web.Account
 {
@@ -15,7 +14,7 @@ namespace GassBuddy.Web.Account
         protected void CreateUser_Click(object sender, EventArgs e)
         {
             var manager = Context.GetOwinContext().GetUserManager<ApplicationUserManager>();
-            var user = new User() { UserName = Email.Text, Email = Email.Text };
+            var user = new ApplicationUser() { UserName = Email.Text, Email = Email.Text };
             IdentityResult result = manager.Create(user, Password.Text);
             if (result.Succeeded)
             {

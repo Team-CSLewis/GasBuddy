@@ -6,7 +6,7 @@ using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.AspNet.Identity.Owin;
 using Owin;
-using GassBuddy.Web.App_Start;
+using GassBuddy.Web.Models;
 
 namespace GassBuddy.Web.Account
 {

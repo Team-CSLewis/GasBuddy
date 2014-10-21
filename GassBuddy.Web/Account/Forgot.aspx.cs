@@ -4,7 +4,7 @@ using System.Web.UI;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Owin;
-using GassBuddy.Models;
+using GassBuddy.Web.Models;
 
 namespace GassBuddy.Web.Account
 {
@@ -20,7 +20,7 @@ namespace GassBuddy.Web.Account
             {
                 // Validate the user password
                 var manager = Context.GetOwinContext().GetUserManager<ApplicationUserManager>();
-                User user = manager.FindByName(Email.Text);
+                ApplicationUser user = manager.FindByName(Email.Text);
                 if (user == null || !manager.IsEmailConfirmed(user.Id))
                 {
                     FailureText.Text = "The user either does not exist or is not confirmed.";

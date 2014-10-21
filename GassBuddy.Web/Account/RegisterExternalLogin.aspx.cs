@@ -4,8 +4,7 @@ using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
 using Owin;
-using GassBuddy.Web.App_Start;
-using GassBuddy.Models;
+using GassBuddy.Web.Models;
 
 namespace GassBuddy.Web.Account
 {
@@ -92,7 +91,7 @@ namespace GassBuddy.Web.Account
                 return;
             }
             var manager = Context.GetOwinContext().GetUserManager<ApplicationUserManager>();
-            var user = new User() { UserName = email.Text, Email = email.Text };
+            var user = new ApplicationUser() { UserName = email.Text, Email = email.Text };
             IdentityResult result = manager.Create(user);
             if (result.Succeeded)
             {

@@ -2,10 +2,11 @@
 {
     using GassBuddy.Models;
     using GassBuddy.Web.Migrations;
+    using GassBuddy.Web.Models;
     using Microsoft.AspNet.Identity.EntityFramework;
     using System.Data.Entity;
 
-    public class GasBuddyDbContext : IdentityDbContext<User>
+    public class GasBuddyDbContext : IdentityDbContext<ApplicationUser>
     {
         public GasBuddyDbContext()
             : base("DefaultConnection", throwIfV1Schema: false)
