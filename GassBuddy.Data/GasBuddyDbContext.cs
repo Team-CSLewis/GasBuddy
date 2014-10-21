@@ -25,6 +25,8 @@
 
         public IDbSet<PriceHistory> PriceHistories { get; set; }
 
+        public IDbSet<UserHistory> UsersHistory { get; set; }
+
 
         public new void SaveChanges()
         {

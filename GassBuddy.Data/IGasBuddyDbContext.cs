@@ -19,6 +19,8 @@ namespace GassBuddy.Data
 
         IDbSet<User> Users { get; set; }
 
+        IDbSet<UserHistory> UsersHistory { get; set; }
+
         void SaveChanges();
 
         IDbSet<TEntity> Set<TEntity>() where TEntity : class;

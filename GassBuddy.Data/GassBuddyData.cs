@@ -56,6 +56,14 @@ namespace GassBuddy.Data
             }
         }
 
+        public IRepository<UserHistory> UsersHistory
+        {
+            get
+            {
+                return this.GetRepository<UserHistory>();
+            }
+        }
+
         public void SaveChanges()
         {
             this.context.SaveChanges();
