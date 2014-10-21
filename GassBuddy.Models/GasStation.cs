@@ -5,6 +5,8 @@
     {   
         public int Id { get; set; }
 
+        public string Name { get; set; }
+
         public decimal PetrolPrice { get; set; }
 
         public decimal DieselPrice { get; set; }
