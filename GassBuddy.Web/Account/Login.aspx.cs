@@ -4,7 +4,7 @@ using System.Web.UI;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Owin;
-using GassBuddy.Web.Models;
+using GassBuddy.Web.App_Start;
 
 namespace GassBuddy.Web.Account
 {
@@ -29,7 +29,7 @@ namespace GassBuddy.Web.Account
             {
                 // Validate the user password
                 var manager = Context.GetOwinContext().GetUserManager<ApplicationUserManager>();
-                ApplicationUser user = manager.Find(Email.Text, Password.Text);
+                GassBuddy.Models.User user = manager.Find(Email.Text, Password.Text);
                 if (user != null)
                 {
                     IdentityHelper.SignIn(manager, user, RememberMe.Checked);

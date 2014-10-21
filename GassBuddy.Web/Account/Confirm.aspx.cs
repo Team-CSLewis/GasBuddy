@@ -4,7 +4,7 @@ using System.Web.UI;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Owin;
-using GassBuddy.Web.Models;
+using GassBuddy.Web.App_Start;
 
 namespace GassBuddy.Web.Account
 {
