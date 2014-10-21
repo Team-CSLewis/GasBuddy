@@ -57,7 +57,7 @@
                             <RoleGroups>
                                 <asp:RoleGroup Roles="Admin">
                                     <ContentTemplate>
-                                        <li><a runat="server" href="~/LoggedUser/Contacts">Admin</a></li>
+                                        <li><a runat="server" href="~/Admin/AdminPanel">Admin</a></li>
                                     </ContentTemplate>
                                 </asp:RoleGroup>
                             </RoleGroups>
