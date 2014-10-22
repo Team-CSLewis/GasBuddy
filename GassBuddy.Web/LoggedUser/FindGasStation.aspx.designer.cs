@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace GassBuddy.Web.App_Features {
+namespace GassBuddy.Web.LoggedUser {
     
     
     public partial class PostPrice {

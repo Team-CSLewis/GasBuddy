@@ -53,6 +53,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Chain.cs" />
+    <Compile Include="FuelType.cs" />
     <Compile Include="GasStation.cs" />
     <Compile Include="PriceHistory.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

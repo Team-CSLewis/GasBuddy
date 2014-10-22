@@ -3,7 +3,7 @@
     MasterPageFile="~/Site.Master"
     AutoEventWireup="true"
     CodeBehind="FindGasStation.aspx.cs"
-    Inherits="GassBuddy.Web.App_Features.PostPrice" %>
+    Inherits="GassBuddy.Web.LoggedUser.PostPrice" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <h2>Hello <%# this.User.Identity.Name %> </h2>     

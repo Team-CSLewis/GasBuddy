@@ -7,7 +7,7 @@ using System.Web.UI.WebControls;
 using GassBuddy.Data;
 using GassBuddy.Models;
 
-namespace GassBuddy.Web.App_Features
+namespace GassBuddy.Web.LoggedUser
 {
     public partial class PostPrice : Page
     {
@@ -16,7 +16,7 @@ namespace GassBuddy.Web.App_Features
         protected void Page_Load(object sender, EventArgs e)
         {
             this.data = new GassBuddyData();
-
+            
             if (!this.Page.IsPostBack)
             {
                 this.DropDownListCities.DataSource = data.GasStations.All()

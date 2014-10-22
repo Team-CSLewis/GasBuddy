@@ -7,10 +7,19 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace GassBuddy.Web.App_Features {
+namespace GassBuddy.Web.LoggedUser {
     
     
     public partial class PostPrice1 {
+        
+        /// <summary>
+        /// gasstationForm control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl gasstationForm;
         
         /// <summary>
         /// LabelDieselPrice control.
@@ -67,6 +76,69 @@ namespace GassBuddy.Web.App_Features {
         protected global::System.Web.UI.WebControls.TextBox TextBoxLpgPrice;
         
         /// <summary>
+        /// userForm control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl userForm;
+        
+        /// <summary>
+        /// LabelFuelType control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label LabelFuelType;
+        
+        /// <summary>
+        /// DropDownListFuelTypes control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.DropDownList DropDownListFuelTypes;
+        
+        /// <summary>
+        /// LabelFuelQuantity control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label LabelFuelQuantity;
+        
+        /// <summary>
+        /// TextBoxFuelQuantity control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox TextBoxFuelQuantity;
+        
+        /// <summary>
+        /// LabelPricePerLitter control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label LabelPricePerLitter;
+        
+        /// <summary>
+        /// TextBoxPricePerLitter control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox TextBoxPricePerLitter;
+        
+        /// <summary>
         /// ButtonSubmitPrice control.
         /// </summary>
         /// <remarks>
@@ -74,5 +146,23 @@ namespace GassBuddy.Web.App_Features {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button ButtonSubmitPrice;
+        
+        /// <summary>
+        /// SuccessMessage control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl SuccessMessage;
+        
+        /// <summary>
+        /// ButtonBackToHome control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button ButtonBackToHome;
     }
 }
