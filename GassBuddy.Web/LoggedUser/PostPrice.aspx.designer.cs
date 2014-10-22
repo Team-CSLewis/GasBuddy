@@ -10,7 +10,7 @@
 namespace GassBuddy.Web.LoggedUser {
     
     
-    public partial class PostPrice1 {
+    public partial class PostPrice {
         
         /// <summary>
         /// gasstationForm control.

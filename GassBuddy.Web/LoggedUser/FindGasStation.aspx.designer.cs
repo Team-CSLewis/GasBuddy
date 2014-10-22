@@ -10,7 +10,7 @@
 namespace GassBuddy.Web.LoggedUser {
     
     
-    public partial class PostPrice {
+    public partial class FindGasStation {
         
         /// <summary>
         /// LabelCitySelect control.

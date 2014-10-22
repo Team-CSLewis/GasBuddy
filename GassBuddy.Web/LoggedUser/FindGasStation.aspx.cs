@@ -1,15 +1,15 @@
-﻿using System;
+﻿using GassBuddy.Data;
+using GassBuddy.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
-using GassBuddy.Data;
-using GassBuddy.Models;
 
 namespace GassBuddy.Web.LoggedUser
 {
-    public partial class PostPrice : Page
+    public partial class FindGasStation : System.Web.UI.Page
     {
         private GassBuddyData data;       
 
@@ -18,7 +18,7 @@ namespace GassBuddy.Web.LoggedUser
             this.data = new GassBuddyData();
             
             if (!this.Page.IsPostBack)
-            {
+            {                 
                 this.DropDownListCities.DataSource = data.GasStations.All()
                                                                        .Select(x => x.City)
                                                                        .Distinct()
@@ -27,8 +27,9 @@ namespace GassBuddy.Web.LoggedUser
                 this.DropDownChains.DataSource = data.Chains.All()
                                                                 .Select(x => x.Name)
                                                                 .ToList();
-                this.Page.DataBind();
+                this.Page.DataBind();    
             }
+
         }
 
         protected void ButtonSearch_Click(object sender, EventArgs e)

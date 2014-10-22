@@ -1,9 +1,8 @@
-﻿<%@ Page
-    Language="C#"
+﻿<%@ Page Language="C#"
     MasterPageFile="~/Site.Master"
-    AutoEventWireup="true"
-    CodeBehind="FindGasStation.aspx.cs"
-    Inherits="GassBuddy.Web.LoggedUser.PostPrice" %>
+     AutoEventWireup="true" 
+    CodeBehind="FindGasStation.aspx.cs" 
+    Inherits="GassBuddy.Web.LoggedUser.FindGasStation" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <h2>Hello <%# this.User.Identity.Name %> </h2>

@@ -1,8 +1,6 @@
-﻿<%@ Page Language="C#"
+﻿<%@ Page
     MasterPageFile="~/Site.Master"
-    AutoEventWireup="true"
-    CodeBehind="PostPrice.aspx.cs"
-    Inherits="GassBuddy.Web.LoggedUser.PostPrice1" %>
+     Language="C#" AutoEventWireup="true" CodeBehind="PostPrice.aspx.cs" Inherits="GassBuddy.Web.LoggedUser.PostPrice" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 

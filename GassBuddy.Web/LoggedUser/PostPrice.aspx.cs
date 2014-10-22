@@ -4,14 +4,12 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
-using Microsoft.AspNet.Identity;
-using System.Web.Security;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
 namespace GassBuddy.Web.LoggedUser
 {
-    public partial class PostPrice1 : System.Web.UI.Page
+    public partial class PostPrice : System.Web.UI.Page
     {
         private GassBuddyData data;        
         public GasStation currentGasStation;
