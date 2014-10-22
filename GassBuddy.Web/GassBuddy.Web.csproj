@@ -155,8 +155,9 @@
     <Content Include="Account\RegisterExternalLogin.aspx" />
     <Content Include="Account\ResetPassword.aspx" />
     <Content Include="Account\ResetPasswordConfirmation.aspx" />
-	<Content Include="Admin\AdminPanel.aspx" />
-    <Content Include="App_Features\FindGasStation.aspx" />    <Content Include="App_Features\PostPrice.aspx" />
+    <Content Include="Admin\AdminPanel.aspx" />
+    <Content Include="LoggedUser\FindGasStation.aspx" />
+    <Content Include="LoggedUser\PostPrice.aspx" />
     <Content Include="Contact.aspx" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
@@ -288,18 +289,18 @@
     <Compile Include="Admin\AdminPanel.aspx.designer.cs">
       <DependentUpon>AdminPanel.aspx</DependentUpon>
     </Compile>
-<Compile Include="App_Features\FindGasStation.aspx.cs">
+    <Compile Include="LoggedUser\FindGasStation.aspx.cs">
       <DependentUpon>FindGasStation.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="App_Features\FindGasStation.aspx.designer.cs">
+    <Compile Include="LoggedUser\FindGasStation.aspx.designer.cs">
       <DependentUpon>FindGasStation.aspx</DependentUpon>
     </Compile>
-    <Compile Include="App_Features\PostPrice.aspx.cs">
+    <Compile Include="LoggedUser\PostPrice.aspx.cs">
       <DependentUpon>PostPrice.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="App_Features\PostPrice.aspx.designer.cs">
+    <Compile Include="LoggedUser\PostPrice.aspx.designer.cs">
       <DependentUpon>PostPrice.aspx</DependentUpon>
     </Compile>
     <Compile Include="App_Start\BundleConfig.cs" />

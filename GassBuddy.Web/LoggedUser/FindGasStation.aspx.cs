@@ -11,8 +11,7 @@ namespace GassBuddy.Web.App_Features
 {
     public partial class PostPrice : Page
     {
-        private GassBuddyData data;
-        private ICollection<GasStation> gasStations;
+        private GassBuddyData data;       
 
         protected void Page_Load(object sender, EventArgs e)
         {
@@ -36,9 +35,7 @@ namespace GassBuddy.Web.App_Features
         {
             var city = this.DropDownListCities.SelectedValue;
             var chain = this.DropDownChains.SelectedValue;
-            gasStations = this.data.GasStations.All()
-                                                .Where(x => x.City == city && x.Chain.Name == chain)
-                                                .ToList();
+            var gasStations = GetGasStationsByChainAndCity(city, chain);
             this.GridViewGasStations.DataSource = gasStations;
             this.GridViewGasStations.DataBind();
         }
@@ -47,14 +44,18 @@ namespace GassBuddy.Web.App_Features
         {
             var city = this.DropDownListCities.SelectedValue;
             var chain = this.DropDownChains.SelectedValue;
-            gasStations = this.data.GasStations.All()
-                                                   .Where(x => x.City == city && x.Chain.Name == chain)
-                                                   .ToList();
+            var gasStations = GetGasStationsByChainAndCity(city, chain);
             this.GridViewGasStations.PageIndex = e.NewPageIndex;
-            this.GridViewGasStations.DataSource = this.gasStations;
+            this.GridViewGasStations.DataSource = gasStations;
             this.GridViewGasStations.DataBind();
         }
 
         
+        private ICollection<GasStation> GetGasStationsByChainAndCity (string city, string chain)
+        {
+            return this.data.GasStations.All()
+                                        .Where(x => x.City == city && x.Chain.Name == chain)
+                                        .ToList();
+        }
     }
 }
