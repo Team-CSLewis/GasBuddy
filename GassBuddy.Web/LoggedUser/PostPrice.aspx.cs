@@ -21,7 +21,9 @@ namespace GassBuddy.Web.LoggedUser
             data = new GassBuddyData();
 
             var queryStrObject = HttpUtility.ParseQueryString(this.Page.ClientQueryString);
-            var gasStationId = int.Parse(queryStrObject["id"]);            
+            var gasStationId = int.Parse(queryStrObject["id"]);
+
+            this.DropDownListFuelTypes.DataSource = Enum.GetNames(typeof(FuelType));
 
             currentGasStation = data.GasStations.All().FirstOrDefault(x => x.Id == gasStationId);            
             this.Page.DataBind();

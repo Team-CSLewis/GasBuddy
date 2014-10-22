@@ -28,19 +28,12 @@
 
     <div id="userForm" runat="server" class="form-horizontal">
         <h3>Add more info to your personal database</h3>
-        <div class="form-group">
-            <div class="col-md-2">
-                <asp:Label ID="LabelFuelType" runat="server" CssClass="control-label pull-right" Text="Fuel type"></asp:Label>
-            </div>
-            
+        <div class="form-group">            
+            <asp:Label ID="LabelFuelType" runat="server" CssClass="col-md-2 control-label">Fuel type</asp:Label>
             <div class="col-md-3">
-                <asp:DropDownList ID="DropDownListFuelTypes" CssClass="form-control" runat="server">
-                    <asp:ListItem>Diesel</asp:ListItem>
-                    <asp:ListItem>Petrol</asp:ListItem>
-                    <asp:ListItem>Lpg</asp:ListItem>
+                <asp:DropDownList ID="DropDownListFuelTypes" CssClass="form-control" runat="server">                
                 </asp:DropDownList>
             </div>
-
         </div>
 
         <div class="form-group">
