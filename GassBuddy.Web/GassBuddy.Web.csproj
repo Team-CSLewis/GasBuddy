@@ -164,6 +164,7 @@
     <Content Include="LoggedUser\Contacts.aspx" />
     <Content Include="LoggedUser\FindGasStation.aspx" />
     <Content Include="LoggedUser\PostPrice.aspx" />
+    <Content Include="LoggedUser\UserPage.aspx" />
     <Content Include="packages.config" />
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
@@ -338,6 +339,13 @@
     </Compile>
     <Compile Include="LoggedUser\PostPrice.aspx.designer.cs">
       <DependentUpon>PostPrice.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LoggedUser\UserPage.aspx.cs">
+      <DependentUpon>UserPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LoggedUser\UserPage.aspx.designer.cs">
+      <DependentUpon>UserPage.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Site.Master.cs">

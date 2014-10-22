@@ -64,7 +64,7 @@
                         </asp:LoginView>
                         <asp:LoginView runat="server" ViewStateMode="Disabled">
                             <LoggedInTemplate>
-                                <li><a runat="server" href="~/LoggedUser/Contacts">Pesho</a></li>
+                                <li><a runat="server" href="~/LoggedUser/UserPage">My refuels</a></li>
                                 <li><a runat="server" href="~/LoggedUser/FindGasStation">Post Price</a></li>
                             </LoggedInTemplate>
                         </asp:LoginView>
