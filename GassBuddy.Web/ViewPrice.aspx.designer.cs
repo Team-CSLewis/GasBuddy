@@ -10,51 +10,60 @@
 namespace GassBuddy.Web {
     
     
-    public partial class Default {
+    public partial class ViewPrice {
         
         /// <summary>
-        /// GridViewStations control.
+        /// LabelCitySelect control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.GridView GridViewStations;
+        protected global::System.Web.UI.WebControls.Label LabelCitySelect;
         
         /// <summary>
-        /// LiteralStationsCount control.
+        /// DropDownListCities control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Literal LiteralStationsCount;
+        protected global::System.Web.UI.WebControls.DropDownList DropDownListCities;
         
         /// <summary>
-        /// AvgDiselPrice control.
+        /// LabelGasStationSelect control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Literal AvgDiselPrice;
+        protected global::System.Web.UI.WebControls.Label LabelGasStationSelect;
         
         /// <summary>
-        /// AvgPetrolPrice control.
+        /// DropDownChains control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Literal AvgPetrolPrice;
+        protected global::System.Web.UI.WebControls.DropDownList DropDownChains;
         
         /// <summary>
-        /// AvgLPGPrice control.
+        /// ButtonSearch control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Literal AvgLPGPrice;
+        protected global::System.Web.UI.WebControls.Button ButtonSearch;
+        
+        /// <summary>
+        /// GridViewGasStations control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.GridView GridViewGasStations;
     }
 }
