@@ -26,7 +26,10 @@
         </div>
     </div>
 
-    <asp:GridView ID="GridViewGasStations" CssClass="table" runat="server"
+    <asp:GridView ID="GridViewGasStations" runat="server"
+        CssClass="table table-hover table-striped"
+        GridLines="None"
+        UseAccessibleHeader="True"
         AllowPaging="true" PageSize="3"
         OnPageIndexChanging="GridViewGasStations_PageIndexChanging"
         AutoGenerateColumns="False">

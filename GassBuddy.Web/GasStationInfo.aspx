@@ -44,7 +44,10 @@
     <div id="userForm" runat="server" class="form-horizontal">
                     <h3>Users postetd to <%#: this.currentGasStation.Name %></h3>
 
-                    <asp:GridView ID="GridUsersPosts" CssClass="table" runat="server"
+                    <asp:GridView ID="GridUsersPosts"  runat="server"
+                        CssClass="table table-hover table-striped" 
+                        GridLines="None"
+                        UseAccessibleHeader = True
                         AllowPaging="true" PageSize="3"
                         OnPageIndexChanging="GridUsersPosts_PageIndexChanging"
                         AutoGenerateColumns="False">

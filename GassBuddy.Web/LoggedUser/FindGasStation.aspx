@@ -1,7 +1,7 @@
 ﻿<%@ Page Language="C#"
     MasterPageFile="~/Site.Master"
-     AutoEventWireup="true" 
-    CodeBehind="FindGasStation.aspx.cs" 
+    AutoEventWireup="true"
+    CodeBehind="FindGasStation.aspx.cs"
     Inherits="GassBuddy.Web.LoggedUser.FindGasStation" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
@@ -28,9 +28,12 @@
                 <asp:Button ID="ButtonSearch" OnClick="ButtonSearch_Click" CssClass="btn btn-info" runat="server" Text="Search gas station" />
             </div>
         </div>
-    </div>    
+    </div>
 
-    <asp:GridView ID="GridViewGasStations" CssClass="table" runat="server"
+    <asp:GridView ID="GridViewGasStations" runat="server"
+        CssClass="table table-hover table-striped"
+        GridLines="None"
+        UseAccessibleHeader="True"
         AllowPaging="true" PageSize="3"
         OnPageIndexChanging="GridViewGasStations_PageIndexChanging"
         AutoGenerateColumns="False">
