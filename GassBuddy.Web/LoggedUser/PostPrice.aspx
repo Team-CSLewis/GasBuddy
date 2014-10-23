@@ -46,11 +46,25 @@
                     <div class="form-group">
                         <asp:Label ID="LabelFuelQuantity" runat="server" CssClass="col-md-3 control-label" Text="Fuel quantity"></asp:Label>
                         <asp:TextBox ID="TextBoxFuelQuantity" CssClass="form-control" runat="server"></asp:TextBox>
+                        <asp:RequiredFieldValidator
+                            ID="RequiredFieldValidatorFuelQuantity"
+                            runat="server" 
+                            ForeColor="Red" 
+                            Display="Dynamic"
+                            ErrorMessage="A fuel quantity is required!"
+                            ControlToValidate="TextBoxFuelQuantity" />
                     </div>
 
                     <div class="form-group">
                         <asp:Label ID="LabelPricePerLitter" runat="server" CssClass="col-md-3 control-label" Text="Price per litter"></asp:Label>
                         <asp:TextBox ID="TextBoxPricePerLitter" CssClass="form-control" runat="server"></asp:TextBox>
+                        <asp:RequiredFieldValidator
+                            ID="RequiredFieldValidatorPricePerLitter"
+                            runat="server" 
+                            ForeColor="Red" 
+                            Display="Dynamic"
+                            ErrorMessage="A price per litter is required!"
+                            ControlToValidate="TextBoxPricePerLitter" />
                     </div>
 
                 </div>
@@ -68,10 +82,10 @@
     <asp:Button ID="ButtonBackToHome" Visible="false" OnClick="ButtonBackToHome_Click" CssClass="btn btn-info" runat="server" Text="Back to home page" />
     <h2 id="SuccessMessage" runat="server"></h2>
 
-    
+
     <asp:TextBox ID="StationLat" runat="server"></asp:TextBox>
     <asp:TextBox ID="StationLon" runat="server"></asp:TextBox>
-    
+
 
     <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
     <script type="text/javascript" src="../Scripts/markerevent.js"></script>
