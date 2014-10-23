@@ -27,3 +27,18 @@ input[type="email"] {
         padding: 0;
     }
 }
+
+#mapCanvas {    
+    margin: 0;
+    padding: 0;
+    height: 250px;
+    width: 250px;
+}
+
+#MainContent_StationLat{
+    display : none;
+}
+
+#MainContent_StationLon{
+    display : none;
+}

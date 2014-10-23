@@ -42,7 +42,8 @@
                         Address = this.GetAddress(xmlWayPoint),
                         DieselPrice = this.GetPrice(LOWEST_PRICE, HIGHEST_PRICE),
                         PetrolPrice = this.GetPrice(LOWEST_PRICE, HIGHEST_PRICE),
-                        LpgPrice = this.GetPrice(LOWEST_PRICE_LPG, HIGHEST_PRICE_LPG)
+                        LpgPrice = this.GetPrice(LOWEST_PRICE_LPG, HIGHEST_PRICE_LPG),
+                        City = this.GetCity(xmlWayPoint),
                     });
             }
 

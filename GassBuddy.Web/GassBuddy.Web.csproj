@@ -156,14 +156,15 @@
     <Content Include="Account\ResetPassword.aspx" />
     <Content Include="Account\ResetPasswordConfirmation.aspx" />
     <Content Include="Admin\AdminPanel.aspx" />
-    <Content Include="LoggedUser\FindGasStation.aspx" />
-    <Content Include="LoggedUser\PostPrice.aspx" />
     <Content Include="Contact.aspx" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\Site.css" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="LoggedUser\Contacts.aspx" />
+    <Content Include="LoggedUser\FindGasStation.aspx" />
+    <Content Include="LoggedUser\PostPrice.aspx" />
+    <Content Include="LoggedUser\UserPage.aspx" />
     <Content Include="packages.config" />
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
@@ -174,6 +175,7 @@
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
+    <Content Include="Scripts\markerevent.js" />
     <Content Include="Scripts\modernizr-2.6.2.js" />
     <Content Include="Scripts\respond.js" />
     <Content Include="Scripts\respond.min.js" />
@@ -289,20 +291,6 @@
     <Compile Include="Admin\AdminPanel.aspx.designer.cs">
       <DependentUpon>AdminPanel.aspx</DependentUpon>
     </Compile>
-    <Compile Include="LoggedUser\FindGasStation.aspx.cs">
-      <DependentUpon>FindGasStation.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="LoggedUser\FindGasStation.aspx.designer.cs">
-      <DependentUpon>FindGasStation.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="LoggedUser\PostPrice.aspx.cs">
-      <DependentUpon>PostPrice.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="LoggedUser\PostPrice.aspx.designer.cs">
-      <DependentUpon>PostPrice.aspx</DependentUpon>
-    </Compile>
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="About.aspx.cs">
       <DependentUpon>About.aspx</DependentUpon>
@@ -338,6 +326,27 @@
     </Compile>
     <Compile Include="LoggedUser\Contacts.aspx.designer.cs">
       <DependentUpon>Contacts.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LoggedUser\FindGasStation.aspx.cs">
+      <DependentUpon>FindGasStation.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LoggedUser\FindGasStation.aspx.designer.cs">
+      <DependentUpon>FindGasStation.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LoggedUser\PostPrice.aspx.cs">
+      <DependentUpon>PostPrice.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LoggedUser\PostPrice.aspx.designer.cs">
+      <DependentUpon>PostPrice.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LoggedUser\UserPage.aspx.cs">
+      <DependentUpon>UserPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LoggedUser\UserPage.aspx.designer.cs">
+      <DependentUpon>UserPage.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Site.Master.cs">

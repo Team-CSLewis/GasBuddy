@@ -10,7 +10,16 @@
 namespace GassBuddy.Web.LoggedUser {
     
     
-    public partial class PostPrice1 {
+    public partial class PostPrice {
+        
+        /// <summary>
+        /// PostPricePageContent control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlTable PostPricePageContent;
         
         /// <summary>
         /// gasstationForm control.
@@ -148,6 +157,15 @@ namespace GassBuddy.Web.LoggedUser {
         protected global::System.Web.UI.WebControls.Button ButtonSubmitPrice;
         
         /// <summary>
+        /// ButtonBackToHome control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button ButtonBackToHome;
+        
+        /// <summary>
         /// SuccessMessage control.
         /// </summary>
         /// <remarks>
@@ -157,12 +175,21 @@ namespace GassBuddy.Web.LoggedUser {
         protected global::System.Web.UI.HtmlControls.HtmlGenericControl SuccessMessage;
         
         /// <summary>
-        /// ButtonBackToHome control.
+        /// StationLat control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button ButtonBackToHome;
+        protected global::System.Web.UI.WebControls.TextBox StationLat;
+        
+        /// <summary>
+        /// StationLon control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox StationLon;
     }
 }

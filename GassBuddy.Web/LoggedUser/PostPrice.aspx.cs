@@ -4,20 +4,18 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
-using Microsoft.AspNet.Identity;
-using System.Web.Security;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
 namespace GassBuddy.Web.LoggedUser
 {
-    public partial class PostPrice1 : System.Web.UI.Page
+    public partial class PostPrice : System.Web.UI.Page
     {
         private GassBuddyData data;        
         public GasStation currentGasStation;
 
         protected void Page_Load(object sender, EventArgs e)
-        {
+        {           
             data = new GassBuddyData();
 
             var queryStrObject = HttpUtility.ParseQueryString(this.Page.ClientQueryString);
@@ -25,7 +23,11 @@ namespace GassBuddy.Web.LoggedUser
 
             this.DropDownListFuelTypes.DataSource = Enum.GetNames(typeof(FuelType));
 
-            currentGasStation = data.GasStations.All().FirstOrDefault(x => x.Id == gasStationId);            
+            currentGasStation = data.GasStations.All().FirstOrDefault(x => x.Id == gasStationId);   
+
+            var gasStationCoords = currentGasStation.GeoLocation.Split(';');
+            this.StationLat.Text = gasStationCoords[0];
+            this.StationLon.Text = gasStationCoords[1];
             this.Page.DataBind();
         }
 
@@ -39,8 +41,8 @@ namespace GassBuddy.Web.LoggedUser
             this.UpdateUserHistory();
             this.data.SaveChanges();
 
-            this.SuccessMessage.InnerText = "Data information successfully saved";
-            this.gasstationForm.Visible = false;
+            this.SuccessMessage.InnerText = "Data information successfully saved";            
+            this.PostPricePageContent.Visible = false;
             this.ButtonBackToHome.Visible = true;
             this.userForm.Visible = false;
         }

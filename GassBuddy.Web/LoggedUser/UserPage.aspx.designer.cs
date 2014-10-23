@@ -10,60 +10,51 @@
 namespace GassBuddy.Web.LoggedUser {
     
     
-    public partial class FindGasStation {
+    public partial class UserPage {
         
         /// <summary>
-        /// LabelCitySelect control.
+        /// totalMoneyAmount control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label LabelCitySelect;
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl totalMoneyAmount;
         
         /// <summary>
-        /// DropDownListCities control.
+        /// totalLitterAmount control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.DropDownList DropDownListCities;
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl totalLitterAmount;
         
         /// <summary>
-        /// LabelGasStationSelect control.
+        /// totalPeriod control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label LabelGasStationSelect;
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl totalPeriod;
         
         /// <summary>
-        /// DropDownChains control.
+        /// ListViewUserPosts control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.DropDownList DropDownChains;
+        protected global::System.Web.UI.WebControls.ListView ListViewUserPosts;
         
         /// <summary>
-        /// ButtonSearch control.
+        /// DataPagerUserPosts control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button ButtonSearch;
-        
-        /// <summary>
-        /// GridViewGasStations control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.GridView GridViewGasStations;
+        protected global::System.Web.UI.WebControls.DataPager DataPagerUserPosts;
     }
 }
