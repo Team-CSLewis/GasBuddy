@@ -5,6 +5,7 @@
     using System.Globalization;
     using System.Linq;
     using System.Linq.Expressions;
+    using System.Web.Caching;
     using System.Web.UI;
     using System.Web.UI.WebControls;
 
@@ -13,6 +14,8 @@
 
     public partial class Default : Page
     {
+        private const int CacheTimeMinutes = 20;
+
         private GassBuddyData data;
 
         private string SortExpression
@@ -64,20 +67,63 @@
             DropDownListCities.DataBind();
 
             GridViewStations.DataSource =
-                data.GasStations.All().OrderBy(s => s.DieselPrice + s.PetrolPrice + s.LpgPrice).ToList();
+                data.GasStations.All().OrderBy(s => s.DieselPrice + 
+                                                    s.PetrolPrice +
+                                                    s.LpgPrice)
+                                                    .ToList();
             GridViewStations.DataBind();
 
-            var gasStationsCount = Enumerable.Count(data.GasStations.All());
-            LiteralStationsCount.Text = gasStationsCount.ToString(CultureInfo.InvariantCulture);
+            if (Cache.Get("gasStationsCount") == null)
+            {
+                var gasStationsCount = Enumerable.Count(data.GasStations.All());
 
-            var avgDieselPrice = data.GasStations.All().Average(s => s.DieselPrice);
-            AvgDiselPrice.Text = avgDieselPrice.ToString("C", CultureInfo.CreateSpecificCulture("Bg-bg"));
+                Cache.Insert("gasStationsCount",
+                             gasStationsCount,
+                             null,
+                             DateTime.Now.AddMinutes(CacheTimeMinutes),
+                             Cache.NoSlidingExpiration);
+            }
+            LiteralStationsCount.Text = Cache.Get("gasStationsCount").ToString();
 
-            var avgLpgPrice = data.GasStations.All().Average(s => s.LpgPrice);
-            AvgLPGPrice.Text = avgLpgPrice.ToString("C", CultureInfo.CreateSpecificCulture("Bg-bg"));
+            if (Cache.Get("avgDieselPrice") == null)
+            {
+                var avgDieselPrice = data.GasStations.All().Average(s => s.DieselPrice);
 
-            var avgPetrolPrice = data.GasStations.All().Average(s => s.PetrolPrice);
-            AvgPetrolPrice.Text = avgPetrolPrice.ToString("C", CultureInfo.CreateSpecificCulture("Bg-bg"));
+                Cache.Insert("avgDieselPrice",
+                             avgDieselPrice,
+                             null,
+                             DateTime.Now.AddMinutes(CacheTimeMinutes),
+                             Cache.NoSlidingExpiration);
+            }
+            AvgDiselPrice.Text = ((decimal)Cache.Get("avgDieselPrice"))
+                .ToString("C", CultureInfo.CreateSpecificCulture("Bg-bg"));
+
+            if (Cache.Get("avgLpgPrice") == null)
+            {
+                var avgLpgPrice = data.GasStations.All().Average(s => s.LpgPrice);
+
+                Cache.Insert(
+                             "avgLpgPrice",
+                             avgLpgPrice,
+                             null,
+                             DateTime.Now.AddMinutes(CacheTimeMinutes),
+                             Cache.NoSlidingExpiration);
+            }
+            AvgLPGPrice.Text = ((decimal)Cache.Get("avgLpgPrice"))
+                .ToString("C", CultureInfo.CreateSpecificCulture("Bg-bg"));
+
+            if (Cache.Get("avgPetrolPrice") == null)
+            {
+                var avgPetrolPrice = data.GasStations.All().Average(s => s.PetrolPrice);
+
+                Cache.Insert("avgPetrolPrice",
+                             avgPetrolPrice,
+                             null,
+                             DateTime.Now.AddMinutes(20),
+                             Cache.NoSlidingExpiration);
+            }
+            AvgPetrolPrice.Text = ((decimal)Cache.Get("avgPetrolPrice"))
+                .ToString("C", CultureInfo.CreateSpecificCulture("Bg-bg"));
         }
 
         protected void GridViewStations_OnPageIndexChanging(object sender, GridViewPageEventArgs e)
