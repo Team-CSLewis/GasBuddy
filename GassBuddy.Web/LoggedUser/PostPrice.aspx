@@ -14,16 +14,40 @@
                     <div class="form-group">
                         <asp:Label ID="LabelDieselPrice" runat="server" CssClass="col-md-3 control-label" Text="Diesel Price"></asp:Label>
                         <asp:TextBox ID="TextBoxDieselPrice" CssClass="form-control" runat="server"></asp:TextBox>
+                        <asp:RegularExpressionValidator
+                            ID="RegularExpressionValidatorDieselPrice"
+                            runat="server"
+                            ForeColor="Red"
+                            Display="Dynamic"
+                            ErrorMessage="Diesel price is incorrect!"
+                            ControlToValidate="TextBoxDieselPrice"
+                            ValidationExpression="^\d*(,\d*)?$" />
                     </div>
 
                     <div class="form-group">
                         <asp:Label ID="LabelPetrolPrice" runat="server" CssClass="col-md-3 control-label" Text="Petrol Price"></asp:Label>
                         <asp:TextBox ID="TextBoxPetrolPrice" CssClass="form-control" runat="server"></asp:TextBox>
+                        <asp:RegularExpressionValidator
+                            ID="RegularExpressionValidatorPetrolPrice"
+                            runat="server"
+                            ForeColor="Red"
+                            Display="Dynamic"
+                            ErrorMessage="Petrol price is incorrect!"
+                            ControlToValidate="TextBoxPetrolPrice"
+                            ValidationExpression="^\d*(,\d*)?$" />
                     </div>
 
                     <div class="form-group">
                         <asp:Label ID="LabelLpgPrice" runat="server" CssClass="col-md-3 control-label" Text="LPG Price"></asp:Label>
                         <asp:TextBox ID="TextBoxLpgPrice" CssClass="form-control" runat="server"></asp:TextBox>
+                        <asp:RegularExpressionValidator
+                            ID="RegularExpressionValidatorLpgPrice"
+                            runat="server"
+                            ForeColor="Red"
+                            Display="Dynamic"
+                            ErrorMessage="Lpg price is incorrect!"
+                            ControlToValidate="TextBoxLpgPrice"
+                            ValidationExpression="^\d*(,\d*)?$" />
                     </div>
                 </div>
             </td>
@@ -48,11 +72,19 @@
                         <asp:TextBox ID="TextBoxFuelQuantity" CssClass="form-control" runat="server"></asp:TextBox>
                         <asp:RequiredFieldValidator
                             ID="RequiredFieldValidatorFuelQuantity"
-                            runat="server" 
-                            ForeColor="Red" 
+                            runat="server"
+                            ForeColor="Red"
                             Display="Dynamic"
                             ErrorMessage="A fuel quantity is required!"
                             ControlToValidate="TextBoxFuelQuantity" />
+                        <asp:RegularExpressionValidator
+                            ID="RegularExpressionValidatorFuelQuantity"
+                            runat="server"
+                            ForeColor="Red"
+                            Display="Dynamic"
+                            ErrorMessage="Fuel quantity is incorrect!"
+                            ControlToValidate="TextBoxFuelQuantity"
+                            ValidationExpression="^\d*(,\d*)?$" />
                     </div>
 
                     <div class="form-group">
@@ -60,11 +92,19 @@
                         <asp:TextBox ID="TextBoxPricePerLitter" CssClass="form-control" runat="server"></asp:TextBox>
                         <asp:RequiredFieldValidator
                             ID="RequiredFieldValidatorPricePerLitter"
-                            runat="server" 
-                            ForeColor="Red" 
+                            runat="server"
+                            ForeColor="Red"
                             Display="Dynamic"
                             ErrorMessage="A price per litter is required!"
                             ControlToValidate="TextBoxPricePerLitter" />
+                        <asp:RegularExpressionValidator
+                            ID="RegularExpressionValidatorPricePerLitter"
+                            runat="server"
+                            ForeColor="Red"
+                            Display="Dynamic"
+                            ErrorMessage="Price per litter is incorrect!"
+                            ControlToValidate="TextBoxPricePerLitter"
+                            ValidationExpression="^\d*(,\d*)?$" />
                     </div>
 
                 </div>

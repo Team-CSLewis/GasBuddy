@@ -49,6 +49,15 @@ namespace GassBuddy.Web.LoggedUser {
         protected global::System.Web.UI.WebControls.TextBox TextBoxDieselPrice;
         
         /// <summary>
+        /// RegularExpressionValidatorDieselPrice control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RegularExpressionValidator RegularExpressionValidatorDieselPrice;
+        
+        /// <summary>
         /// LabelPetrolPrice control.
         /// </summary>
         /// <remarks>
@@ -67,6 +76,15 @@ namespace GassBuddy.Web.LoggedUser {
         protected global::System.Web.UI.WebControls.TextBox TextBoxPetrolPrice;
         
         /// <summary>
+        /// RegularExpressionValidatorPetrolPrice control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RegularExpressionValidator RegularExpressionValidatorPetrolPrice;
+        
+        /// <summary>
         /// LabelLpgPrice control.
         /// </summary>
         /// <remarks>
@@ -83,6 +101,15 @@ namespace GassBuddy.Web.LoggedUser {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox TextBoxLpgPrice;
+        
+        /// <summary>
+        /// RegularExpressionValidatorLpgPrice control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RegularExpressionValidator RegularExpressionValidatorLpgPrice;
         
         /// <summary>
         /// userForm control.
@@ -139,6 +166,15 @@ namespace GassBuddy.Web.LoggedUser {
         protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidatorFuelQuantity;
         
         /// <summary>
+        /// RegularExpressionValidatorFuelQuantity control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RegularExpressionValidator RegularExpressionValidatorFuelQuantity;
+        
+        /// <summary>
         /// LabelPricePerLitter control.
         /// </summary>
         /// <remarks>
@@ -164,6 +200,15 @@ namespace GassBuddy.Web.LoggedUser {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidatorPricePerLitter;
+        
+        /// <summary>
+        /// RegularExpressionValidatorPricePerLitter control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RegularExpressionValidator RegularExpressionValidatorPricePerLitter;
         
         /// <summary>
         /// ButtonSubmitPrice control.
