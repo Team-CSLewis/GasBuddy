@@ -23,16 +23,17 @@ namespace GassBuddy.Web.LoggedUser
                 var userHistoryPosts = this.data.UsersHistory.All()
                                                             .Where(x => x.UserId == userId)
                                                             .ToList();
+                if (userHistoryPosts.Count != 0)
+                {
+                    this.ListViewUserPosts.DataSource = userHistoryPosts;
+                    this.totalMoneyAmount.InnerText = userHistoryPosts.Sum(x => x.TotalPrice).ToString();
+                    this.totalLitterAmount.InnerText = userHistoryPosts.Sum(x => x.FuelQuantity).ToString();
+                    var startDate = userHistoryPosts.Min(x => x.DateOfRefuel);
+                    var endDate = userHistoryPosts.Max(x => x.DateOfRefuel);
+                    var timeSpan = (endDate - startDate).Days;
 
-                this.ListViewUserPosts.DataSource = userHistoryPosts;
-                this.totalMoneyAmount.InnerText = userHistoryPosts.Sum(x => x.TotalPrice).ToString();
-                this.totalLitterAmount.InnerText = userHistoryPosts.Sum(x => x.FuelQuantity).ToString();
-                var startDate = userHistoryPosts.Min(x => x.DateOfRefuel);
-                var endDate = userHistoryPosts.Max(x => x.DateOfRefuel);
-                var timeSpan = (endDate - startDate).Days;
-
-                this.totalPeriod.InnerText = string.Format("Total period {0} days. From {1} to {2}", timeSpan, startDate.ToString("dd/mm/yyyy"), endDate.ToString("dd/mm/yyyy"));
-
+                    this.totalPeriod.InnerText = string.Format("Total period {0} days. From {1} to {2}", timeSpan, startDate.ToString("dd/mm/yyyy"), endDate.ToString("dd/mm/yyyy"));
+                }
                 this.Page.DataBind();
             }
         }

@@ -57,6 +57,9 @@
                     </ul>
                 </div>
             </ItemTemplate>
+            <EmptyDataTemplate>
+               <h1>No Items</h1>
+            </EmptyDataTemplate>
         </asp:ListView>
     </div>
 
