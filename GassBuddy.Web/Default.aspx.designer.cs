@@ -13,6 +13,24 @@ namespace GassBuddy.Web {
     public partial class Default {
         
         /// <summary>
+        /// LabelCitySelect control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label LabelCitySelect;
+        
+        /// <summary>
+        /// DropDownListCities control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.DropDownList DropDownListCities;
+        
+        /// <summary>
         /// GridViewStations control.
         /// </summary>
         /// <remarks>

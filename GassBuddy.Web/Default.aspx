@@ -2,12 +2,30 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <div class="well">
-        <h1>Welcome to Gas Buddy</h1>
-        <p class="lead">Find cheapest fuel in your city.</p>
+        <div class="row">
+            <div class="col-md-9">
+                <h1>Welcome to Gas Buddy</h1>
+                <p class="lead">Find cheapest fuel in your city.</p>
+            </div>
+        </div>
     </div>
-
     <div class="row">
-        <asp:GridView ID="GridViewStations" runat="server"
+        <div class="form-group col-md-6 pull-right">
+            <asp:Label CssClass="col-md-3 col-md-offset-1 label label-primary"
+                       ID="LabelCitySelect" runat="server">
+                Select city
+            </asp:Label>
+            <div class="col-md-12">
+                <asp:DropDownList CssClass="form-control" AutoPostBack="True"
+                                  OnSelectedIndexChanged="DropDownListCities_OnSelectedIndexChanged"
+                                  ID="DropDownListCities" runat="server">
+                </asp:DropDownList>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <asp:GridView ID="GridViewStations" runat="server" AllowSorting="True"
+                      OnSorting="GridViewStations_OnSorting"
                       ItemType="GassBuddy.Models.GasStation" AutoGenerateColumns="False"
                       DataKeyNames="Id" AllowPaging="true"
                       OnPageIndexChanging="GridViewStations_OnPageIndexChanging"
@@ -15,7 +33,7 @@
             <Columns>
                 <asp:HyperLinkField DataTextField="Name"
                                     DataNavigateUrlFields="Id"
-                                    DataNavigateUrlFormatString="~/LoggedUser/PostPrice.aspx?id={0}"
+                                    DataNavigateUrlFormatString="~/GasStationInfo?id={0}"
                                     HeaderText="Name"/>
 
                 <asp:DynamicField DataField="PetrolPrice"/>
