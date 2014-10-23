@@ -40,6 +40,15 @@ namespace GassBuddy.Web.Admin {
         protected global::System.Web.UI.WebControls.TextBox TextBoxDieselPrice;
         
         /// <summary>
+        /// RegularExpressionValidatorDieselPrice control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RegularExpressionValidator RegularExpressionValidatorDieselPrice;
+        
+        /// <summary>
         /// LabelPetrolPrice control.
         /// </summary>
         /// <remarks>
@@ -58,6 +67,15 @@ namespace GassBuddy.Web.Admin {
         protected global::System.Web.UI.WebControls.TextBox TextBoxPetrolPrice;
         
         /// <summary>
+        /// RegularExpressionValidatorPetrolPrice control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RegularExpressionValidator RegularExpressionValidatorPetrolPrice;
+        
+        /// <summary>
         /// LabelLpgPrice control.
         /// </summary>
         /// <remarks>
@@ -74,6 +92,15 @@ namespace GassBuddy.Web.Admin {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox TextBoxLpgPrice;
+        
+        /// <summary>
+        /// RegularExpressionValidatorLpgPrice control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RegularExpressionValidator RegularExpressionValidatorLpgPrice;
         
         /// <summary>
         /// BtnSetPrice control.

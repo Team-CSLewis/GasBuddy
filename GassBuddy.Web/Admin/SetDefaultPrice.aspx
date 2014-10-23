@@ -5,15 +5,39 @@
         <div class="form-group">
             <asp:Label ID="LabelDieselPrice" runat="server" CssClass="col-md-3 control-label" Text="Diesel Price"></asp:Label>
             <asp:TextBox ID="TextBoxDieselPrice" CssClass="form-control" runat="server"></asp:TextBox>
+            <asp:RegularExpressionValidator
+                ID="RegularExpressionValidatorDieselPrice"
+                runat="server"
+                ForeColor="Red"
+                Display="Dynamic"
+                ErrorMessage="Diesel price is incorrect!"
+                ControlToValidate="TextBoxDieselPrice"
+                ValidationExpression="^\d*(,\d*)?$" />
         </div>
         <div class="form-group">
             <asp:Label ID="LabelPetrolPrice" runat="server" CssClass="col-md-3 control-label" Text="Petrol Price"></asp:Label>
             <asp:TextBox ID="TextBoxPetrolPrice" CssClass="form-control" runat="server"></asp:TextBox>
+            <asp:RegularExpressionValidator
+                ID="RegularExpressionValidatorPetrolPrice"
+                runat="server"
+                ForeColor="Red"
+                Display="Dynamic"
+                ErrorMessage="Petrol price is incorrect!"
+                ControlToValidate="TextBoxPetrolPrice"
+                ValidationExpression="^\d*(,\d*)?$" />
         </div>
 
         <div class="form-group">
             <asp:Label ID="LabelLpgPrice" runat="server" CssClass="col-md-3 control-label" Text="LPG Price"></asp:Label>
             <asp:TextBox ID="TextBoxLpgPrice" CssClass="form-control" runat="server"></asp:TextBox>
+            <asp:RegularExpressionValidator
+                ID="RegularExpressionValidatorLpgPrice"
+                runat="server"
+                ForeColor="Red"
+                Display="Dynamic"
+                ErrorMessage="Lpg price is incorrect!"
+                ControlToValidate="TextBoxLpgPrice"
+                ValidationExpression="^\d*(,\d*)?$" />
         </div>
         <div class="form-group pull-left">
             <div class="col-md-offset-2 col-md-10">

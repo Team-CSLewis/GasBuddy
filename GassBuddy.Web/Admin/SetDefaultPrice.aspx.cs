@@ -19,6 +19,10 @@ namespace GassBuddy.Web.Admin
 
         protected void BtnSetPrice_Click(object sender, EventArgs e)
         {
+            if (!this.Page.IsValid)
+            {
+                return;
+            }
             var dieselPrice = decimal.Parse(this.TextBoxDieselPrice.Text);
             var petrolPrice = decimal.Parse(this.TextBoxPetrolPrice.Text);
             var lpgPrice = decimal.Parse(this.TextBoxLpgPrice.Text);
