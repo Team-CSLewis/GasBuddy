@@ -27,6 +27,11 @@ namespace GassBuddy.Web.Admin
 
         protected void AddStation_Click(object sender, EventArgs e)
         {
+            if (!this.Page.IsValid)
+            {
+                return;
+            }
+
             var name = this.TbStationName.Text;
             var description = this.TbDescription.Text;
             var location = this.TbLocation.Text;

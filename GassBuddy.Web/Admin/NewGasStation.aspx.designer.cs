@@ -40,6 +40,15 @@ namespace GassBuddy.Web.Admin {
         protected global::System.Web.UI.WebControls.TextBox TbStationName;
         
         /// <summary>
+        /// RequiredFieldValidatorStationName control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidatorStationName;
+        
+        /// <summary>
         /// LabelCity control.
         /// </summary>
         /// <remarks>
@@ -56,6 +65,15 @@ namespace GassBuddy.Web.Admin {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox TbCity;
+        
+        /// <summary>
+        /// RequiredFieldValidatorCity control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidatorCity;
         
         /// <summary>
         /// LabelStationAddress control.
@@ -76,6 +94,15 @@ namespace GassBuddy.Web.Admin {
         protected global::System.Web.UI.WebControls.TextBox TbStationAddress;
         
         /// <summary>
+        /// RequiredFieldValidatorStationAddress control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidatorStationAddress;
+        
+        /// <summary>
         /// LabelDescription control.
         /// </summary>
         /// <remarks>
@@ -94,6 +121,15 @@ namespace GassBuddy.Web.Admin {
         protected global::System.Web.UI.WebControls.TextBox TbDescription;
         
         /// <summary>
+        /// RequiredFieldValidatorDescription control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidatorDescription;
+        
+        /// <summary>
         /// LabelLocation control.
         /// </summary>
         /// <remarks>
@@ -110,6 +146,24 @@ namespace GassBuddy.Web.Admin {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox TbLocation;
+        
+        /// <summary>
+        /// RequiredFieldValidatorLocation control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidatorLocation;
+        
+        /// <summary>
+        /// RegularExpressionValidatorLocation control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RegularExpressionValidator RegularExpressionValidatorLocation;
         
         /// <summary>
         /// LabelGasStationSelect control.
