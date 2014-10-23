@@ -3,3 +3,5 @@ packages
 bin
 obj
 *.suo
+GassBuddy.v12.suo
+*.suo
