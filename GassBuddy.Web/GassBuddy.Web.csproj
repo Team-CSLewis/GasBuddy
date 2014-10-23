@@ -155,7 +155,8 @@
     <Content Include="Account\RegisterExternalLogin.aspx" />
     <Content Include="Account\ResetPassword.aspx" />
     <Content Include="Account\ResetPasswordConfirmation.aspx" />
-    <Content Include="Admin\AdminPanel.aspx" />
+    <Content Include="Admin\NewGasStation.aspx" />
+    <Content Include="Admin\SetDefaultPrice.aspx" />
     <Content Include="Contact.aspx" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
@@ -170,6 +171,7 @@
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
     <Content Include="Account\Web.config" />
+    <Content Include="Admin\AdminPanel.master" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
@@ -284,12 +286,26 @@
     <Compile Include="Account\ResetPasswordConfirmation.aspx.designer.cs">
       <DependentUpon>ResetPasswordConfirmation.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Admin\AdminPanel.aspx.cs">
-      <DependentUpon>AdminPanel.aspx</DependentUpon>
+    <Compile Include="Admin\AdminPanel.master.cs">
+      <DependentUpon>AdminPanel.master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Admin\AdminPanel.aspx.designer.cs">
-      <DependentUpon>AdminPanel.aspx</DependentUpon>
+    <Compile Include="Admin\AdminPanel.master.designer.cs">
+      <DependentUpon>AdminPanel.master</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\NewGasStation.aspx.cs">
+      <DependentUpon>NewGasStation.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\NewGasStation.aspx.designer.cs">
+      <DependentUpon>NewGasStation.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\SetDefaultPrice.aspx.cs">
+      <DependentUpon>SetDefaultPrice.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\SetDefaultPrice.aspx.designer.cs">
+      <DependentUpon>SetDefaultPrice.aspx</DependentUpon>
     </Compile>
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="About.aspx.cs">

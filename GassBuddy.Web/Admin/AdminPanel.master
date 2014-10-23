@@ -1,0 +1,21 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="AdminPanel.master.cs" Inherits="GassBuddy.Web.Admin.AdminPanel1" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
+    <div class="row">
+        <div class="col-md-3 sidebar-wrapper">
+                <ul class="nav navbar-nav side-nav">
+                    <li class="sidebar-brand">
+                        <a href="SetDefaultPrice">Set Default Prices</a>
+                    </li>
+                    <li class="sidebar-brand">
+                        <a href="NewGasStation">Add New Gas Station</a>
+                    </li>
+                </ul>
+        </div>
+        <div class="col-md-9 admin-container">
+            <asp:ContentPlaceHolder runat="server" ID="AdminPanels">
+            </asp:ContentPlaceHolder>
+        </div>
+    </div>
+</a>
+</asp:Content>

@@ -11,7 +11,7 @@ namespace GassBuddy.Web.Admin
 {
 
 
-    public partial class AdminPanel
+    public partial class NewGasStation
     {
     }
 }
