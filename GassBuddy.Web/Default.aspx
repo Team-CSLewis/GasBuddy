@@ -1,6 +1,7 @@
 ﻿<%@ Page Title="Home Page" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="GassBuddy.Web.Default" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
+    
     <div class="well">
         <div class="row">
             <div class="col-md-9">
@@ -9,6 +10,7 @@
             </div>
         </div>
     </div>
+
     <div class="row">
         <div class="form-group col-md-6 pull-right">
             <asp:Label CssClass="col-md-3 col-md-offset-1 label label-primary"
@@ -23,6 +25,7 @@
             </div>
         </div>
     </div>
+
     <div class="row">
         <asp:GridView ID="GridViewStations" runat="server" AllowSorting="True"
                       OnSorting="GridViewStations_OnSorting"
@@ -31,11 +34,13 @@
                       OnPageIndexChanging="GridViewStations_OnPageIndexChanging"
                       CssClass="table table-responsive table-striped table-hover table-bordered">
             <Columns>
-                <asp:HyperLinkField DataTextField="Name"
-                                    DataNavigateUrlFields="Id"
-                                    DataNavigateUrlFormatString="~/GasStationInfo?id={0}"
-                                    HeaderText="Name"/>
-
+                <asp:TemplateField>
+                    <ItemTemplate>
+                        <asp:HyperLink ID="hyperDetails" runat="server"
+                                       NavigateUrl='<%# "~/GasStationInfo?id=" + Eval("Id") %>'
+                                       Text=<%# HttpUtility.HtmlEncode(Eval("Name").ToString()) %>/>
+                    </ItemTemplate>
+                </asp:TemplateField>
                 <asp:DynamicField DataField="PetrolPrice"/>
                 <asp:DynamicField DataField="DieselPrice"/>
                 <asp:DynamicField DataField="LpgPrice"/>
