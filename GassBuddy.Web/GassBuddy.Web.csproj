@@ -156,6 +156,7 @@
     <Content Include="Account\ResetPassword.aspx" />
     <Content Include="Account\ResetPasswordConfirmation.aspx" />
     <Content Include="Admin\AdminPanel.aspx" />
+    <Content Include="GasStationInfo.aspx" />
     <Content Include="ViewPrice.aspx" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
@@ -303,6 +304,13 @@
     <Compile Include="App_Start\IdentityHelper.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\Startup.Auth.cs" />
+    <Compile Include="GasStationInfo.aspx.cs">
+      <DependentUpon>GasStationInfo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GasStationInfo.aspx.designer.cs">
+      <DependentUpon>GasStationInfo.aspx</DependentUpon>
+    </Compile>
     <Compile Include="ViewPrice.aspx.cs">
       <DependentUpon>ViewPrice.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

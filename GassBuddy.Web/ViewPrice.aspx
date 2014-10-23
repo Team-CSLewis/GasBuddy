@@ -33,7 +33,7 @@
         <Columns>
             <asp:HyperLinkField DataTextField="Name"
                 DataNavigateUrlFields="Id"
-                DataNavigateUrlFormatString="PostPrice.aspx?id={0}"
+                DataNavigateUrlFormatString="GasStationInfo.aspx?id={0}"
                 HeaderText="Name" />
             <asp:BoundField DataField="DieselPrice" HeaderText="Diesel Price" />
             <asp:BoundField DataField="PetrolPrice" HeaderText="Petrol Price" />
