@@ -34,25 +34,26 @@ namespace GassBuddy.Web
             this.City.Text = currentGasStation.City;
             this.Chain.Text = currentGasStation.Chain.Name;
 
+            var usersPosted = GetUsersByPosts(currentGasStation.Id);
+            this.GridUsersPosts.DataSource = usersPosted;
+
             this.Page.DataBind();
         }
 
-        //protected void GridUsersPosts_PageIndexChanging(object sender, GridViewPageEventArgs e)
-        //{
-        //    var gasStationId = this.currentGasStation.Id;
-        //    var city = currentGasStation.City;
-        //    var chain = currentGasStation.Chain.Name;
-        //    var users = GetUsersByPosts(gasStationId);
-        //    this.GridUsersPosts.PageIndex = e.NewPageIndex;
-        //    this.GridUsersPosts.DataSource = users;
-        //    this.GridUsersPosts.DataBind();
-        //}
+        protected void GridUsersPosts_PageIndexChanging(object sender, GridViewPageEventArgs e)
+        {
+            var gasStationId = this.currentGasStation.Id;
+            var users = GetUsersByPosts(gasStationId);
+            this.GridUsersPosts.PageIndex = e.NewPageIndex;
+            this.GridUsersPosts.DataSource = users;
+            this.GridUsersPosts.DataBind();
+        }
 
-        //private ICollection<UserHistory> GetUsersByPosts(int gasStationId)
-        //{
-        //    return this.data.UsersHistory.All()
-        //                                .Where(x => x.GasStationId == gasStationId)
-        //                                .ToList();
-        //}
+        private ICollection<UserHistory> GetUsersByPosts(int gasStationId)
+        {
+            return this.data.UsersHistory.All()
+                                        .Where(x => x.GasStationId == gasStationId)
+                                        .ToList();
+        }
     }
 }

@@ -39,9 +39,9 @@
                 <div id="mapCanvas" class="pull-right"></div>
             </td>
         </tr>
-<%--        <tr>
-            <td>
-                <div id="userForm" runat="server" class="form-horizontal">
+    </table>
+
+    <div id="userForm" runat="server" class="form-horizontal">
                     <h3>Users postetd to <%#: this.currentGasStation.Name %></h3>
 
                     <asp:GridView ID="GridUsersPosts" CssClass="table" runat="server"
@@ -49,7 +49,7 @@
                         OnPageIndexChanging="GridUsersPosts_PageIndexChanging"
                         AutoGenerateColumns="False">
                         <Columns>
-                            <asp:BoundField DataField="User" HeaderText="Username" />
+                            <asp:BoundField DataField="User.UserName" HeaderText="Username" />
                             <asp:BoundField DataField="DateOfRefuel" HeaderText="Date of refuel" />
                             <asp:BoundField DataField="FuelQuantity" HeaderText="Fuel quantity" />
                             <asp:BoundField DataField="TotalPrice" HeaderText="Total price" />
@@ -58,9 +58,6 @@
                         </Columns>
                     </asp:GridView>
                 </div>
-            </td>
-        </tr>--%>
-    </table>
 
     <asp:TextBox ID="StationLat" runat="server"></asp:TextBox>
     <asp:TextBox ID="StationLon" runat="server"></asp:TextBox>
